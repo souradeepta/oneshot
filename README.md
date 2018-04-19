@@ -8,6 +8,10 @@ This repo will be basically the **roadmap** for next few months, It's April 19th
 with juniors.
 
 Trying to avoid "Oh i wish I found this earlier problem"
+I want to be the guy who understands unicode and is good at regex.
+I want to work my ass off for once.
+
+I know it won't happen in 7 months, but I can atleast get started.
 
 ### Why is this so important for me?
 I am dumb. I might think i suffer from imposter syndrome because it might make me feel good about myself
