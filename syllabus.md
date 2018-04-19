@@ -69,6 +69,8 @@ http://algebrarules.com
 http://www.scs.stanford.edu/14au-cs244b/labs/project.html
 https://lobste.rs/s/t9lqce/distributed_systems_theory_for
 https://blog.hyper.sh/introducing-minio.html
+https://blog.acolyer.org/2016/12/08/just-say-no-to-paxos-overhead-replacing-consensus-with-network-ordering/
+https://lobste.rs/s/broefa/why_messaging_queues_suck
 http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html
 http://wp.sigmod.org/?p=1009
 https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/
@@ -95,6 +97,7 @@ https://lobste.rs/s/dm86sl/pipe_c_simple_thread_safe_fifo_c
 https://lobste.rs/s/pxhx9v/gui_development_is_broken
 https://lobste.rs/s/fvrdql/pipreqs_create_requirements_txt_for_any
 http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
+https://lwn.net/Articles/749992/ (terminal)
 https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assembly-language/
 https://heap-exploitation.dhavalkapil.com
 https://brennan.io/2016/11/14/kernel-dev-ep3/
@@ -126,6 +129,7 @@ http://nullprogram.com/blog/2016/08/03/
 c
 https://www.gamedev.net/articles/programming/general-and-gameplay-programming/bitwise-operations-in-c-r1563
 http://graphics.stanford.edu/~seander/bithacks.html
+http://users.cs.cf.ac.uk/Dave.Marshall/C/
 http://c-faq.com
 do class notes and assignmests for 2 below
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm
@@ -137,6 +141,9 @@ http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language
 http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 py
 https://sircmpwn.github.io/2017/01/13/The-problem-with-Python-3.html
+http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/
+http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/
+https://amir.rachum.com/blog/2017/07/28/python-entry-points/
 makefile
 http://makefiletutorial.com
 
@@ -154,6 +161,7 @@ https://www.ops-class.org/
 ## Software Engineering design and ideas
 https://intoli.com/tour/1
 http://aosabook.org/en/index.html (book)
+https://legacy.gitbook.com/@delftswa (book)
 https://gaps.com/startup-challenge/
 https://lobste.rs/s/vzjalp/why_i_dislike_systemd
 https://veerasundar.com/blog/2018/02/my-git-workflow/
@@ -173,10 +181,12 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing
 
 
 ## Network Programming
+unp v123
 https://lobste.rs/s/0qqymz/building_decentralized_bittorrent
 https://lobste.rs/s/3eyouc/announcing_gittorrent_decentralized
 https://lobste.rs/s/nnmp1n/will_there_be_distributed_http
 https://lobste.rs/s/qzmutx/beaker_experimental_p2p_browser
+http://beej.us/guide/bgnet/
 http://www.alexkyte.me/2016/10/how-bittorrent-really-works.html
 http://samy.pl/pwnat/
 http://www.speirs.org/blog/2017/10/16/building-our-schools-third-generation-wifi-network
@@ -196,13 +206,16 @@ http://amitkapila16.blogspot.in/2017/03/hash-indexes-are-faster-than-btree.html
 
 ## Papers
 https://lobste.rs/s/npo38i/what_are_some_good_interesting_papers_cs
+http://blog.felipe.rs/2017/12/30/papers-ive-read-in-2017/
 
 ## Security
 https://begriffs.com/posts/2016-11-05-advanced-intro-gnupg.html
 https://www.ssh.com/ssh/port
 https://kyleisom.net/articles/ssh_keys.html
 http://futureboy.us/pgp.html
+https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/
 https://blog.appcanary.com/2017/http-security-headers.html
+https://lobste.rs/s/fkosun/portier_spiritual_successor_mozilla
 http://lifepluslinux.blogspot.in/2017/01/look-before-you-paste-from-website-to.html
 
 ## Compilers and Interpreters
@@ -210,6 +223,8 @@ https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages
 https://code.mixpanel.com/2015/02/24/building-a-simple-expression-language/
 https://swtch.com/~rsc/regexp/regexp1.html
 https://qntm.org/files/re/re.html
+http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/
+http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/
 http://prog21.dadgum.com/30.html
 https://lobste.rs/s/bda3cl/how_i_wrote_self_hosting_c_compiler_40_days
 https://lobste.rs/s/pkfdah/parsing_timeline
@@ -229,11 +244,15 @@ https://hackernoon.com/client-network-server-and-application-caching-on-the-web-
 https://www.hpe.com/us/en/insights/articles/the-basics-explaining-kubernetes-mesosphere-and-docker-swarm-1702.html
 https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/
 https://peteris.rocks/blog/htop/
+Webapp with fastcgi and C https://kristaps.bsd.lv/absdcon2016/
 https://blog.janestreet.com/when-bash-scripts-bite/
 http://robertmuth.blogspot.in/2012/08/better-bash-scripting-in-15-minutes.html
+https://ma.ttias.be/bash-loop-first-step-automation-linux/
 https://redditblog.com/2017/05/24/view-counting-at-reddit/
+https://engineering.quora.com/Asynchronous-Programming-in-Python
 http://tech.marksblogg.com/detect-bots-apache-nginx-logs.html
 https://danielmiessler.com/study/tcpdump/
+https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters/
 https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7
 https://spin.atomicobject.com/2016/05/28/log-bash-history/
 https://www.davidpashley.com/articles/writing-robust-shell-scripts/
@@ -241,6 +260,7 @@ https://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/?utm_sourc
 http://www.pixelbeat.org/programming/shell_script_mistakes.html
 http://engineering.khanacademy.org/posts/memcached-fms.htm
 http://www.tldp.org/LDP/abs/html/index.html
+https://lobste.rs/s/kn1f3k/fastcgi_is_pointless_2014
 https://google.github.io/styleguide/shell.xml
 http://mywiki.wooledge.org/BashGuide
 https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
@@ -260,8 +280,13 @@ http://www.pixelbeat.org/docs/coreutils-gotchas.html
 https://www.blinkingcaret.com/2017/02/01/using-openssl-to-create-certificates/
 https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs
 https://blog.tjll.net/building-my-perfect-router/
+https://blog.g3rt.nl/upgrade-your-ssh-keys.html (do to PC key)
 https://webaim.org/blog/user-agent-string-history/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
 ## Tools
 https://brennan.io/2015/01/16/write-a-shell-in-c/
 http://danluu.com/malloc-tutorial/
+https://lobste.rs/s/2c4hvd/bchs_bsd_c_httpd_sqlite
+https://www.drmaciver.com/2015/05/using-tmux-to-test-your-console-applications/
 http://www.ivarch.com/programs/pv.shtml
+## Misc
+https://andrewbrookins.com/django/how-does-djangos-streaminghttpresponse-work-exactly/
