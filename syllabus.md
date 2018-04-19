@@ -1,6 +1,8 @@
 # Syllabus
 TODO: from these blogs, take note of the companies and what they do
 
+New Languages to learn: Go and Scheme(Variant of lisp) and bash ofc
+
 **Primary Topics:**
 - Maths
 - Data Structures and Algorithms
@@ -98,6 +100,7 @@ https://heap-exploitation.dhavalkapil.com
 https://brennan.io/2016/11/14/kernel-dev-ep3/
 strace https://jorge.fbarr.net/2014/01/19/introduction-to-strace/
 http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
+http://www.pixelbeat.org/programming/profiling/
 https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
 https://archive.is/kv8BC
 https://commandcenter.blogspot.in/2012/04/byte-order-fallacy.html
@@ -109,6 +112,7 @@ https://www.jstorimer.com/blogs/workingwithcode/7766119-when-to-use-stderr-inste
 http://groverlab.org/hnbfpr/2017-06-22-fun-with-sys-getrefcount.html
 http://www.catb.org/esr/faqs/things-every-hacker-once-knew/
 https://keon.io/computer-scientists-trivia/ (help to latency numbers)
+http://weeb.ddns.net/0/programming/c_without_standard_library_linux.txt
 blogs
 http://nullprogram.com/blog/2015/09/15/
 http://nullprogram.com/blog/2015/05/15/
@@ -121,7 +125,13 @@ http://nullprogram.com/blog/2016/08/07/
 http://nullprogram.com/blog/2016/08/03/
 c
 https://www.gamedev.net/articles/programming/general-and-gameplay-programming/bitwise-operations-in-c-r1563
+http://graphics.stanford.edu/~seander/bithacks.html
 http://c-faq.com
+do class notes and assignmests for 2 below
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/index.htm
+
 ass
 http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language
 http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
@@ -199,9 +209,12 @@ http://lifepluslinux.blogspot.in/2017/01/look-before-you-paste-from-website-to.h
 https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages
 https://code.mixpanel.com/2015/02/24/building-a-simple-expression-language/
 https://swtch.com/~rsc/regexp/regexp1.html
+https://qntm.org/files/re/re.html
+http://prog21.dadgum.com/30.html
 https://lobste.rs/s/bda3cl/how_i_wrote_self_hosting_c_compiler_40_days
 https://lobste.rs/s/pkfdah/parsing_timeline
 http://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html
+http://mywiki.wooledge.org/ParsingLs
 https://archive.is/Gw3m
 https://code.mixpanel.com/2015/04/28/building-a-not-so-simple-expression-language/
 # Comp Arch
@@ -217,25 +230,33 @@ https://www.hpe.com/us/en/insights/articles/the-basics-explaining-kubernetes-mes
 https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/
 https://peteris.rocks/blog/htop/
 https://blog.janestreet.com/when-bash-scripts-bite/
+http://robertmuth.blogspot.in/2012/08/better-bash-scripting-in-15-minutes.html
 https://redditblog.com/2017/05/24/view-counting-at-reddit/
 http://tech.marksblogg.com/detect-bots-apache-nginx-logs.html
 https://danielmiessler.com/study/tcpdump/
 https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7
+https://spin.atomicobject.com/2016/05/28/log-bash-history/
 https://www.davidpashley.com/articles/writing-robust-shell-scripts/
 https://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+TheGeekStuff+%2528The+Geek+Stuff%2529&utm_content=Google+Reader
+http://www.pixelbeat.org/programming/shell_script_mistakes.html
 http://engineering.khanacademy.org/posts/memcached-fms.htm
+http://www.tldp.org/LDP/abs/html/index.html
+https://google.github.io/styleguide/shell.xml
+http://mywiki.wooledge.org/BashGuide
 https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 ## Overall sound understanding of a system
 https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/
 https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011
 http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
 http://reedbeta.com/blog/programmers-intro-to-unicode/
+https://www.funtoo.org/Category:Linux_Core_Concepts
 http://www.cl.cam.ac.uk/~mgk25/unicode.html#ucs
 https://github.com/reinderien/mimic
 https://codewords.recurse.com/issues/seven/a-history-of-storage-media
 https://lobste.rs/s/oufswu/why_aren_t_we_using_ssh_for_everything
 https://pennsylforniageek.tumblr.com/post/154023102856/why-i-built-my-own-hacking-network-and-you
 https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide
+http://www.pixelbeat.org/docs/coreutils-gotchas.html
 https://www.blinkingcaret.com/2017/02/01/using-openssl-to-create-certificates/
 https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs
 https://blog.tjll.net/building-my-perfect-router/
