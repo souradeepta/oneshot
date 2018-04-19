@@ -70,7 +70,13 @@ http://algebrarules.com
 
 ## Distributed Systems
 http://www.scs.stanford.edu/14au-cs244b/labs/project.html
+http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html
 https://computing.llnl.gov/tutorials/parallel_comp/
+http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/
+http://zeromq.org/community
+https://twistedmatrix.com/trac/
+https://caitiem.com/2017/09/07/getting-started-with-distributed-systems/
+https://github.com/theanalyst/awesome-distributed-systems
 https://lobste.rs/s/t9lqce/distributed_systems_theory_for
 https://blog.hyper.sh/introducing-minio.html
 https://blog.acolyer.org/2016/12/08/just-say-no-to-paxos-overhead-replacing-consensus-with-network-ordering/
@@ -88,6 +94,7 @@ https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html
 https://lobste.rs/s/1vmn2l/distributed_object_storage_with_minio_on
 
 # Programming Languages
+http://papl.cs.brown.edu/2016/index.html uses pyret, but before that learn scheme
 sicp in lisp
 http://dev.stephendiehl.com/hask/
 https://archive.is/9eHSF
@@ -103,18 +110,32 @@ http://discrete.gr/complexity/
 ## Systems Programming
 https://blog.knatten.org/2018/03/09/lvalues-rvalues-glvalues-prvalues-xvalues-help/
 https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
+https://www.worthe-it.co.za/programming/2017/09/19/quick-introduction-to-graphviz.html
 https://lwn.net/Articles/250967/
+https://www.cons.org/cracauer/sigint.html
+https://www.stev.org/post/linuxprogrammingsignalstheeasyway
+http://rachelbythebay.com/w/2014/08/19/fork/
+tools
+https://viewsourcecode.org/snaptoken/kilo/
+https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/
+tools end
+http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html
 https://lobste.rs/s/dm86sl/pipe_c_simple_thread_safe_fifo_c
 https://lobste.rs/s/pxhx9v/gui_development_is_broken
+https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/
+https://prakhar.me/articles/understanding-rpcs/
 https://lobste.rs/s/fvrdql/pipreqs_create_requirements_txt_for_any
 http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
 https://lwn.net/Articles/749992/ (terminal)
 https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assembly-language/
 http://c9x.me/articles/gthreads/intro.html
 http://beej.us/guide/bgipc/html/multi/index.html ipc
+https://techbase.kde.org/Development/Tutorials/D-Bus/Introduction
+https://stackoverflow.com/questions/34315470/ipc-between-c-application-and-python
 https://heap-exploitation.dhavalkapil.com
 https://brennan.io/2016/11/14/kernel-dev-ep3/
 strace https://jorge.fbarr.net/2014/01/19/introduction-to-strace/
+https://blog.packagecloud.io/eng/2016/02/29/how-does-strace-work/
 http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
 http://www.pixelbeat.org/programming/profiling/
 https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
@@ -142,6 +163,8 @@ http://nullprogram.com/blog/2016/08/03/
 c
 https://www.gamedev.net/articles/programming/general-and-gameplay-programming/bitwise-operations-in-c-r1563
 http://graphics.stanford.edu/~seander/bithacks.html
+http://crasseux.com/books/ctutorial/
+https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/
 https://amir.rachum.com/blog/2016/09/17/shared-libraries/ internals(adv)
 https://www.recurse.com/blog/7-understanding-c-by-learning-assembly
 https://blog.regehr.org/archives/1395
@@ -156,6 +179,13 @@ ass
 http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language
 http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 py
+https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
+https://github.com/00111000/Imports-in-Python
+https://pythonwheels.com
+https://nvbn.github.io/2015/10/08/how-thefuck-works/
+https://github.com/spiside/pdb-tutorial
+https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65
+https://lobste.rs/s/uncyzu/why_we_have_both_requirements_txt_setup_py
 https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb
 https://gkbrk.com/2018/02/simple-dbus-service-in-python/
 https://sircmpwn.github.io/2017/01/13/The-problem-with-Python-3.html
@@ -175,9 +205,14 @@ makefile
 http://makefiletutorial.com
 
 ## Operating Systems
+https://cs162.eecs.berkeley.edu
+three easy pieces
 https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram
 https://blog.holbertonschool.com/hack-the-virtual-memory-malloc-the-heap-the-program-break/
 http://rabbitstack.github.io/operating%20systems/linux-containers-internals-part-i/
+http://www.jamesmolloy.co.uk/tutorial_html/
+https://manybutfinite.com/post/what-does-an-idle-cpu-do/
+http://mikeos.sourceforge.net/write-your-own-os.html
 http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html
 http://www.lighterra.com/papers/modernmicroprocessors/ after you finish doing assembly from pres
 https://lobste.rs/s/kmlivw/why_is_kernel_community_replacing
@@ -238,11 +273,26 @@ http://blog.felipe.rs/2017/12/30/papers-ive-read-in-2017/
 https://ils.unc.edu/callee/gopherpaper.htm
 
 ## Security
+cryptography mooc
+http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
+https://medium.com/@thegrugq/the-zen-of-pgp-6f55d44657dd
+http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network
+http://www.roguelynn.com/words/explain-like-im-5-kerberos/
+kerberos not so good, check some
+figure out what is this https://www.reddit.com/r/commandline/comments/8bfxq4/good_free_ssh_shell_accounts/
+good idea https://lobste.rs/s/vy9uj7/web_login_using_ssh
+same idea ssh to login https://archive.is/7qP7i
+https://blog.codeship.com/why-you-shouldnt-roll-your-own-authentication/
+http://web.mit.edu/Kerberos/www/dialogue.html
+https://russellparker.me/post/2018/04/10/how-learning-gpg-is-like-learning-git/
+https://lobste.rs/s/zbzm9m/encrypted_email_is_still_pain_2017 (comment part important)
+https://fly.io/articles/how-rsa-works-tls-foundations/
 https://begriffs.com/posts/2016-11-05-advanced-intro-gnupg.html
 https://www.ssh.com/ssh/port
 https://kyleisom.net/articles/ssh_keys.html
 http://futureboy.us/pgp.html
 https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/
+https://www.ory.sh/run-oauth2-server-open-source-api-security/
 https://blog.appcanary.com/2017/http-security-headers.html
 https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
 http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
@@ -252,7 +302,13 @@ http://lifepluslinux.blogspot.in/2017/01/look-before-you-paste-from-website-to.h
 ## Compilers and Interpreters
 https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages
 https://code.mixpanel.com/2015/02/24/building-a-simple-expression-language/
+https://tomassetti.me/parsing-in-python/
+http://pythonextensionpatterns.readthedocs.io/en/latest/index.html
+https://www.devdungeon.com/content/working-binary-data-python
+https://github.com/geekodour/pysheeet
+http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/#what-is-a-dsl-and-why-should-you-care
 https://swtch.com/~rsc/regexp/regexp1.html
+https://blog.acolyer.org/2017/08/15/writing-parsers-like-it-is-2017/
 https://qntm.org/files/re/re.html
 https://norasandler.com/2017/11/29/Write-a-Compiler.html
 https://www.tedunangst.com/flak/post/yaity
@@ -260,6 +316,7 @@ https://kristerw.blogspot.in/2017/08/writing-gcc-backend_4.html gcc backend
 http://www.cs.cornell.edu/~asampson/blog/llvm.html LLVM FOR GRADS
 http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/
 https://jaseemabid.github.io/2017/07/04/compiler.html
+http://thinkingeek.com/gcc-tiny/
 http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/
 http://prog21.dadgum.com/30.html
 https://lobste.rs/s/bda3cl/how_i_wrote_self_hosting_c_compiler_40_days
@@ -272,6 +329,7 @@ https://code.mixpanel.com/2015/04/28/building-a-not-so-simple-expression-languag
 http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 
 ## Systems Admin Stuff
+https://github.com/kilimchoi/engineering-blogs (select good blogs)
 https://www.docs.google.com/spreadsheets/d/1FBr20VIOePQH2aAH2a_6irvdB1NOTHZaD8U5e2MOMiw/pub?output=html
 http://www.opsschool.org/en/latest/introduction.html
 http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-for-local-web-development.html
@@ -300,17 +358,21 @@ https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-clust
 https://danielmiessler.com/study/tcpdump/
 https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/
 https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters/
+http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/ 
 https://blog.kintoandar.com/2018/01/Building-healthier-containers.html
 http://www.tedinski.com/2018/04/03/why-containers.html
 http://blog.z3bra.org/2016/03/hand-crafted-containers.html
 https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7
 https://spin.atomicobject.com/2016/05/28/log-bash-history/
+learn curl
 https://www.davidpashley.com/articles/writing-robust-shell-scripts/
 https://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+TheGeekStuff+%2528The+Geek+Stuff%2529&utm_content=Google+Reader
 http://www.pixelbeat.org/programming/shell_script_mistakes.html
 http://engineering.khanacademy.org/posts/memcached-fms.htm
 http://www.tldp.org/LDP/abs/html/index.html
 https://lobste.rs/s/elmdha/memcached_redis
+https://monades.roperzh.com/weekly-command-processing-json-with-jq/
+learn sed, awk
 https://lobste.rs/s/kn1f3k/fastcgi_is_pointless_2014
 https://google.github.io/styleguide/shell.xml
 http://mywiki.wooledge.org/BashGuide
@@ -319,6 +381,8 @@ https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-pro
 https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/
 https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011
 http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
+https://unicode.org/reports/tr15/
+https://www.b-list.org/weblog/2017/sep/05/how-python-does-unicode/
 http://reedbeta.com/blog/programmers-intro-to-unicode/
 https://www.funtoo.org/Category:Linux_Core_Concepts
 http://www.cl.cam.ac.uk/~mgk25/unicode.html#ucs
@@ -335,13 +399,22 @@ https://blog.tjll.net/building-my-perfect-router/
 https://blog.g3rt.nl/upgrade-your-ssh-keys.html (do to PC key)
 https://webaim.org/blog/user-agent-string-history/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
 ## Tools
+https://qntm.org/files/re/re.html
+https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags
+https://regexone.com
+http://www.cs.umsl.edu/~sanjiv/classes/cs2750/lectures/re.pdf
 https://brennan.io/2015/01/16/write-a-shell-in-c/
 calc http://www.free-test-online.com/binary/signed_converter.html
 http://danluu.com/malloc-tutorial/
 https://lobste.rs/s/2c4hvd/bchs_bsd_c_httpd_sqlite
+https://learnbchs.org/index.html
+http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
+https://nickdrane.com/build-your-own-regex/
+http://www.oilshell.org/blog/2017/09/19.html
 https://jugad2.blogspot.in/2016/04/bsplit-binary-file-split-utility-in.html
 http://www.unknownroad.com/rtfm/gdbtut/gdbtoc.html
 https://www.drmaciver.com/2015/05/using-tmux-to-test-your-console-applications/
+good blog for scraping resourcces http://www.automatingosint.com/blog/
 http://www.ivarch.com/programs/pv.shtml
 ## Misc
 https://andrewbrookins.com/django/how-does-djangos-streaminghttpresponse-work-exactly/
