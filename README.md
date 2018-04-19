@@ -7,6 +7,8 @@ I am a 3rd year computer science student and i am dropping a year(will continue 
 This repo will be basically the **roadmap** for next few months, It's April 19th 2018. I'll be continuing college January next year
 with juniors.
 
+Trying to avoid "Oh i wish I found this earlier problem"
+
 ### Why is this so important for me?
 I am dumb. I might think i suffer from imposter syndrome because it might make me feel good about myself
 sometimes but bottom line is I AM ULTRA DUMBO and I've been dumb ever since.
