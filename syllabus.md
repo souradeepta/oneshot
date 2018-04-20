@@ -61,13 +61,16 @@ blog https://betterexplained.com/cheatsheet/
 LA http://immersivemath.com/ila/index.html
 https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71
 http://exupero.org/hazard/post/prime-modulo/
+https://www.codechef.com/wiki/tutorial-number-theory/
 Grimaldi
 How to prove it
 http://fabiensanglard.net/floating_point_visually_explained/
+http://floating-point-gui.de
 https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html
 https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
 http://algebrarules.com
 http://www.introtcs.org/public/index.html
+graph theory https://www.youtube.com/user/DrSaradaHerke/playlists?sort=dd&view=1&shelf_id=0
 
 ## Distributed Systems
 http://www.scs.stanford.edu/14au-cs244b/labs/project.html
@@ -76,6 +79,7 @@ https://bravenewgeek.com/dissecting-message-queues/
 http://nanomsg.org/
 http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html
 https://computing.llnl.gov/tutorials/parallel_comp/
+http://www.pixelbeat.org/docs/unix-parallel-tools.html
 case study http://book.mixu.net/distsys/single-page.html
 http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/
 https://github.com/theanalyst/awesome-distributed-systems
@@ -107,30 +111,49 @@ https://lobste.rs/s/1vmn2l/distributed_object_storage_with_minio_on
 
 # Programming Languages
 http://papl.cs.brown.edu/2016/index.html uses pyret, but before that learn scheme
-sicp in lisp
+sicp in lisp (scheme)
+sicp mooc https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 http://dev.stephendiehl.com/hask/
+http://articulate-lisp.com ( not gonna do, quicklisp)
 https://archive.is/9eHSF
 https://skim.la/gnu_smalltalk_koans/
 
 ## Data Structures and Algorithms
+mooc https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
+http://cs-fundamentals.com/c-programming/recursion-in-c.php
 https://btholt.github.io/four-semesters-of-cs-part-two/
 https://sinon.org/algorithms/#data-structures
+http://faculty.simpson.edu/lydia.sinapova/www/cmsc250/LN250_Weiss/L14-RecRel.htm
+https://unterwaditzer.net/2016/sync-algorithm.html
+https://blog.pramp.com/how-to-solve-any-dynamic-programming-problem-603b6fbbd771
+graph
+https://www.redblobgames.com/pathfinding/a-star/implementation.html
 https://brennan.io/2017/04/21/linked-lists-are-still-hard/
+http://zork.net/~st/jottings/sais.html
+http://damienkatz.net/2017/05/23/notes-on-building-noise-a-json-search-engine-written-in-rust/ (tools)
 http://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software
 https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
 http://discrete.gr/complexity/
+project euler python solutions 
+https://github.com/nayuki/Project-Euler-solutions/tree/master/python
+once you're done with DS&algo do this in two days: 
+https://interactivepython.org/runestone/static/pythonds/index.html
 http://opendatastructures.org/ods-cpp/
 http://wykobi.com/tutorial.html#Introduction
 
 ## Systems Programming
 cpp http://yosefk.com/c++fqa/index.html
 cpp http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html
+https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood
 https://www.cs.cmu.edu/~213/schedule.html this mooc with pres book
 http://sites.harvard.edu/~lib215/
 fun
 https://tylercipriani.com/blog/2014/05/22/creating-baller-useful-motd-ascii-art/
 linux
 https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know
+http://cs.lmu.edu/~ray/notes/introconcurrency/
+primer https://assets.bitbashing.io/papers/concurrency-primer.pdf
+http://yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html
 https://0xax.gitbooks.io/linux-insides/content/
 https://jvns.ca/blog/2017/11/20/groups/
 http://nickdesaulniers.github.io/blog/2017/05/16/submitting-your-first-patch-to-the-linux-kernel-and-responding-to-feedback/
@@ -151,6 +174,7 @@ https://www.worthe-it.co.za/programming/2017/09/19/quick-introduction-to-graphvi
 https://lwn.net/Articles/250967/
 https://www.cons.org/cracauer/sigint.html
 https://www.stev.org/post/linuxprogrammingsignalstheeasyway
+https://gist.github.com/aspyct/3462238
 http://www.linuxprogrammingblog.com/all-about-linux-signals?page=show
 http://rachelbythebay.com/w/2014/08/19/fork/
 tools
@@ -163,9 +187,12 @@ https://lobste.rs/s/pxhx9v/gui_development_is_broken
 https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/
 https://prakhar.me/articles/understanding-rpcs/
 http://eudyptula-challenge.org/
+https://kernelnewbies.org
 https://lobste.rs/s/fvrdql/pipreqs_create_requirements_txt_for_any
 http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
 https://lwn.net/Articles/749992/ (terminal)
+http://zork.net/~st/jottings/Notes_on_Terminal_Emulation.html
+https://donniewest.com/build-your-own-minimal-and-scriptable-terminal
 https://www.uninformativ.de/blog/postings/2017-04-02/0/POSTING-en.html
 https://anarc.at/blog/2018-04-12-terminal-emulators-1/
 https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assembly-language/
@@ -203,12 +230,32 @@ http://nullprogram.com/blog/2016/09/03/
 http://nullprogram.com/blog/2016/08/07/
 http://nullprogram.com/blog/2016/08/03/
 c
+http://fuckingfunctionpointers.com
+c puzzles http://www.gowrikumar.com/c/index.php
+https://blogs.oracle.com/linux/the-ksplice-pointer-challenge-v2
+https://fau.re/blog/20140330_vgdb.html
+http://seenaburns.com/building-c-programs/
+https://blog.erratasec.com/2017/03/assert-in-hands-of-bad-coders.html
+tool https://cdecl.org
+https://matt.sh/howto-c
+https://spin.atomicobject.com/2017/03/08/message-queue-for-c/
+c review https://www.cs.uic.edu/~jbell/CourseNotes/C_Programming/index.html
+building c projects http://nethack4.org/blog/building-c.html
+http://www.goldsborough.me/bits/c++/low-level/problems/2015/10/11/23-52-02-bit_manipulation/
+http://www.goldsborough.me/c/c++/linker/2016/03/30/19-34-25-internal_and_external_linkage_in_c++/
+https://github.com/keon/awesome-bits
 https://www.gamedev.net/articles/programming/general-and-gameplay-programming/bitwise-operations-in-c-r1563
 http://graphics.stanford.edu/~seander/bithacks.html
+hackers delight?
+writing c libraries https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html
+https://renenyffenegger.ch/notes/development/languages/C-C-plus-plus/GCC/create-libraries/index
+https://www.pixelstech.net/article/1390482950-do-%7B-%7D-while-%280%29-in-macros
 http://crasseux.com/books/ctutorial/
 https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/
 https://amir.rachum.com/blog/2016/09/17/shared-libraries/ internals(adv)
+http://www.catb.org/esr/structure-packing/
 https://www.recurse.com/blog/7-understanding-c-by-learning-assembly
+https://www.recurse.com/blog/5-learning-c-with-gdb
 https://blog.regehr.org/archives/1395
 http://users.cs.cf.ac.uk/Dave.Marshall/C/
 http://c-faq.com
@@ -244,6 +291,7 @@ p2: https://web.archive.org/web/20160314033730/http://blog.carlosgaldino.com/201
 p3: https://web.archive.org/web/20160314033758/http://blog.carlosgaldino.com:80/2015/12/03/defusing-a-binary-bomb-with-gdb-part-3.html
 
 makefile
+http://gromnitsky.users.sourceforge.net/articles/notes-for-new-make-users/
 http://makefiletutorial.com
 
 ## Operating Systems
@@ -254,6 +302,19 @@ https://blog.holbertonschool.com/hack-the-virtual-memory-malloc-the-heap-the-pro
 http://rabbitstack.github.io/operating%20systems/linux-containers-internals-part-i/
 http://www.jamesmolloy.co.uk/tutorial_html/
 https://manybutfinite.com/post/what-does-an-idle-cpu-do/
+arch
+http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
+https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/
+https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming#10-floating-point-and-simd
+https://blog.demofox.org/2017/11/21/floating-point-precision/
+bootloader http://3zanders.co.uk/2017/10/13/writing-a-bootloader/
+http://x86asm.net/articles/uefi-programming-first-steps/
+mooc if you have time https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_
+http://gghh.name/dibtp/2015/11/10/function-calls-in-c-the-boring-specs.html P1
+http://gghh.name/dibtp/2015/11/11/function-calls-in-c-practical-example.html P2
+https://manybutfinite.com/post/what-does-an-idle-cpu-do/
+https://blog.erratasec.com/2016/11/how-to-teach-endian.html
+arch
 https://www.joyent.com/blog/virtualizing-nics
 http://mikeos.sourceforge.net/write-your-own-os.html
 http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html
@@ -291,8 +352,10 @@ unp v123
 dns and bind, furos
 first learn to use your own vpn and then also, learn to use tor
 http://davebucklin.com/play/2018/03/31/how-to-gopher.html
+concurrent realworld servers: https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/
 https://lobste.rs/s/0qqymz/building_decentralized_bittorrent
 https://lobste.rs/s/5ewzcx/ssh_vs_openvpn_for_tunneling
+https://capnproto.org/rpc.html
 http://www.root.org/ip-development/
 https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/
 https://karla.io/2016/04/30/ssh-for-fun-and-profit.html
@@ -392,6 +455,7 @@ http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-inter
 http://markmims.com/2015/06/01/ssh-tips.html
 https://jpmens.net/2018/03/25/alerting-on-ssh-logins/
 http://cryptopals.com
+https://github.com/shellphish/how2heap
 https://www.foo.be/2016/12/OpenPGP-really-works
 http://nullprogram.com/blog/2017/03/12/
 http://www.roguelynn.com/words/explain-like-im-5-kerberos/
@@ -421,9 +485,12 @@ https://lobste.rs/s/fkosun/portier_spiritual_successor_mozilla
 http://lifepluslinux.blogspot.in/2017/01/look-before-you-paste-from-website-to.html
 
 ## Compilers and Interpreters
+I think a valuable takeaway point for those interested in writing their own compiler is to use appropriate tools to get to the end goal as quickly as possible. Lexing, parsing, and code generation are all very interesting and challenging problems on their own. However, when writing your first compiler none of these stages should slow you down. Then, you can focus on the design of the internal representation and optimizations, which IMO will gain you better understanding of compilers.
+
 https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages
 http://c9x.me/compile/bib/
 https://code.mixpanel.com/2015/02/24/building-a-simple-expression-language/
+https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/info (the mooc i have downloaded videos)
 https://tomassetti.me/parsing-in-python/
 http://pythonextensionpatterns.readthedocs.io/en/latest/index.html
 https://www.devdungeon.com/content/working-binary-data-python
@@ -436,6 +503,10 @@ https://norasandler.com/2017/11/29/Write-a-Compiler.html
 https://www.tedunangst.com/flak/post/yaity
 https://kristerw.blogspot.in/2017/08/writing-gcc-backend_4.html gcc backend
 http://www.cs.cornell.edu/~asampson/blog/llvm.html LLVM FOR GRADS
+https://blog.regehr.org/archives/1453 (llvm source)
+https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/
+http://www.tedinski.com/2018/03/13/how-compilers-are-designed.html
+https://www.tedunangst.com/flak/post/yaity
 http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/
 https://jaseemabid.github.io/2017/07/04/compiler.html
 http://thinkingeek.com/gcc-tiny/
@@ -445,6 +516,7 @@ http://prog21.dadgum.com/30.html
 https://lobste.rs/s/bda3cl/how_i_wrote_self_hosting_c_compiler_40_days
 https://lobste.rs/s/pkfdah/parsing_timeline
 http://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html
+https://github.com/spencertipping/jit-tutorial
 http://mywiki.wooledge.org/ParsingLs
 https://archive.is/Gw3m
 https://code.mixpanel.com/2015/04/28/building-a-not-so-simple-expression-language/
@@ -544,6 +616,9 @@ https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-pro
 ## Overall sound understanding of a system
 https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/
 https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011
+https://www.youtube.com/watch?v=-oYfv794R9s&index=2&list=PLhQN_EIoIKBRA0yVTsWDoJzEKZwJY0p3l
+https://www.youtube.com/watch?v=HhtecBhM_oA&index=1&list=PLD71F13843965439D
+http://cldr.unicode.org
 http://utf8everywhere.org/
 http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
 https://unicode.org/reports/tr15/

@@ -15,6 +15,8 @@ I know it won't happen in 7 months, but I can atleast get started.
 
 unspoil myself because I've been using ORMs all the time!
 
+I lost my curosity, get it back
+
 ### Why is this so important for me?
 I am dumb. I might think i suffer from imposter syndrome because it might make me feel good about myself
 sometimes but bottom line is I AM ULTRA DUMBO and I've been dumb ever since.
