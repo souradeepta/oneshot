@@ -1,0 +1,63 @@
+## Notes
+- Do not look at the source code, try to think about it on a white board first. You’re doing this for yourself.
+- Matching string sequences is one of the most common problems you’ll face as a programmer.
+- Condition your brain to think in the world of data structures.
+- You can time it to see how fast the computation takes, run benchmarks, much great learning! wow!
+- Lots of places where you can encounter pitfalls, if you decide to use C you will learn a great deal about memory management!
+
+## Some Services that can help
+- [Generates Avatars based on name like google contacts](https://ui-avatars.com/)
+- [Auth System - loginwith](https://login-with.com)
+- [short uuids](http://hashids.org/python/)
+
+## Ideas
+- Calculator in ASM
+- Interpreter
+- Compiler
+- Markov-chain bot
+- Basic unix shell
+    - For each command you have to fork, exec, and then wait for the process to finish.
+    - Once there’s a shell that can handle execution of single commands, it can be interesting to implement pipes and file redirection with dup2, or shell metacharacters like $! with the wait() syscall. Around this time it’s also a good chance to learn about zombies and orphans, and how double forking can be used to daemonize a process.
+- Pick an RFC like RFC4648 and go down the rabbit hole implementing it.
+- Implement a debugging socket proxy.
+- irc bot
+- Paxos
+- A database
+- toy distributed kv store
+    - Start by leveraging plenty of existing tools, but over time replacing them with pieces that you’re curious about the details of.
+    - Start with something like a few instances of memcache and create a central coordinator that maps keys to servers, then have each instance run its own coordinator that has peer discovery and leader election built in
+- A real time networked game across the Internet
+- A type system
+- A process scheduler
+- A gpu accelerated math problem
+- An operating system for a microcomputer with less than 640k ram
+- A gossip protocol
+- A Quine
+- An OCR engine
+    - [OCR Server](https://realpython.com/setting-up-a-simple-ocr-server/)
+- A chess opponent
+- A path finding algorithm
+- A JIT
+- Markdown Converter
+    - [turndown](https://github.com/domchristie/turndown)
+- Write a Brainfuck interpreter
+- A crypto algorithm
+- Regular Expression Matcher
+    - [by Rob Pike!](http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+- A web app scalable to 100,000 simultaneous users
+- Full text search engine.
+- Write a gopher client
+    - [cgo](https://github.com/kieselsteini/cgo)
+    - [little gopher client](http://runtimeterror.com/tools/gopher/)
+- Implement Ukkonen’s Suffix Tree Algorithm
+    -  [Stackoverflow](https://stackoverflow.com/questions/9452701/ukkonens-suffix-tree-algorithm-in-plain-english)
+- Implement Bloom Filter
+    - [Wiki](https://en.wikipedia.org/wiki/Bloom_filter)
+- Implement Rope
+    - [Wiki](https://en.wikipedia.org/wiki/Rope_(data_structure))
+- Implement AVL Tree
+    - [Wiki](https://en.wikipedia.org/wiki/AVL_tree)
+- git diagram maker
+    - [take help from this](https://zwischenzugs.com/2018/03/08/create-your-own-git-diagrams/)
+- Decentralized Search Engine
+    - [Help](https://lobste.rs/s/0qqymz/building_decentralized_bittorrent)

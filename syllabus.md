@@ -3,6 +3,8 @@ TODO: from these blogs, take note of the companies and what they do
 
 New Languages to learn: Go and Scheme(Variant of lisp) and bash ofc
 
+## Good 
+
 **Primary Topics:**
 - Maths
 - Data Structures and Algorithms
@@ -67,7 +69,7 @@ How to prove it
 http://fabiensanglard.net/floating_point_visually_explained/
 http://floating-point-gui.de
 https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html
-https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html (PAPER)
 http://algebrarules.com
 http://www.introtcs.org/public/index.html
 graph theory https://www.youtube.com/user/DrSaradaHerke/playlists?sort=dd&view=1&shelf_id=0
@@ -78,6 +80,8 @@ http://nil.csail.mit.edu/6.824/2015/notes/paxos-code.html
 https://bravenewgeek.com/dissecting-message-queues/
 http://nanomsg.org/
 http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html
+PROJECTS: http://www.cs.cornell.edu/courses/cs5412/2012sp/projects.htm
+PROJECTS: http://blough.ece.gatech.edu/6102/past_projects.html
 https://computing.llnl.gov/tutorials/parallel_comp/
 http://www.pixelbeat.org/docs/unix-parallel-tools.html
 case study http://book.mixu.net/distsys/single-page.html
@@ -112,7 +116,9 @@ https://lobste.rs/s/1vmn2l/distributed_object_storage_with_minio_on
 # Programming Languages
 http://papl.cs.brown.edu/2016/index.html uses pyret, but before that learn scheme
 sicp in lisp (scheme)
-sicp mooc https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
+- [SICP mooc]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+- [SICP Guide+MOOC](https://github.com/geekodour/sicp-course)
+
 http://dev.stephendiehl.com/hask/
 http://articulate-lisp.com ( not gonna do, quicklisp)
 https://archive.is/9eHSF
@@ -123,11 +129,20 @@ mooc https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0
 http://cs-fundamentals.com/c-programming/recursion-in-c.php
 https://btholt.github.io/four-semesters-of-cs-part-two/
 https://sinon.org/algorithms/#data-structures
+https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401
 http://faculty.simpson.edu/lydia.sinapova/www/cmsc250/LN250_Weiss/L14-RecRel.htm
 https://unterwaditzer.net/2016/sync-algorithm.html
+know what tla+ is, tutorials are there on lobster
+https://tylercipriani.com/blog/2017/07/09/the-rsync-algorithm-in-python/
+python algos: https://github.com/harishvc/challenges#data-structures-algorithms--concepts
+cpp algos: https://github.com/PetarV-/Algorithms
+viz: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 https://blog.pramp.com/how-to-solve-any-dynamic-programming-problem-603b6fbbd771
+CP HARD: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=118
 graph
 https://www.redblobgames.com/pathfinding/a-star/implementation.html
+https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/
+http://ltr.wtf/explained/intro-bidirectional-algorithm/
 https://brennan.io/2017/04/21/linked-lists-are-still-hard/
 http://zork.net/~st/jottings/sais.html
 http://damienkatz.net/2017/05/23/notes-on-building-noise-a-json-search-engine-written-in-rust/ (tools)
@@ -142,11 +157,14 @@ http://opendatastructures.org/ods-cpp/
 http://wykobi.com/tutorial.html#Introduction
 
 ## Systems Programming
+BOOK: Advanced Programming in the Unix Environment
+BOOK2: The Linux Programming Interface
 cpp http://yosefk.com/c++fqa/index.html
 cpp http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html
 https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood
 https://www.cs.cmu.edu/~213/schedule.html this mooc with pres book
 http://sites.harvard.edu/~lib215/
+https://github.com/Aliireeza/Educational-Samples
 fun
 https://tylercipriani.com/blog/2014/05/22/creating-baller-useful-motd-ascii-art/
 linux
@@ -353,9 +371,11 @@ dns and bind, furos
 first learn to use your own vpn and then also, learn to use tor
 http://davebucklin.com/play/2018/03/31/how-to-gopher.html
 concurrent realworld servers: https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/
+https://github.com/lmatteis/peer-tweet
 https://lobste.rs/s/0qqymz/building_decentralized_bittorrent
 https://lobste.rs/s/5ewzcx/ssh_vs_openvpn_for_tunneling
 https://capnproto.org/rpc.html
+https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol
 http://www.root.org/ip-development/
 https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/
 https://karla.io/2016/04/30/ssh-for-fun-and-profit.html
@@ -441,11 +461,19 @@ https://archive.org/details/UCBerkeley_Course_Computer_Science_186 (have this do
 http://amitkapila16.blogspot.in/2017/03/hash-indexes-are-faster-than-btree.html
 
 ## Papers
-https://lobste.rs/s/npo38i/what_are_some_good_interesting_papers_cs
-http://blog.felipe.rs/2017/12/30/papers-ive-read-in-2017/
-https://ils.unc.edu/callee/gopherpaper.htm
-https://gnunet.org/grothoff2017habilitation
-
+- https://lobste.rs/s/npo38i/what_are_some_good_interesting_papers_cs
+- http://blog.felipe.rs/2017/12/30/papers-ive-read-in-2017/
+- https://ils.unc.edu/callee/gopherpaper.htm
+- https://gnunet.org/grothoff2017habilitation
+- [HPC vs MPI](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it.html)
+- [History of init systems](https://blog.darknedgy.net/technology/2015/09/05/0/)
+- Bit Torrent, TOTP RFC.
+- [Case Against Python3](https://learnpythonthehardway.org/book/nopython3.html)
+- [Goto Considered Harmful](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html)
+- [Time, clocks, and the ordering of events in a distributed system](https://amturing.acm.org/p558-lamport.pdf)
+- [SkipLists](https://homepage.cs.uiowa.edu/~ghosh/skip.pdf)
+- [Dynamo: Amazon’s Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
+- 
 ## Security
 cryptography mooc
 http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
@@ -454,6 +482,7 @@ https://natmchugh.blogspot.in/2015/02/create-your-own-md5-collisions.html
 http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network
 http://markmims.com/2015/06/01/ssh-tips.html
 https://jpmens.net/2018/03/25/alerting-on-ssh-logins/
+https://github.com/marcan/takeover.sh (fun)
 http://cryptopals.com
 https://github.com/shellphish/how2heap
 https://www.foo.be/2016/12/OpenPGP-really-works
@@ -605,6 +634,7 @@ https://githubengineering.com/kubernetes-at-github/
 https://zwischenzugs.com/2017/10/27/ten-things-i-wish-id-known-before-using-vagrant/
 https://www.vidarholen.net/contents/blog/?p=479
 https://blog.scottlowe.org/2015/05/06/quick-intro-lxd/
+Learn Virtulization , KVM etc nd containers
 http://www.tldp.org/LDP/abs/html/index.html
 https://lobste.rs/s/elmdha/memcached_redis
 https://monades.roperzh.com/weekly-command-processing-json-with-jq/
@@ -644,7 +674,8 @@ https://blog.g3rt.nl/upgrade-your-ssh-keys.html (do to PC key)
 https://webaim.org/blog/user-agent-string-history/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
 ## Tools
 https://qntm.org/files/re/re.html
-
+http://duc.zevv.nl dude where are my bytes
+busybox provides the functionality of many common unix tools in a single executable. It’s super tiny which makes it great for embedded development. Or sneaking onto someone else’s Linux system, apparently.
 https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags
 https://regexone.com
 http://www.cs.umsl.edu/~sanjiv/classes/cs2750/lectures/re.pdf
