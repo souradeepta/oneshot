@@ -67,15 +67,26 @@ http://fabiensanglard.net/floating_point_visually_explained/
 https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html
 https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
 http://algebrarules.com
+http://www.introtcs.org/public/index.html
 
 ## Distributed Systems
 http://www.scs.stanford.edu/14au-cs244b/labs/project.html
+http://nil.csail.mit.edu/6.824/2015/notes/paxos-code.html
+https://bravenewgeek.com/dissecting-message-queues/
+http://nanomsg.org/
 http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html
 https://computing.llnl.gov/tutorials/parallel_comp/
+case study http://book.mixu.net/distsys/single-page.html
 http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/
+https://github.com/theanalyst/awesome-distributed-systems
 http://zeromq.org/community
+http://zguide.zeromq.org/page:all
+quik interview notes: https://github.com/aphyr/distsys-class
+http://ssougou.blogspot.in/2017/09/cap-theorem-is-mostly-misunderstood.html
 https://twistedmatrix.com/trac/
 http://muratbuffalo.blogspot.in/2017/12/wpaxos-wide-area-network-paxos-protocol.html
+http://heather.miller.am/teaching/cs7680/ mooc
+book of this mooc http://dist-prog-book.com/chapter/1/rpc.html
 https://caitiem.com/2017/09/07/getting-started-with-distributed-systems/
 https://github.com/theanalyst/awesome-distributed-systems
 https://lobste.rs/s/t9lqce/distributed_systems_theory_for
@@ -108,13 +119,18 @@ https://brennan.io/2017/04/21/linked-lists-are-still-hard/
 http://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software
 https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
 http://discrete.gr/complexity/
+http://opendatastructures.org/ods-cpp/
+http://wykobi.com/tutorial.html#Introduction
 
 ## Systems Programming
+cpp http://yosefk.com/c++fqa/index.html
+cpp http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html
 https://www.cs.cmu.edu/~213/schedule.html this mooc with pres book
 http://sites.harvard.edu/~lib215/
 fun
 https://tylercipriani.com/blog/2014/05/22/creating-baller-useful-motd-ascii-art/
 linux
+https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know
 https://0xax.gitbooks.io/linux-insides/content/
 https://jvns.ca/blog/2017/11/20/groups/
 http://nickdesaulniers.github.io/blog/2017/05/16/submitting-your-first-patch-to-the-linux-kernel-and-responding-to-feedback/
@@ -344,6 +360,18 @@ https://blog.cloudflare.com/epbf_sockets_hop_distance/
 ## Database
 https://neo4j.com/blog/real-time-recommendation-engine-data-science/
 https://matt.sh/what-is-redis
+http://tatiyants.com/postgres-query-plan-visualization/
+https://github.com/simon-engledew/gocmdpev
+https://www.codeproject.com/articles/359654/important-database-designing-rules-which-i-fo
+https://pgexercises.com/
+http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html
+https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
+http://blog.dancrisan.com/a-tiny-intro-to-database-systems
+http://www.postgresguide.com/
+http://use-the-index-luke.com/
+https://www.pgcasts.com/
+http://coding-geek.com/how-databases-work/
+https://cstack.github.io/db_tutorial/
 http://www.interdb.jp/pg/index.html
 http://tech.marksblogg.com/sqlite3-tutorial-and-guide.html
 https://archive.org/details/UCBerkeley_Course_Computer_Science_186 (have this downloaded) (1lec=1.30hrs)
@@ -359,6 +387,7 @@ https://gnunet.org/grothoff2017habilitation
 cryptography mooc
 http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
 https://medium.com/@thegrugq/the-zen-of-pgp-6f55d44657dd
+https://natmchugh.blogspot.in/2015/02/create-your-own-md5-collisions.html
 http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network
 http://markmims.com/2015/06/01/ssh-tips.html
 https://jpmens.net/2018/03/25/alerting-on-ssh-logins/
@@ -393,6 +422,7 @@ http://lifepluslinux.blogspot.in/2017/01/look-before-you-paste-from-website-to.h
 
 ## Compilers and Interpreters
 https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages
+http://c9x.me/compile/bib/
 https://code.mixpanel.com/2015/02/24/building-a-simple-expression-language/
 https://tomassetti.me/parsing-in-python/
 http://pythonextensionpatterns.readthedocs.io/en/latest/index.html
@@ -409,6 +439,7 @@ http://www.cs.cornell.edu/~asampson/blog/llvm.html LLVM FOR GRADS
 http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/
 https://jaseemabid.github.io/2017/07/04/compiler.html
 http://thinkingeek.com/gcc-tiny/
+http://www.craftinginterpreters.com/contents.html
 http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/
 http://prog21.dadgum.com/30.html
 https://lobste.rs/s/bda3cl/how_i_wrote_self_hosting_c_compiler_40_days
@@ -513,8 +544,11 @@ https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-pro
 ## Overall sound understanding of a system
 https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/
 https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011
+http://utf8everywhere.org/
 http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
 https://unicode.org/reports/tr15/
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+https://shkspr.mobi/blog/2017/05/unicode-is-hard/
 https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/
 https://www.b-list.org/weblog/2017/sep/05/how-python-does-unicode/
 http://reedbeta.com/blog/programmers-intro-to-unicode/
