@@ -35,6 +35,8 @@ after list done just assign projects to this list
 - November
 - December
 
+-----------------------
+
 **Primary Topics:**
 - Maths
 - Data Structures and Algorithms
@@ -116,6 +118,8 @@ after list done just assign projects to this list
 - [ ] [All about markov model](https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71)
 - [ ] [Mental Math trick](http://exupero.org/hazard/post/prime-modulo/)
 
+-----------------------
+
 ## Distributed Systems
 
 know what tla+ is, tutorials are there on lobster
@@ -155,7 +159,8 @@ know what tla+ is, tutorials are there on lobster
     - [ ] [Industrial Distributed Systems](http://book.mixu.net/distsys/single-page.html)
     - [ ] [Decentralized Commenting System IPFS](https://lobste.rs/s/objilw/how_create_fairly_decentralized)
 
-# Programming Languages
+-----------------------
+## Programming Languages
 ### Level 0
 - [ ] [Scheme Youtube Playlist](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
 - [ ] [SICP Guide+MOOC](https://github.com/geekodour/sicp-course)
@@ -168,6 +173,7 @@ If you decide to learn haskell
 - [ ] [Good Book on haskell](http://dev.stephendiehl.com/hask/)
 - [ ] [Very Good Book on haskell](https://drive.google.com/open?id=1Hkm0S-meMDZUU-oRSP2oD-NEBLVbA4jB)
 
+-----------------------
 ## Data Structures and Algorithms
 
 ### Reference
@@ -176,11 +182,13 @@ If you decide to learn haskell
 - Implementations
     - [python algos](https://github.com/harishvc/challenges#data-structures-algorithms--concepts)
     - [cpp algos](https://github.com/PetarV-/Algorithms)
+    - [Project euler sols in python](https://github.com/nayuki/Project-Euler-solutions/tree/master/python)
 
 ### Level 0
 - Blogpost
     - [ ] [Recursion Types in C](http://cs-fundamentals.com/c-programming/recursion-in-c.php)
     - [ ] [Graphs](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
+    - [ ] [Long Compexity Post](http://discrete.gr/complexity/)
 - Books
     - [ ] [Interactive DSA in Python](https://interactivepython.org/runestone/static/pythonds/index.html)
     - [ ] [ODS in CPP](http://opendatastructures.org/ods-cpp/)
@@ -192,51 +200,56 @@ If you decide to learn haskell
     - [More on Master Theorem](http://rosalind.info/glossary/algo-master-theorem/)
     - [GeeksForGeeks Set 1-5](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/)
     - [Solving Recurrence](http://faculty.simpson.edu/lydia.sinapova/www/cmsc250/LN250_Weiss/L14-RecRel.htm)
+    - [Link lists are still hard](https://brennan.io/2017/04/21/linked-lists-are-still-hard/)
 - MOOCs
     - [MIT 6-006]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - Books
     - Introduction to Algorithms
 
-### Level 1000
-https://btholt.github.io/four-semesters-of-cs-part-two/
-### Advanced Algorithms
-- [ ] [Simple sync algorithm](https://unterwaditzer.net/2016/sync-algorithm.html)
-- [ ] [rsync algo in python](https://tylercipriani.com/blog/2017/07/09/the-rsync-algorithm-in-python/)
+### Level 2
+- [ ] [Understanding A*](https://www.redblobgames.com/pathfinding/a-star/implementation.html)
+- [ ] [Understanding Dijkstras](https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm)
+- [ ] [Understanding bidirectional algo](http://ltr.wtf/explained/intro-bidirectional-algorithm/)
+
+### Level 3
+- Blogposts (Ordered by difficulty)
+    - [ ] [SA-IS Suffix Array Construction Algorithm](http://zork.net/~st/jottings/sais.html)
+    - [ ] [How hash algos work](http://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software)
+    - [ ] [Frontend masters crash course+video on pc](https://btholt.github.io/four-semesters-of-cs-part-two/)
+    - [ ] [Simple sync algorithm](https://unterwaditzer.net/2016/sync-algorithm.html)
+    - [ ] [rsync algo in python](https://tylercipriani.com/blog/2017/07/09/the-rsync-algorithm-in-python/)
+    - [ ] [All MS and BS are broken](https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html)
+- Tutorial
+    - [ ] [Computational Geometry](http://wykobi.com/tutorial.html#Introduction)
 
 ### Competitive Programming
 - [ ] [Solving any dynamic problem](https://blog.pramp.com/how-to-solve-any-dynamic-programming-problem-603b6fbbd771)
 - [ ] [UVA online Hard](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=118)
 
-graph
-https://www.redblobgames.com/pathfinding/a-star/implementation.html
-https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/
-http://ltr.wtf/explained/intro-bidirectional-algorithm/
-https://brennan.io/2017/04/21/linked-lists-are-still-hard/
-http://zork.net/~st/jottings/sais.html
-http://damienkatz.net/2017/05/23/notes-on-building-noise-a-json-search-engine-written-in-rust/ (tools)
-http://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software
-https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
-http://discrete.gr/complexity/
-project euler python solutions 
-https://github.com/nayuki/Project-Euler-solutions/tree/master/python
-once you're done with DS&algo do this in two days: 
-http://wykobi.com/tutorial.html#Introduction
-
+-----------------------
 ## Systems Programming
-### Floating Point
-- [ ] [Number Representation](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)
-- [ ] [Another Number representation - Math Heavy](http://www.introtcs.org/public/lec_02_representation.html)
-- [ ] [Floating point visually explained](http://fabiensanglard.net/floating_point_visually_explained/)
-- [ ] [Good Post](http://floating-point-gui.de)
-- [ ] [Oracle Paper on Floating Point](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
-BOOK: Advanced Programming in the Unix Environment
-BOOK2: The Linux Programming Interface
-cpp http://yosefk.com/c++fqa/index.html
-cpp http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html
+### Books that are mentioned
+- Advanced Programming in the Unix Environment
+- The Linux Programming Interface
+
+### Assembly Resources
+- [ ] [Nice short guide to x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+- [ ] [C++ FAQ](http://yosefk.com/c++fqa/index.html)
+
+### Level 0
+- MOOC
+    - [ ] [Intro to Computer Systems 213 Homepage](https://www.cs.cmu.edu/~213/schedule.html)
+    - [ ] [Intro to Computer Systems 213 YT](https://www.youtube.com/playlist?list=PLpIxOj-HnDsPZIJYO4U9f-xRI8bBadaso)
+    - Book for this mooc is CSAPP
+- HTML Books
+    - [ ] [Advanced C++ (Can Skip this for now)](http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html)
+- Blogposts
+    - [ ] [How does segfault occur]( https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood)
+
+### Level 1
+
 - [ ] [Understanding gunicorn's async worker concurrency model](http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/)
-https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood
-https://www.cs.cmu.edu/~213/schedule.html this mooc with pres book
-pres book another mooc on YT https://www.youtube.com/playlist?list=PLpIxOj-HnDsPZIJYO4U9f-xRI8bBadaso
+
 https://github.com/cirosantilli/linux-kernel-module-cheat
 http://sites.harvard.edu/~lib215/
 https://github.com/Aliireeza/Educational-Samples
@@ -411,12 +424,10 @@ https://manybutfinite.com/post/what-does-an-idle-cpu-do/
 arch
 http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/
-https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming#10-floating-point-and-simd
 OS Dev guide: http://www.brokenthorn.com/Resources/OSDevIndex.html
 - [EFI Boot Process](http://jdebp.eu./FGA/efi-boot-process.html)
 - [UEFI Boot Process](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
 Bootloaders in Linux(Practical): https://www.rodsbooks.com/efi-bootloaders/index.html
-https://blog.demofox.org/2017/11/21/floating-point-precision/
 bootloader http://3zanders.co.uk/2017/10/13/writing-a-bootloader/
 http://x86asm.net/articles/uefi-programming-first-steps/
 mooc if you have time https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_
@@ -778,27 +789,38 @@ https://google.github.io/styleguide/shell.xml
 http://mywiki.wooledge.org/BashGuide
 https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 
+------------------------
 ## Overall sound understanding of a system
-- [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
-- [UTF-8 vs UTF-16 - I](https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011)
-- [UTF-8 vs UTF-16 - II](http://web.archive.org/web/20110520060518/https://stackoverflow.com/questions/1049947/should-utf-16-be-considered-harmful)
-- [UTF-8 vs UTF-16 - III](http://utf8everywhere.org/)
-- [Character Representation YT](https://www.youtube.com/watch?v=-oYfv794R9s&index=2&list=PLhQN_EIoIKBRA0yVTsWDoJzEKZwJY0p3l)
-- [The journey of a word: how text ends up on a page](https://www.youtube.com/watch?v=Is4PW6f4Pk4)
-- [Number representation YT](https://www.youtube.com/watch?v=HhtecBhM_oA&index=1&list=PLD71F13843965439D)
-- [Unicode CLDR Project](http://cldr.unicode.org)
-- [Absolute Minimum Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-- [Minimal Unicode Intro](http://erratique.ch/software/uucp/doc/Uucp.html#uminimal)
-- [Unicode is Hard](https://shkspr.mobi/blog/2017/05/unicode-is-hard/)
-- [How Python does Unicode](https://www.b-list.org/weblog/2017/sep/05/how-python-does-unicode/)
-- [A Programmer’s Introduction to Unicode](http://reedbeta.com/blog/programmers-intro-to-unicode/)
-- [UTF-8 and Unicode FAQ for Unix/Linux](http://www.cl.cam.ac.uk/~mgk25/unicode.html#ucs)
-- [Abusing with unicode(github repo)](https://github.com/reinderien/mimic)
-- [History of storage media](https://codewords.recurse.com/issues/seven/a-history-of-storage-media)
-- [Workstation guide](https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide)
+### Floating Point
+- [ ] [Number Representation](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)
+- [ ] [Another Number representation - Math Heavy](http://www.introtcs.org/public/lec_02_representation.html)
+- [ ] [Floating point visually explained](http://fabiensanglard.net/floating_point_visually_explained/)
+- [ ] [Good Post](http://floating-point-gui.de)
+- [ ] [Oracle Paper on Floating Point](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+- [ ] [Demystifying Floating Point Precision](https://blog.demofox.org/2017/11/21/floating-point-precision/)
+- [ ] [Number representation YT](https://www.youtube.com/watch?v=HhtecBhM_oA&index=1&list=PLD71F13843965439D)
+### Unicode
+- [ ] [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
+- [ ] [UTF-8 vs UTF-16 - I](https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011)
+- [ ] [UTF-8 vs UTF-16 - II](http://web.archive.org/web/20110520060518/https://stackoverflow.com/questions/1049947/should-utf-16-be-considered-harmful)
+- [ ] [UTF-8 vs UTF-16 - III](http://utf8everywhere.org/)
+- [ ] [Character Representation YT](https://www.youtube.com/watch?v=-oYfv794R9s&index=2&list=PLhQN_EIoIKBRA0yVTsWDoJzEKZwJY0p3l)
+- [ ] [The journey of a word: how text ends up on a page](https://www.youtube.com/watch?v=Is4PW6f4Pk4)
+- [ ] [Unicode CLDR Project](http://cldr.unicode.org)
+- [ ] [Absolute Minimum Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- [ ] [Minimal Unicode Intro](http://erratique.ch/software/uucp/doc/Uucp.html#uminimal)
+- [ ] [Unicode is Hard](https://shkspr.mobi/blog/2017/05/unicode-is-hard/)
+- [ ] [How Python does Unicode](https://www.b-list.org/weblog/2017/sep/05/how-python-does-unicode/)
+- [ ] [A Programmer’s Introduction to Unicode](http://reedbeta.com/blog/programmers-intro-to-unicode/)
+- [ ] [UTF-8 and Unicode FAQ for Unix/Linux](http://www.cl.cam.ac.uk/~mgk25/unicode.html#ucs)
+- [ ] [Abusing with unicode(github repo)](https://github.com/reinderien/mimic)
+### Others
 - [Coreutils gotchas](http://www.pixelbeat.org/docs/coreutils-gotchas.html)
+- [Workstation guide](https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide)
 - [Interesting CSV article](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs)
 - [User agent History](https://webaim.org/blog/user-agent-string-history/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+- [History of storage media](https://codewords.recurse.com/issues/seven/a-history-of-storage-media)
+------------------------
 ## Tools
 - [ ] [Learn regex in 55 mins](https://qntm.org/files/re/re.html)
 - [ ] [Using regex to parse HTML](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags)
