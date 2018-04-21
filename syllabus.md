@@ -1,12 +1,34 @@
 # Syllabus
 TODO: from these blogs, take note of the companies and what they do
 
-New Languages to learn: Go and Scheme(Variant of lisp) and bash ofc
+RULE: Don't go next level unless you complete current level.
 
-Racket is a scheme is a lisp
+23,15 June OS,29 - back exam
 
-
-## Good Talks
+- May
+    - Maths
+    - DS&Algo
+    - Systems MOOC
+    - Operating Systems
+    - SICP MOOC
+    - Network Book, just read
+- June
+    - Maths
+    - DS&Algo
+    - Systems
+    - SICP
+    - Network Book, just read
+- July
+    - Network Programming
+    - Network 
+    - Math
+    - CP
+- August
+- September
+- October
+    - Study for back exams
+- November
+- December
 
 **Primary Topics:**
 - Maths
@@ -18,12 +40,22 @@ Racket is a scheme is a lisp
 - Compilers and Interpreters
 - Distributed Systems
 - Systems Admin Stuff
-- Overall sound understanding of a system
+- Linux Usage
+- Theoritical Understanding of computers
+- Understanding of
+    - bit manipulation
+    - regex
+    - unicode
+    - subnetting
+    - computer arethemetic
 
 **Habits:**
 - Read research papers
+- Be able to do math
+- Increase focus
+- Be disciplined
 - Stop fapping
-- One cig a week
+- Two cig a week
 - Blogging & Journaling
 
 **Goals:**
@@ -33,51 +65,51 @@ Racket is a scheme is a lisp
 - Keep contributing to open source
 - Make GSoC and other cool stuff next year
 
-
 # Topics
 
 ## Maths
 
-**Resources I have:**
-- Youtube video
-- MOOCs
-- eBooks
-- Books
-- Blogs and Links
-### Subtopics
-- Discrete Math
-- Graph Theory
-- Bits and Bytes
-- Linear Algebra
-- Stats and Probab
-- Calculus
+- [ ] Discrete Math
+- [ ] Graph Theory
+- [ ] Bits and Bytes
+- [ ] Linear Algebra
+- [ ] Stats and Probab
+- [ ] Calculus
 
-3Blue1Brown Videos
-cheat sheet: https://github.com/Jam3/math-as-code
-Stats and Probability MOOC: https://projects.iq.harvard.edu/stat110/youtube
-Linear Algebra MOOC: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
-http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html
-Discrete Math and FP: http://cs.wheaton.edu/~tvandrun/dmfp/
-Mulur arethme tic blogpost https://artofproblemsolving.com/wiki/index.php/Modular_arithmetic/Introduction
-http://briansteffens.com/2017/02/20/from-math-to-machine.html blogpost
-network math http://webmathematics.net
-tool http://matrixmultiplication.xyz/
-http://www.matrixcalculus.org
-http://www.personal.kent.edu/~rmuhamma/GraphTheory/MyGraphTheory/defEx.htm
-blog https://betterexplained.com/cheatsheet/
-LA http://immersivemath.com/ila/index.html
-https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71
-http://exupero.org/hazard/post/prime-modulo/
-https://www.codechef.com/wiki/tutorial-number-theory/
-Grimaldi
-How to prove it
-http://fabiensanglard.net/floating_point_visually_explained/
-http://floating-point-gui.de
-https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html
-https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html (PAPER)
-http://algebrarules.com
-http://www.introtcs.org/public/index.html
-graph theory https://www.youtube.com/user/DrSaradaHerke/playlists?sort=dd&view=1&shelf_id=0
+### Tools and Cheatsheets
+- [Compsci cheatsheet](https://github.com/Jam3/math-as-code)
+- [Matrix Multiplication Calculator](http://matrixmultiplication.xyz/)
+- [Matrix Calculus](http://www.matrixcalculus.org)
+- [Common Algebra Rules](http://algebrarules.com)
+- [Betterexplained](https://betterexplained.com/cheatsheet/)
+
+
+### Level 0
+- Blogposts
+    - [ ] [How to read math](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
+- Books
+    - [ ] [No Bullshit Guide to Math and Physics](https://drive.google.com/open?id=12Mbf9MZ55psipUdxbE_-oWZvEdCjOmtB)
+    - [ ] [How to prove it](https://drive.google.com/open?id=10q4nDvL-KAdVkudnC9ejHOTRFO1zSP93)
+    - [ ] [Calculus made easy](https://drive.google.com/open?id=1S5h-4fhQGV0SNQXbZGjyB2up4YNjbcX2)
+- Videos
+    - [ ] 3Blue1Brown Videos
+### Level 1
+- Blogposts
+    - [ ] [Modular Arithmetic](https://artofproblemsolving.com/wiki/index.php/Modular_arithmetic/Introduction)
+    - [ ] [Graph Glossary](http://www.personal.kent.edu/~rmuhamma/GraphTheory/MyGraphTheory/defEx.htm)
+    - [ ] [Basic Number Theory](https://www.codechef.com/wiki/tutorial-number-theory/)
+    - [ ] [Review of Math of Comp Sci](http://www.introtcs.org/public/lec_00_1_math_background.html)
+- Books
+    - [ ] [Grimaldi]
+- Videos
+    - [ ] [Graph Theory Visually Explained](https://goo.gl/d5n8ft)
+### Level 100
+- [ ] [Discrete Math and FP](http://cs.wheaton.edu/~tvandrun/dmfp/)
+- [ ] [Stats and Probability MOOC](https://projects.iq.harvard.edu/stat110/youtube)
+- [ ] [Linear Algebra MOOC](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+- [ ] [Introduction to Network math](http://webmathematics.net)
+- [ ] [All about markov model](https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71)
+- [ ] [Mental Math trick](http://exupero.org/hazard/post/prime-modulo/)
 
 ## Distributed Systems
 http://www.scs.stanford.edu/14au-cs244b/labs/project.html
@@ -168,6 +200,12 @@ http://opendatastructures.org/ods-cpp/
 http://wykobi.com/tutorial.html#Introduction
 
 ## Systems Programming
+### Floating Point
+- [ ] [Number Representation](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)
+- [ ] [Another Number representation - Math Heavy](http://www.introtcs.org/public/lec_02_representation.html)
+- [ ] [Floating point visually explained](http://fabiensanglard.net/floating_point_visually_explained/)
+- [ ] [Good Post](http://floating-point-gui.de)
+- [ ] [Oracle Paper on Floating Point](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 BOOK: Advanced Programming in the Unix Environment
 BOOK2: The Linux Programming Interface
 cpp http://yosefk.com/c++fqa/index.html
@@ -595,7 +633,6 @@ http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 
 ## Systems Admin Stuff
 local dev, server dev, network, server
-PC Tutorial: Linux User and Group Management
 https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know
 http://sabok.org
 pfsense playlist https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk
