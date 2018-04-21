@@ -17,6 +17,9 @@ unspoil myself because I've been using ORMs all the time!
 
 I lost my curosity, get it back
 
+I have 800 HN saved links, about 400 Bookmarks, ~200 Pocket Links, 500 Trello links
+Reddit, Medium, Gist remaining
+
 ### Why is this so important for me?
 I am dumb. I might think i suffer from imposter syndrome because it might make me feel good about myself
 sometimes but bottom line is I AM ULTRA DUMBO and I've been dumb ever since.

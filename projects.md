@@ -14,15 +14,25 @@
 - Calculator in ASM
 - Interpreter
 - Compiler
+- A webserver
 - Markov-chain bot
 - Basic unix shell
     - For each command you have to fork, exec, and then wait for the process to finish.
     - Once there’s a shell that can handle execution of single commands, it can be interesting to implement pipes and file redirection with dup2, or shell metacharacters like $! with the wait() syscall. Around this time it’s also a good chance to learn about zombies and orphans, and how double forking can be used to daemonize a process.
+    - [Simple Shell in C](https://github.com/jmreyes/simple-c-shell)
 - Pick an RFC like RFC4648 and go down the rabbit hole implementing it.
 - Implement a debugging socket proxy.
+- Backdoor
+    - [example backdoor in c](https://github.com/m-o-/Backdoor)
 - irc bot
+    - [slack rant](http://sircmpwn.github.io/2018/03/10/How-to-write-an-IRC-bot.html)
+    - [example](http://zork.net/~nick/shazbot/README.html)
+    - [malicious bot in c](https://github.com/ironbits/IRC-Bots)
 - Paxos
+    - [half baked implementation in python](https://github.com/henryr/toy_paxos/blob/master/toy_paxos.py)
 - A database
+- A b-tree database
+- A programming Language
 - toy distributed kv store
     - Start by leveraging plenty of existing tools, but over time replacing them with pieces that you’re curious about the details of.
     - Start with something like a few instances of memcache and create a central coordinator that maps keys to servers, then have each instance run its own coordinator that has peer discovery and leader election built in
@@ -46,7 +56,9 @@
     - [by Rob Pike!](http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 - A web app scalable to 100,000 simultaneous users
 - Full text search engine.
-- Write a gopher client
+- Distributed Search Engine
+    - [IITK Term Project](https://github.com/zorroblue/distributed-search-engine)
+- A Gopher client
     - [cgo](https://github.com/kieselsteini/cgo)
     - [little gopher client](http://runtimeterror.com/tools/gopher/)
 - Implement Ukkonen’s Suffix Tree Algorithm
@@ -61,3 +73,33 @@
     - [take help from this](https://zwischenzugs.com/2018/03/08/create-your-own-git-diagrams/)
 - Decentralized Search Engine
     - [Help](https://lobste.rs/s/0qqymz/building_decentralized_bittorrent)
+- Implement malloc (may take 20hrs+)
+- Web Crawler in C https://github.com/petterw/crawler
+- KVM Example https://github.com/dpw/kvm-hello-world
+- HTTP Processing in C https://github.com/mendsley/tinyhttp
+- MinHeap Priority in C https://github.com/armon/c-minheap-array
+- Toy DNS Server
+    - [Help](https://github.com/francois/dnsd)
+- Thread Pooling
+    - [Help1](https://github.com/jonhoo/pthread_pool)
+    - [Help2](https://github.com/mbrossard/threadpool)
+- Hashtable
+    - [Implementation1](https://github.com/watmough/jwHash)
+- Sniffer
+    - [GUI Toy in C](https://github.com/onestraw/sniffer)
+- Logging Library
+    - [Logging library in C](https://github.com/rxi/log.c)
+- A virus
+    - [simple virus in python](https://github.com/cranklin/Python-Virus)
+- A VM
+    - [vm in python](https://github.com/GedRap/xs-vm)
+- A botnet
+    - [python botnet](https://github.com/farhan3/py-botnet)
+- A SSH Client
+    - [Educational SSH Client in Python](https://github.com/tetrakai/ssh_client)
+- Huffman Encoder
+    - [C Implementation](https://github.com/drichardson/huffman)
+- A program totally in assembly
+- A Device Driver
+- Bash History
+    - [Visualizer leher guide](https://hackernoon.com/visualizing-data-in-terminal-using-lehar-7cfded09c1ad)

@@ -3,7 +3,10 @@ TODO: from these blogs, take note of the companies and what they do
 
 New Languages to learn: Go and Scheme(Variant of lisp) and bash ofc
 
-## Good 
+Racket is a scheme is a lisp
+
+
+## Good Talks
 
 **Primary Topics:**
 - Maths
@@ -49,6 +52,8 @@ New Languages to learn: Go and Scheme(Variant of lisp) and bash ofc
 - Stats and Probab
 - Calculus
 
+3Blue1Brown Videos
+cheat sheet: https://github.com/Jam3/math-as-code
 Stats and Probability MOOC: https://projects.iq.harvard.edu/stat110/youtube
 Linear Algebra MOOC: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
 http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html
@@ -77,7 +82,11 @@ graph theory https://www.youtube.com/user/DrSaradaHerke/playlists?sort=dd&view=1
 ## Distributed Systems
 http://www.scs.stanford.edu/14au-cs244b/labs/project.html
 http://nil.csail.mit.edu/6.824/2015/notes/paxos-code.html
+http://muratbuffalo.blogspot.in/2018/01/paxos-derived.html
 https://bravenewgeek.com/dissecting-message-queues/
+MOOC https://courses.cs.washington.edu/courses/cse452/16wi/calendar/lecturelist.html
+https://gist.github.com/garybernhardt/44b7063110fc423edb4d
+MOOC https://pdos.csail.mit.edu/6.824/schedule.html
 http://nanomsg.org/
 http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html
 PROJECTS: http://www.cs.cornell.edu/courses/cs5412/2012sp/projects.htm
@@ -114,6 +123,7 @@ https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html
 https://lobste.rs/s/1vmn2l/distributed_object_storage_with_minio_on
 
 # Programming Languages
+Scheme Playlist https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0
 http://papl.cs.brown.edu/2016/index.html uses pyret, but before that learn scheme
 sicp in lisp (scheme)
 - [SICP mooc]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
@@ -128,6 +138,7 @@ https://skim.la/gnu_smalltalk_koans/
 mooc https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
 http://cs-fundamentals.com/c-programming/recursion-in-c.php
 https://btholt.github.io/four-semesters-of-cs-part-two/
+https://github.com/jamesroutley/write-a-hash-table
 https://sinon.org/algorithms/#data-structures
 https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401
 http://faculty.simpson.edu/lydia.sinapova/www/cmsc250/LN250_Weiss/L14-RecRel.htm
@@ -163,6 +174,8 @@ cpp http://yosefk.com/c++fqa/index.html
 cpp http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html
 https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood
 https://www.cs.cmu.edu/~213/schedule.html this mooc with pres book
+pres book another mooc on YT https://www.youtube.com/playlist?list=PLpIxOj-HnDsPZIJYO4U9f-xRI8bBadaso
+https://github.com/cirosantilli/linux-kernel-module-cheat
 http://sites.harvard.edu/~lib215/
 https://github.com/Aliireeza/Educational-Samples
 fun
@@ -170,6 +183,9 @@ https://tylercipriani.com/blog/2014/05/22/creating-baller-useful-motd-ascii-art/
 linux
 https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know
 http://cs.lmu.edu/~ray/notes/introconcurrency/
+not really a kernel but gives you some idea (arjun) https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel
+https://cmcenroe.me/2018/01/30/fbclock.html
+actual guide to kernel dev, http://www.osdever.net/bkerndev/Docs/intro.htm
 primer https://assets.bitbashing.io/papers/concurrency-primer.pdf
 http://yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html
 https://0xax.gitbooks.io/linux-insides/content/
@@ -210,7 +226,8 @@ https://lobste.rs/s/fvrdql/pipreqs_create_requirements_txt_for_any
 http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
 https://lwn.net/Articles/749992/ (terminal)
 http://zork.net/~st/jottings/Notes_on_Terminal_Emulation.html
-https://donniewest.com/build-your-own-minimal-and-scriptable-terminal
+https://donniewest.com/build-your-own-minimal-and-scriptable-terminal (Bloated with QT)
+nice minimal terminal to learn from https://st.suckless.org
 https://www.uninformativ.de/blog/postings/2017-04-02/0/POSTING-en.html
 https://anarc.at/blog/2018-04-12-terminal-emulators-1/
 https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assembly-language/
@@ -253,6 +270,7 @@ c puzzles http://www.gowrikumar.com/c/index.php
 https://blogs.oracle.com/linux/the-ksplice-pointer-challenge-v2
 https://fau.re/blog/20140330_vgdb.html
 http://seenaburns.com/building-c-programs/
+http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/
 https://blog.erratasec.com/2017/03/assert-in-hands-of-bad-coders.html
 tool https://cdecl.org
 https://matt.sh/howto-c
@@ -286,6 +304,8 @@ ass
 http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language
 http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 py
+Python testing https://www.youtube.com/watch?v=FxSsnHeWQBY
+https://pythontips.com/2018/04/15/reverse-engineering-soundcloud-api/
 https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
 https://github.com/00111000/Imports-in-Python
 https://pythonwheels.com
@@ -313,17 +333,25 @@ http://gromnitsky.users.sourceforge.net/articles/notes-for-new-make-users/
 http://makefiletutorial.com
 
 ## Operating Systems
+hardware crash course https://www.youtube.com/watch?v=OFgxAFdxYAQ
 https://cs162.eecs.berkeley.edu
-three easy pieces
+three easy pieces homework site: http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html
+three easy pieces projects site[wip]: https://github.com/remzi-arpacidusseau/ostep-projects
+little book of semaphors do it but I teach OS, and I still cover semaphores, but I always tell the class that I don't think they are very useful. I spend much more time on condition variables. Just learn it, you might never use it.
 https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram
 https://blog.holbertonschool.com/hack-the-virtual-memory-malloc-the-heap-the-program-break/
 http://rabbitstack.github.io/operating%20systems/linux-containers-internals-part-i/
 http://www.jamesmolloy.co.uk/tutorial_html/
+http://littleosbook.github.io
+https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
 https://manybutfinite.com/post/what-does-an-idle-cpu-do/
 arch
 http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/
 https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming#10-floating-point-and-simd
+OS Dev guide: http://www.brokenthorn.com/Resources/OSDevIndex.html
+EFI Boot Process: http://jdebp.eu./FGA/efi-boot-process.html
+Bootloaders in Linux(Practical): https://www.rodsbooks.com/efi-bootloaders/index.html
 https://blog.demofox.org/2017/11/21/floating-point-precision/
 bootloader http://3zanders.co.uk/2017/10/13/writing-a-bootloader/
 http://x86asm.net/articles/uefi-programming-first-steps/
@@ -370,7 +398,12 @@ unp v123
 dns and bind, furos
 first learn to use your own vpn and then also, learn to use tor
 http://davebucklin.com/play/2018/03/31/how-to-gopher.html
+Interesting https://seashells.io
+http://amiusingmptcp.de
+http://davidad.github.io/blog/2014/04/24/an-osi-layer-model-for-the-21st-century/
 concurrent realworld servers: https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/
+https://www.joyent.com/blog/tcp-puzzlers
+https://github.com/lmatteis/torrent-net/blob/master/README.md
 https://github.com/lmatteis/peer-tweet
 https://lobste.rs/s/0qqymz/building_decentralized_bittorrent
 https://lobste.rs/s/5ewzcx/ssh_vs_openvpn_for_tunneling
@@ -417,7 +450,7 @@ https://www.snellman.net/blog/archive/2014-11-11-tcp-is-harder-than-it-looks.htm
 https://daniel.haxx.se/docs/bittorrent-vs-http.html
 http://blog.mecheye.net/2017/10/urg/
 http://movingpackets.net/2017/10/06/misinterpreting-traceroute/
-http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
+http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/ [5part series v.good]
 wifi triva https://www.verizoninternet.com/bookmark/how-wifi-works/
 https://lobste.rs/s/qzmutx/beaker_experimental_p2p_browser
 http://beej.us/guide/bgnet/
@@ -444,6 +477,7 @@ https://blog.cloudflare.com/epbf_sockets_hop_distance/
 https://neo4j.com/blog/real-time-recommendation-engine-data-science/
 https://matt.sh/what-is-redis
 http://tatiyants.com/postgres-query-plan-visualization/
+Disk Storage Talk https://www.youtube.com/watch?v=e1wbQPbFZdk
 https://github.com/simon-engledew/gocmdpev
 https://www.codeproject.com/articles/359654/important-database-designing-rules-which-i-fo
 https://pgexercises.com/
@@ -478,6 +512,7 @@ http://amitkapila16.blogspot.in/2017/03/hash-indexes-are-faster-than-btree.html
 cryptography mooc
 http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
 https://medium.com/@thegrugq/the-zen-of-pgp-6f55d44657dd
+https://medium.com/@shazow/ssh-how-does-it-even-9e43586e4ffc
 https://natmchugh.blogspot.in/2015/02/create-your-own-md5-collisions.html
 http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network
 http://markmims.com/2015/06/01/ssh-tips.html
@@ -487,6 +522,7 @@ http://cryptopals.com
 https://github.com/shellphish/how2heap
 https://www.foo.be/2016/12/OpenPGP-really-works
 http://nullprogram.com/blog/2017/03/12/
+OAuth Bible: https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md
 http://www.roguelynn.com/words/explain-like-im-5-kerberos/
 kerberos not so good, check some
 figure out what is this https://www.reddit.com/r/commandline/comments/8bfxq4/good_free_ssh_shell_accounts/
@@ -501,12 +537,13 @@ https://lobste.rs/s/zbzm9m/encrypted_email_is_still_pain_2017 (comment part impo
 https://fly.io/articles/how-rsa-works-tls-foundations/
 https://begriffs.com/posts/2016-11-05-advanced-intro-gnupg.html
 https://www.ssh.com/ssh/port
-https://kyleisom.net/articles/ssh_keys.html
+https://kyleisom.net/articles/ssh_keys.html (few wrong facts in numbers, beware)
 http://futureboy.us/pgp.html
 https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/
 https://www.ory.sh/run-oauth2-server-open-source-api-security/
 https://blog.appcanary.com/2017/http-security-headers.html
 https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+https://medium.com/@MrJamesFisher/understanding-the-elf-4bd60daac571
 https://gist.github.com/CMCDragonkai/10ab53654b2aa6ce55c11cfc5b2432a4
 http://www.cirosantilli.com/elf-hello-world/
 http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
@@ -518,8 +555,12 @@ I think a valuable takeaway point for those interested in writing their own comp
 
 https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages
 http://c9x.me/compile/bib/
+https://beautifulracket.com/stacker/intro.html
+https://www.hashcollision.org/brainfudge/
+Intro to llvm video: https://www.youtube.com/watch?v=VKIv_Bkp4pk
 https://code.mixpanel.com/2015/02/24/building-a-simple-expression-language/
 https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/info (the mooc i have downloaded videos)
+https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/
 https://tomassetti.me/parsing-in-python/
 http://pythonextensionpatterns.readthedocs.io/en/latest/index.html
 https://www.devdungeon.com/content/working-binary-data-python
@@ -556,13 +597,18 @@ http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 local dev, server dev, network, server
 https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know
 http://sabok.org
+pfsense playlist https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk
 https://github.com/kilimchoi/engineering-blogs (select good blogs)
 https://www.docs.google.com/spreadsheets/d/1FBr20VIOePQH2aAH2a_6irvdB1NOTHZaD8U5e2MOMiw/pub?output=html
 https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed
 https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html
+https://github.com/learnbyexample/Command-line-text-processing
 https://sysadmincasts.com
 https://www.zachary.com/posts/how-to-data/
+https://pasztor.at/blog/building-your-own-cdn
+    - HN: https://news.ycombinator.com/item?id=16374645
 https://github.com/kahun/awesome-sysadmin
+https://github.com/turkenh/ansible-interactive-tutorial
 https://healthchecks.io/docs/cron/
 https://github.com/turkenh/ansible-interactive-tutorial/blob/master/README.md
 http://www.opsschool.org/en/latest/introduction.html
@@ -625,13 +671,18 @@ https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/
 http://www.catonmat.net/blog/bash-one-liners-explained-part-one/
 https://www.expeditedssl.com/aws-in-plain-english
 https://en.wikibooks.org/wiki/An_Awk_Primer
+containers
+https://medium.com/@teddyking/linux-namespaces-850489d3ccf
+https://github.com/Fewbytes/rubber-docker
 http://imoverclocked.blogspot.in/2015/12/for-love-of-bits-stop-using-gzip.html
 https://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html
 https://yakking.branchable.com/posts/what-and-why-nix/
 http://www.pixelbeat.org/programming/shell_script_mistakes.html
 http://engineering.khanacademy.org/posts/memcached-fms.htm
 https://githubengineering.com/kubernetes-at-github/
+https://clementc.github.io/blog/2018/01/25/moving_cli/
 https://zwischenzugs.com/2017/10/27/ten-things-i-wish-id-known-before-using-vagrant/
+https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/
 https://www.vidarholen.net/contents/blog/?p=479
 https://blog.scottlowe.org/2015/05/06/quick-intro-lxd/
 Learn Virtulization , KVM etc nd containers
@@ -647,6 +698,7 @@ https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-pro
 https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/
 https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011
 https://www.youtube.com/watch?v=-oYfv794R9s&index=2&list=PLhQN_EIoIKBRA0yVTsWDoJzEKZwJY0p3l
+https://www.youtube.com/watch?v=Is4PW6f4Pk4
 https://www.youtube.com/watch?v=HhtecBhM_oA&index=1&list=PLD71F13843965439D
 http://cldr.unicode.org
 http://utf8everywhere.org/
@@ -675,6 +727,7 @@ https://webaim.org/blog/user-agent-string-history/?utm_source=hackernewsletter&u
 ## Tools
 https://qntm.org/files/re/re.html
 http://duc.zevv.nl dude where are my bytes
+https://github.com/dbohdan/structured-text-tools
 busybox provides the functionality of many common unix tools in a single executable. It’s super tiny which makes it great for embedded development. Or sneaking onto someone else’s Linux system, apparently.
 https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags
 https://regexone.com
