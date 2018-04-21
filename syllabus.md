@@ -307,7 +307,6 @@ If you decide to learn haskell
     - [ ] [Kernel Newbies](https://kernelnewbies.org)
     - [ ] [Quickly Writing a Kernel(Not really a kernel)](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 
-https://heap-exploitation.dhavalkapil.com
 https://brennan.io/2016/11/14/kernel-dev-ep3/
 strace https://jorge.fbarr.net/2014/01/19/introduction-to-strace/
 https://blog.packagecloud.io/eng/2016/02/29/how-does-strace-work/
@@ -576,73 +575,67 @@ http://amitkapila16.blogspot.in/2017/03/hash-indexes-are-faster-than-btree.html
 - [Dynamo: Amazon’s Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
 - 
 ## Security
-cryptography mooc
-http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
-
-
-https://natmchugh.blogspot.in/2015/02/create-your-own-md5-collisions.html
-http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network
-https://github.com/marcan/takeover.sh (fun)
-http://cryptopals.com challange
-https://github.com/shellphish/how2heap
-http://nullprogram.com/blog/2017/03/12/
-OAuth Bible: https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md
-http://www.roguelynn.com/words/explain-like-im-5-kerberos/
-kerberos not so good, check some
-https://blog.codeship.com/why-you-shouldnt-roll-your-own-authentication/
-http://web.mit.edu/Kerberos/www/dialogue.html
-https://fly.io/articles/how-rsa-works-tls-foundations/
-https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/
-https://www.ory.sh/run-oauth2-server-open-source-api-security/
-https://blog.appcanary.com/2017/http-security-headers.html
-https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
-https://medium.com/@MrJamesFisher/understanding-the-elf-4bd60daac571
-https://gist.github.com/CMCDragonkai/10ab53654b2aa6ce55c11cfc5b2432a4
-http://www.cirosantilli.com/elf-hello-world/
-http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
-https://lobste.rs/s/fkosun/portier_spiritual_successor_mozilla
-http://lifepluslinux.blogspot.in/2017/01/look-before-you-paste-from-website-to.html
+- [Heap Exploitation Book](https://heap-exploitation.dhavalkapil.com)
+- Cryptography mooc
+- [Own MD5](https://natmchugh.blogspot.in/2015/02/create-your-own-md5-collisions.html)
+- [Reveng apps](http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network)
+- [Takeover.sh](https://github.com/marcan/takeover.sh)
+- [Challenge Ctyptopals](http://cryptopals.com)
+- [OAuth Bible](https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md)
+- https://github.com/shellphish/how2heap
+- http://nullprogram.com/blog/2017/03/12/
+- http://www.roguelynn.com/words/explain-like-im-5-kerberos/
+- https://blog.codeship.com/why-you-shouldnt-roll-your-own-authentication/
+- http://web.mit.edu/Kerberos/www/dialogue.html
+- https://fly.io/articles/how-rsa-works-tls-foundations/
+- https://www.ory.sh/run-oauth2-server-open-source-api-security/
+- https://blog.appcanary.com/2017/http-security-headers.html
+- [Understanding ELF](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
+- [Understanding ELF II](https://medium.com/@MrJamesFisher/understanding-the-elf-4bd60daac571)
+- [ELF III](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
+- [ELF Hello World](http://www.cirosantilli.com/elf-hello-world/)
+- [Linux Memory Layout of Executables](https://gist.github.com/CMCDragonkai/10ab53654b2aa6ce55c11cfc5b2432a4)
+- https://lobste.rs/s/fkosun/portier_spiritual_successor_mozilla
+- http://lifepluslinux.blogspot.in/2017/01/look-before-you-paste-from-website-to.html
+- https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/
 
 ## Compilers and Interpreters
 I think a valuable takeaway point for those interested in writing their own compiler is to use appropriate tools to get to the end goal as quickly as possible. Lexing, parsing, and code generation are all very interesting and challenging problems on their own. However, when writing your first compiler none of these stages should slow you down. Then, you can focus on the design of the internal representation and optimizations, which IMO will gain you better understanding of compilers.
 
-https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages
-http://c9x.me/compile/bib/
-https://beautifulracket.com/stacker/intro.html
-https://www.hashcollision.org/brainfudge/
-Intro to llvm video: https://www.youtube.com/watch?v=VKIv_Bkp4pk
-https://code.mixpanel.com/2015/02/24/building-a-simple-expression-language/
-https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/info (the mooc i have downloaded videos)
-https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/
-https://tomassetti.me/parsing-in-python/
-http://pythonextensionpatterns.readthedocs.io/en/latest/index.html
-https://www.devdungeon.com/content/working-binary-data-python
-https://github.com/geekodour/pysheeet
-http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/#what-is-a-dsl-and-why-should-you-care
-https://swtch.com/~rsc/regexp/regexp1.html
-https://blog.acolyer.org/2017/08/15/writing-parsers-like-it-is-2017/
-https://qntm.org/files/re/re.html
-https://norasandler.com/2017/11/29/Write-a-Compiler.html
-https://www.tedunangst.com/flak/post/yaity
-https://kristerw.blogspot.in/2017/08/writing-gcc-backend_4.html gcc backend
-http://www.cs.cornell.edu/~asampson/blog/llvm.html LLVM FOR GRADS
-https://blog.regehr.org/archives/1453 (llvm source)
-https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/
-http://www.tedinski.com/2018/03/13/how-compilers-are-designed.html
-https://www.tedunangst.com/flak/post/yaity
-http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/
-https://jaseemabid.github.io/2017/07/04/compiler.html
-http://thinkingeek.com/gcc-tiny/
-http://www.craftinginterpreters.com/contents.html
-http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/
-http://prog21.dadgum.com/30.html
-https://lobste.rs/s/bda3cl/how_i_wrote_self_hosting_c_compiler_40_days
-https://lobste.rs/s/pkfdah/parsing_timeline
-http://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html
-https://github.com/spencertipping/jit-tutorial
-http://mywiki.wooledge.org/ParsingLs
-https://archive.is/Gw3m
-https://code.mixpanel.com/2015/04/28/building-a-not-so-simple-expression-language/
+### Resources
+- [EOSlang](https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages)
+- [Compiler Resources](http://c9x.me/compile/bib/)
+- [Parsing Timeline](https://lobste.rs/s/pkfdah/parsing_timeline)
+
+### Level 0
+- MOOC
+  - Do Stanford MOOC
+  - [MOOC Link](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/info)
+- Videos
+  - [Intro to llvm](https://www.youtube.com/watch?v=VKIv_Bkp4pk)
+- Tutorials
+  - [LLVM for Grads](http://www.cs.cornell.edu/~asampson/blog/llvm.html)
+  - [LLVM Source Tour](https://blog.regehr.org/archives/1453)
+  - [Origin of type systems](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/)
+
+### Level 1
+- JIT Compiler(wtf is it btw)
+    - [Adventures in JIT compilation with brainfuck](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
+    - [Hello JIT](http://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html)
+    - [JIT Tutorial](https://github.com/spencertipping/jit-tutorial)
+- [Want to Write a Compiler? Just Read These Two Papers.](http://prog21.dadgum.com/30.html)
+
+### Level 2
+- [Beautifulracket](https://beautifulracket.com/stacker/intro.html)
+- [Brainfuck](https://www.hashcollision.org/brainfudge/)
+- [Writing Parsers like it 2017](https://blog.acolyer.org/2017/08/15/writing-parsers-like-it-is-2017/)
+- [Writing C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+- [Writing GCC Backend](https://kristerw.blogspot.in/2017/08/writing-gcc-backend_4.html)
+- [Writing GCC Frontend](http://thinkingeek.com/gcc-tiny/)
+- [[OLD] Toy compiler using LLVM](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
+- [First 15 compilers](http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/)
+- [Crafting Interpreters](http://www.craftinginterpreters.com/contents.html)
+- [JSON parser in C](https://archive.is/Gw3m)
 
 # Comp Arch
 http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
@@ -709,6 +702,7 @@ Decentralised
     - [Memcached-Backed Content Infrastructure Khanacademy](http://engineering.khanacademy.org/posts/memcached-fms.htm)
     - [Dropbox Optimize for web](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
     - [Dumbsmash Scalling with 3 engg]( https://stackshare.io/dubsmash/dubsmash-scaling-to-200-million-users-with-3-engineers)
+    - [Don't parse output of ls](http://mywiki.wooledge.org/ParsingLs)
 
 - Sysadmin Tools
     - [Compare nuster and squid](https://github.com/jiangwenyuan/nuster/wiki/Web-cache-server-performance-benchmark:-nuster-vs-squid)
@@ -817,12 +811,15 @@ Decentralised
 - [History of storage media](https://codewords.recurse.com/issues/seven/a-history-of-storage-media)
 ------------------------
 ## Tools
-- [ ] [Learn regex in 55 mins](https://qntm.org/files/re/re.html)
-- [ ] [Using regex to parse HTML](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags)
-- [ ] [Good regex tutorial](https://regexone.com)
-- [ ] [Regex with sed and awk](https://drive.google.com/open?id=10ybau2cHcOtVApfagJqdOmgchOLubojx)
-- [ ] [Online Binary/Decimal/Hex Converter](http://www.free-test-online.com/binary/signed_converter.html)
-    - LEARN How to do this in the terminal
+- Regex
+    - [ ] [Learn regex in 55 mins](https://qntm.org/files/re/re.html)
+    - [ ] [Using regex to parse HTML](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags)
+    - [ ] [Good regex tutorial](https://regexone.com)
+    - [ ] [Regex with sed and awk](https://drive.google.com/open?id=10ybau2cHcOtVApfagJqdOmgchOLubojx)
+    - [ ] [Regular Expression Theory](https://swtch.com/~rsc/regexp/regexp1.html)
+- Calculators
+    - [ ] [Online Binary/Decimal/Hex Converter](http://www.free-test-online.com/binary/signed_converter.html)
+
 ## Misc
 http://hyperpolyglot.org
 http://brandon.si/code/choosing-a-binary-to-text-encoding/
@@ -831,3 +828,7 @@ https://brendanzagaeski.appspot.com/0004.html
 -----------------------------------
 ## Python 
 https://lobste.rs/s/fvrdql/pipreqs_create_requirements_txt_for_any
+http://pythonextensionpatterns.readthedocs.io/en/latest/index.html
+https://www.devdungeon.com/content/working-binary-data-python
+https://github.com/geekodour/pysheeet
+http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/#what-is-a-dsl-and-why-should-you-care
