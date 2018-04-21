@@ -1,7 +1,11 @@
 # Syllabus
 TODO: from these blogs, take note of the companies and what they do
 
-RULE: Don't go next level unless you complete current level.
+## Rules
+- Don't go next level unless you complete current level.
+- Untill and unless mentioned, Excercises are **MANDATORY**.
+- You're doing this for yourself, don't cheat yourself.
+
 after list done just assign projects to this list
 
 23,15 June OS,29 - back exam
@@ -114,6 +118,7 @@ after list done just assign projects to this list
 
 ## Distributed Systems
 
+know what tla+ is, tutorials are there on lobster
 ### Tools
 - [Nanomsg](http://nanomsg.org/)
 - [ZeroMQ](http://zguide.zeromq.org/page:all)
@@ -152,25 +157,41 @@ after list done just assign projects to this list
 
 # Programming Languages
 ### Level 0
-- [Scheme Youtube Playlist](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
-- [SICP Guide+MOOC](https://github.com/geekodour/sicp-course)
-- [Beautiful SICP](https://sarabander.github.io/sicp/html/index.xhtml)
+- [ ] [Scheme Youtube Playlist](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
+- [ ] [SICP Guide+MOOC](https://github.com/geekodour/sicp-course)
+- [ ] [Beautiful SICP](https://sarabander.github.io/sicp/html/index.xhtml)
 ### Level 1
-- [Brown uni Book on PPL - Pyret](http://papl.cs.brown.edu/2016/index.html)
-- [SICP mooc II]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+- [ ] [Brown uni Book on PPL - Pyret](http://papl.cs.brown.edu/2016/index.html)
+- [ ] [SICP mooc II]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 
 If you decide to learn haskell
-- [Good Book on haskell](http://dev.stephendiehl.com/hask/)
-- [Very Good Book on haskell](https://drive.google.com/open?id=1Hkm0S-meMDZUU-oRSP2oD-NEBLVbA4jB)
+- [ ] [Good Book on haskell](http://dev.stephendiehl.com/hask/)
+- [ ] [Very Good Book on haskell](https://drive.google.com/open?id=1Hkm0S-meMDZUU-oRSP2oD-NEBLVbA4jB)
 
 ## Data Structures and Algorithms
+
+### Reference
+- Visualization
+    - [green uni](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- Implementations
+    - [python algos](https://github.com/harishvc/challenges#data-structures-algorithms--concepts)
+    - [cpp algos](https://github.com/PetarV-/Algorithms)
+
 ### Level 0
 - Blogpost
-    - [Recursion Types in C](http://cs-fundamentals.com/c-programming/recursion-in-c.php)
+    - [ ] [Recursion Types in C](http://cs-fundamentals.com/c-programming/recursion-in-c.php)
+    - [ ] [Graphs](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 - Books
-    - [ODS in CPP](http://opendatastructures.org/ods-cpp/)
+    - [ ] [Interactive DSA in Python](https://interactivepython.org/runestone/static/pythonds/index.html)
+    - [ ] [ODS in CPP](http://opendatastructures.org/ods-cpp/)
 
 ### Level 1
+- Blogpost
+    - [Sinon Short Notes](http://archive.is/co07u)
+    - [Master Theorem Simplified](https://web.archive.org/web/20160217105600/https://anupcowkur.com/posts/master-theorem-simplified/)
+    - [More on Master Theorem](http://rosalind.info/glossary/algo-master-theorem/)
+    - [GeeksForGeeks Set 1-5](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/)
+    - [Solving Recurrence](http://faculty.simpson.edu/lydia.sinapova/www/cmsc250/LN250_Weiss/L14-RecRel.htm)
 - MOOCs
     - [MIT 6-006]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - Books
@@ -178,17 +199,14 @@ If you decide to learn haskell
 
 ### Level 1000
 https://btholt.github.io/four-semesters-of-cs-part-two/
-https://sinon.org/algorithms/#data-structures
-https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401
-http://faculty.simpson.edu/lydia.sinapova/www/cmsc250/LN250_Weiss/L14-RecRel.htm
-https://unterwaditzer.net/2016/sync-algorithm.html
-know what tla+ is, tutorials are there on lobster
-https://tylercipriani.com/blog/2017/07/09/the-rsync-algorithm-in-python/
-python algos: https://github.com/harishvc/challenges#data-structures-algorithms--concepts
-cpp algos: https://github.com/PetarV-/Algorithms
-viz: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-https://blog.pramp.com/how-to-solve-any-dynamic-programming-problem-603b6fbbd771
-CP HARD: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=118
+### Advanced Algorithms
+- [ ] [Simple sync algorithm](https://unterwaditzer.net/2016/sync-algorithm.html)
+- [ ] [rsync algo in python](https://tylercipriani.com/blog/2017/07/09/the-rsync-algorithm-in-python/)
+
+### Competitive Programming
+- [ ] [Solving any dynamic problem](https://blog.pramp.com/how-to-solve-any-dynamic-programming-problem-603b6fbbd771)
+- [ ] [UVA online Hard](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=118)
+
 graph
 https://www.redblobgames.com/pathfinding/a-star/implementation.html
 https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/
@@ -202,7 +220,6 @@ http://discrete.gr/complexity/
 project euler python solutions 
 https://github.com/nayuki/Project-Euler-solutions/tree/master/python
 once you're done with DS&algo do this in two days: 
-https://interactivepython.org/runestone/static/pythonds/index.html
 http://wykobi.com/tutorial.html#Introduction
 
 ## Systems Programming
