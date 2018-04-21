@@ -273,11 +273,10 @@ If you decide to learn haskell
 
 ### Level 2
 
-- [How groups work in linux](https://jvns.ca/blog/2017/11/20/groups/)
-- [Quickly Writing a Kernel(Not really a kernel)](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
-- [Introduction to concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
-- [Concurrency primer](https://drive.google.com/open?id=1msGTeCIV0ZfHefb_MpHZDZqv8qcGnhEU)
-- [Concurrency VS Parallel](http://yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html)
+- Concurrency
+    - [Introduction to concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
+    - [Concurrency primer](https://drive.google.com/open?id=1msGTeCIV0ZfHefb_MpHZDZqv8qcGnhEU)
+    - [Concurrency VS Parallel](http://yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html)
 
 ### Level 3
 - Tutorials
@@ -288,6 +287,10 @@ If you decide to learn haskell
     - Network Programming (maybe should go in netprog then)
         - [Using select(2) in Linux](http://aivarsk.github.io/2017/04/06/select/)
 
+- [ ] [Green Threads Tutorial](http://c9x.me/articles/gthreads/intro.html)
+- [ ] [Beej guide to IPC](http://beej.us/guide/bgipc/html/multi/index.html)
+- [ ] [What is the dbus](https://techbase.kde.org/Development/Tutorials/D-Bus/Introduction)
+
 - Rabbitholes
     - [ ] [MOTD Art](https://tylercipriani.com/blog/2014/05/22/creating-baller-useful-motd-ascii-art/)
     - [ ] [Programming the Framebuffer](https://cmcenroe.me/2018/01/30/fbclock.html)
@@ -296,23 +299,14 @@ If you decide to learn haskell
     - [ ] [Fork can fail](http://rachelbythebay.com/w/2014/08/19/fork/)
 
 ### Level 4
-Extending knowledge to other things
-- [ ] [Understanding gunicorn's async worker concurrency model](http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/)
+- Extending knowledge to other things
+    - [ ] [Understanding gunicorn's async worker concurrency model](http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/)
 
-http://eudyptula-challenge.org/
-https://kernelnewbies.org
-https://lobste.rs/s/fvrdql/pipreqs_create_requirements_txt_for_any
-https://lwn.net/Articles/749992/ (terminal)
-http://zork.net/~st/jottings/Notes_on_Terminal_Emulation.html
-https://donniewest.com/build-your-own-minimal-and-scriptable-terminal (Bloated with QT)
-nice minimal terminal to learn from https://st.suckless.org
-https://www.uninformativ.de/blog/postings/2017-04-02/0/POSTING-en.html
-https://anarc.at/blog/2018-04-12-terminal-emulators-1/
-https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assembly-language/
-http://c9x.me/articles/gthreads/intro.html
-http://beej.us/guide/bgipc/html/multi/index.html ipc
-https://techbase.kde.org/Development/Tutorials/D-Bus/Introduction
-https://stackoverflow.com/questions/34315470/ipc-between-c-application-and-python
+- Contributing to the kernel
+    - [ ] [Eudyotula Challenge](http://eudyptula-challenge.org/)
+    - [ ] [Kernel Newbies](https://kernelnewbies.org)
+    - [ ] [Quickly Writing a Kernel(Not really a kernel)](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+
 https://heap-exploitation.dhavalkapil.com
 https://brennan.io/2016/11/14/kernel-dev-ep3/
 strace https://jorge.fbarr.net/2014/01/19/introduction-to-strace/
@@ -724,7 +718,6 @@ https://stackshare.io/dubsmash/dubsmash-scaling-to-200-million-users-with-3-engi
 https://www.c0ffee.net/blog/mail-server-guide
 http://toroid.org/sudoers-syntax
 https://hackernoon.com/client-network-server-and-application-caching-on-the-web-2fcdcd856886
-http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/
 https://www.hpe.com/us/en/insights/articles/the-basics-explaining-kubernetes-mesosphere-and-docker-swarm-1702.html
 https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/
 https://mesosphere.com/blog/containers-distributed-systems/
@@ -744,51 +737,62 @@ https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-clust
 https://danielmiessler.com/study/tcpdump/
 https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/
 https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters/
-https://www.cambus.net/getting-started-with-openwrt/
-http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/ 
-https://blog.kintoandar.com/2018/01/Building-healthier-containers.html
-http://www.tedinski.com/2018/04/03/why-containers.html
-https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud
-https://github.com/jiangwenyuan/nuster/wiki/Web-cache-server-performance-benchmark:-nuster-vs-squid
-- [Using OpenSSL to create certificates]( https://www.blinkingcaret.com/2017/02/01/using-openssl-to-create-certificates/)
-http://blog.z3bra.org/2016/03/hand-crafted-containers.html
-http://matt.might.net/articles/sculpting-text/
-https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7
-https://spin.atomicobject.com/2016/05/28/log-bash-history/
+- [How groups work in linux](https://jvns.ca/blog/2017/11/20/groups/)
+- [Crawling 40 Billion Pages](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
+- Understanding Virtulization
+- Understanding Containers
+    - [Building Containers](https://blog.kintoandar.com/2018/01/Building-healthier-containers.html)
+    - [Why containers](http://www.tedinski.com/2018/04/03/why-containers.html)
+    - Theres a bocker named repo in github, check it.
+    - [Handcrafted Containers](http://blog.z3bra.org/2016/03/hand-crafted-containers.html)
+    - [Linux Namespaces](https://medium.com/@teddyking/linux-namespaces-850489d3ccf)
+    - [Workshop on Linux Containers](https://github.com/Fewbytes/rubber-docker)
+    - [Intro to LXD](https://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)
+
+- War stories and Case Studies
+    - [Monitoring at soundcloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud)
+    - [Learn redis the hard way trivago](http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/)
+    - [Fastest Site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
+    - [Stop using gzip!](http://imoverclocked.blogspot.in/2015/12/for-love-of-bits-stop-using-gzip.html)
+    - [Adventures in /usr/bin](https://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html)
+    - [Why nix](https://yakking.branchable.com/posts/what-and-why-nix/)
+    - [Memcached-Backed Content Infrastructure Khanacademy](http://engineering.khanacademy.org/posts/memcached-fms.htm)
+
+- Sysadmin Tools
+    - [Compare nuster and squid](https://github.com/jiangwenyuan/nuster/wiki/Web-cache-server-performance-benchmark:-nuster-vs-squid)
+
+- SSL, SSH & Sysadmin & Home Security
+    - [ ] First know the difference between SSH and SSL then OpenSSH and OpenSSL
+    - [ ] [SSH for everything](https://lobste.rs/s/oufswu/why_aren_t_we_using_ssh_for_everything)
+    - [ ] [Security basics with GPG, OpenSSH, OpenSSL and Keybase](https://www.integralist.co.uk/posts/security-basics/)
+    - [ ] [Upgrading SSH Keys](https://blog.g3rt.nl/upgrade-your-ssh-keys.html)
+    - [ ] [Using OpenSSL to create certificates]( https://www.blinkingcaret.com/2017/02/01/using-openssl-to-create-certificates/)
+
+- Text Processing
+    - [Sculpting Text](http://matt.might.net/articles/sculpting-text/)
+
 learn curl
-https://www.davidpashley.com/articles/writing-robust-shell-scripts/
-https://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+TheGeekStuff+%2528The+Geek+Stuff%2529&utm_content=Google+Reader
-https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/
-http://www.catonmat.net/blog/bash-one-liners-explained-part-one/
-https://www.expeditedssl.com/aws-in-plain-english
-https://en.wikibooks.org/wiki/An_Awk_Primer
-containers
-https://medium.com/@teddyking/linux-namespaces-850489d3ccf
-https://github.com/Fewbytes/rubber-docker
-- [SSH for everything](https://lobste.rs/s/oufswu/why_aren_t_we_using_ssh_for_everything)
-- [Security basics with GPG, OpenSSH, OpenSSL and Keybase](https://www.integralist.co.uk/posts/security-basics/)
-- [Upgrading SSH Keys](https://blog.g3rt.nl/upgrade-your-ssh-keys.html)
-http://imoverclocked.blogspot.in/2015/12/for-love-of-bits-stop-using-gzip.html
-https://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html
-https://yakking.branchable.com/posts/what-and-why-nix/
-http://www.pixelbeat.org/programming/shell_script_mistakes.html
-http://engineering.khanacademy.org/posts/memcached-fms.htm
-https://www.funtoo.org/Category:Linux_Core_Concepts
-https://githubengineering.com/kubernetes-at-github/
-https://clementc.github.io/blog/2018/01/25/moving_cli/
-https://zwischenzugs.com/2017/10/27/ten-things-i-wish-id-known-before-using-vagrant/
-https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/
-https://www.vidarholen.net/contents/blog/?p=479
-https://blog.scottlowe.org/2015/05/06/quick-intro-lxd/
+[Scaling with load balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
+[ (http://www.catonmat.net/blog/bash-one-liners-explained-part-one/)
+
+
+- Basic Stuff
+    - [Core Linux Concepts](https://www.funtoo.org/Category:Linux_Core_Concepts)
+    - [Moving in CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)
+
+- Bash
+    - [Bash Guide](http://mywiki.wooledge.org/BashGuide)
+    - [Bash Scripting Mistakes](http://www.pixelbeat.org/programming/shell_script_mistakes.html)
+    - [Robust Shell Scripts](https://www.davidpashley.com/articles/writing-robust-shell-scripts/)
+    - [Style Guide](https://google.github.io/styleguide/shell.xml)
+    - [Advanced Guide](http://www.tldp.org/LDP/abs/html/index.html)
+
+- [Vagrant KnowHow](https://zwischenzugs.com/2017/10/27/ten-things-i-wish-id-known-before-using-vagrant/)
+- [Running own DNS server](https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/)
 Learn Virtulization , KVM etc nd containers
-http://www.tldp.org/LDP/abs/html/index.html
-https://lobste.rs/s/elmdha/memcached_redis
-https://monades.roperzh.com/weekly-command-processing-json-with-jq/
-learn sed, awk
-https://lobste.rs/s/kn1f3k/fastcgi_is_pointless_2014
-https://google.github.io/styleguide/shell.xml
-http://mywiki.wooledge.org/BashGuide
-https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+- Scaling  Intro
+    - [Good Loadbalancing and Proxy Intro](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
+    - [Memcached V/S Redis](https://lobste.rs/s/elmdha/memcached_redis)
 
 ------------------------
 ## Overall sound understanding of a system
@@ -833,3 +837,7 @@ https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-pro
 http://hyperpolyglot.org
 http://brandon.si/code/choosing-a-binary-to-text-encoding/
 https://brendanzagaeski.appspot.com/0004.html
+
+-----------------------------------
+## Python 
+https://lobste.rs/s/fvrdql/pipreqs_create_requirements_txt_for_any

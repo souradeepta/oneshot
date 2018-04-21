@@ -101,6 +101,7 @@
     - [Logging library in C](https://github.com/rxi/log.c)
 - A virus
     - [simple virus in python](https://github.com/cranklin/Python-Virus)
+    - [Creating a virus using assembly](https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assembly-language/)
 - A VM
     - [vm in python](https://github.com/GedRap/xs-vm)
 - A botnet
@@ -112,9 +113,17 @@
 - A program totally in assembly
 - A Device Driver
 - A terminal
+    - [A look at terminal emulators](https://lwn.net/Articles/749992/)
+    - [Another look at terminal emulators](https://anarc.at/blog/2018-04-12-terminal-emulators-1/)
     - [Tutorial](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
+    - [Notes on terminal emulation](http://zork.net/~st/jottings/Notes_on_Terminal_Emulation.html)
+    - [QT bloated terminal tutorial](https://donniewest.com/build-your-own-minimal-and-scriptable-terminal)
+    - [Nice minimal suckless terminal to learn from](https://st.suckless.org)
+    - [How does Clipboard work](https://www.uninformativ.de/blog/postings/2017-04-02/0/POSTING-en.html)
+
 - Bash History
     - [Visualizer leher guide](https://hackernoon.com/visualizing-data-in-terminal-using-lehar-7cfded09c1ad)
+    - [Blog post](https://spin.atomicobject.com/2016/05/28/log-bash-history/)
 - Reverse Proxy Grapher
     - [example](https://paranoidbeavers.ca/rev-proxy-grapher.html)
 - Binary Split utility
@@ -122,3 +131,5 @@
 - Building your own CDN
     - [Tutorial](https://pasztor.at/blog/building-your-own-cdn)
     - [HN](https://news.ycombinator.com/item?id=16374645)
+- Snapchat Filesystem
+    -  [Repo](https://github.com/hausdorff/snapchat-fs)
