@@ -19,10 +19,13 @@
 - Basic unix shell
     - [Simple Shell in C](https://github.com/jmreyes/simple-c-shell)
     - [Writing a shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+    - [Another Writing shell in C (good)](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
     - For each command you have to fork, exec, and then wait for the process to finish.
     - Once there’s a shell that can handle execution of single commands, it can be interesting to implement pipes and file redirection with dup2, or shell metacharacters like $! with the wait() syscall. Around this time it’s also a good chance to learn about zombies and orphans, and how double forking can be used to daemonize a process.
 - Pick an RFC like RFC4648 and go down the rabbit hole implementing it.
 - Implement a debugging socket proxy.
+- A debugger
+    - [Tutorial](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 - Backdoor
     - [example backdoor in c](https://github.com/m-o-/Backdoor)
 - irc bot
@@ -58,6 +61,8 @@
     - [blogpost](https://nickdrane.com/build-your-own-regex/)
 - A web app scalable to 100,000 simultaneous users
 - Full text search engine.
+- Text editor
+    - [kilo tutorial](https://viewsourcecode.org/snaptoken/kilo/)
 - Distributed Search Engine
     - [IITK Term Project](https://github.com/zorroblue/distributed-search-engine)
 - A Gopher client
@@ -106,6 +111,8 @@
     - [C Implementation](https://github.com/drichardson/huffman)
 - A program totally in assembly
 - A Device Driver
+- A terminal
+    - [Tutorial](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 - Bash History
     - [Visualizer leher guide](https://hackernoon.com/visualizing-data-in-terminal-using-lehar-7cfded09c1ad)
 - Reverse Proxy Grapher

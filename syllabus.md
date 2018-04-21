@@ -2,9 +2,11 @@
 TODO: from these blogs, take note of the companies and what they do
 
 ## Rules
+- Stop browsing the internet, you have everything here.
 - Don't go next level unless you complete current level.
 - Untill and unless mentioned, Excercises are **MANDATORY**.
 - You're doing this for yourself, don't cheat yourself.
+- Do not read blog/article if you don't need it, there are too many.
 
 after list done just assign projects to this list
 
@@ -145,6 +147,7 @@ know what tla+ is, tutorials are there on lobster
     - [ ] [Distributed Systems and API](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/)
     - [ ] [Parallel processing with unix tools](http://www.pixelbeat.org/docs/unix-parallel-tools.html)
     - [ ] [Things that programmers don't know but should](https://gist.github.com/garybernhardt/44b7063110fc423edb4d)
+    - [ ] [Understanding RPCs](https://prakhar.me/articles/understanding-rpcs/)
 ### Level 3
 - Blogposts
     - [ ] [Basic Paxos Implementation](http://nil.csail.mit.edu/6.824/2015/notes/paxos-code.html)
@@ -241,6 +244,7 @@ If you decide to learn haskell
 - [ ] [Code Samples (Skip for now i'd say)](https://gist.github.com/geekodour/93552b2f382e99b3d14ddc5c464f6c50)
 - [ ] [Actual and good kernel dev guide](http://www.osdever.net/bkerndev/Docs/intro.htm)
 - [ ] [Linux Insides Book](https://0xax.gitbooks.io/linux-insides/content/)
+- [ ] [Graphviz Intro](https://www.worthe-it.co.za/programming/2017/09/19/quick-introduction-to-graphviz.html)
 
 ### Level 0
 - This is a refresher of C
@@ -269,53 +273,32 @@ If you decide to learn haskell
 
 ### Level 2
 
-### Level 3
-- [ ] [Project Ideas I](http://sites.harvard.edu/~lib215/hw/)
-
-- [ ] [Understanding gunicorn's async worker concurrency model](http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/)
-
-
-- Fun things
-    - [MOTD Art](https://tylercipriani.com/blog/2014/05/22/creating-baller-useful-motd-ascii-art/)
-
+- [How groups work in linux](https://jvns.ca/blog/2017/11/20/groups/)
+- [Quickly Writing a Kernel(Not really a kernel)](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 - [Introduction to concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
 - [Concurrency primer](https://drive.google.com/open?id=1msGTeCIV0ZfHefb_MpHZDZqv8qcGnhEU)
 - [Concurrency VS Parallel](http://yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html)
 
-- [Quickly Writing a Kernel(Not really a kernel)](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
-- [Programming the Framebuffer](https://cmcenroe.me/2018/01/30/fbclock.html)
+### Level 3
+- Tutorials
+    - Tracing
+        - [ ] [Primer to Linux Tracing](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
+        - [ ] [Linux Tracing Workshop](https://github.com/goldshtn/linux-tracing-workshop)
+        - [ ] [Linux Performance Tracing](http://www.brendangregg.com/linuxperf.html)
+    - Network Programming (maybe should go in netprog then)
+        - [Using select(2) in Linux](http://aivarsk.github.io/2017/04/06/select/)
 
-https://jvns.ca/blog/2017/11/20/groups/
-http://nickdesaulniers.github.io/blog/2017/05/16/submitting-your-first-patch-to-the-linux-kernel-and-responding-to-feedback/
-https://anniecherkaev.com/grep-your-way-to-freedom rabbithole
-case studies
-https://github.com/slavaim/Linux-kernel-modules
-http://betteros.org/tut/graphics1.php#wl 
-https://andrestc.com/post/cgroups-io/
-https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
-linux end
-https://blog.knatten.org/2018/03/09/lvalues-rvalues-glvalues-prvalues-xvalues-help/
-https://jvns.ca/blog/2017/07/05/linux-tracing-systems/
-https://github.com/goldshtn/linux-tracing-workshop
-http://www.brendangregg.com/linuxperf.html
-http://aivarsk.github.io/2017/04/06/select/
-https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
-https://www.worthe-it.co.za/programming/2017/09/19/quick-introduction-to-graphviz.html
-https://lwn.net/Articles/250967/
-https://www.cons.org/cracauer/sigint.html
-https://www.stev.org/post/linuxprogrammingsignalstheeasyway
-https://gist.github.com/aspyct/3462238
-http://www.linuxprogrammingblog.com/all-about-linux-signals?page=show
-http://rachelbythebay.com/w/2014/08/19/fork/
-tools
-https://viewsourcecode.org/snaptoken/kilo/
-https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/
-tools end
-http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html
-https://lobste.rs/s/dm86sl/pipe_c_simple_thread_safe_fifo_c
-https://lobste.rs/s/pxhx9v/gui_development_is_broken
-https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/
-https://prakhar.me/articles/understanding-rpcs/
+- Rabbitholes
+    - [ ] [MOTD Art](https://tylercipriani.com/blog/2014/05/22/creating-baller-useful-motd-ascii-art/)
+    - [ ] [Programming the Framebuffer](https://cmcenroe.me/2018/01/30/fbclock.html)
+    - [ ] [Low level graphics](http://betteros.org/tut/graphics1.php)
+    - [ ] [Project Ideas I](http://sites.harvard.edu/~lib215/hw/)
+    - [ ] [Fork can fail](http://rachelbythebay.com/w/2014/08/19/fork/)
+
+### Level 4
+Extending knowledge to other things
+- [ ] [Understanding gunicorn's async worker concurrency model](http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/)
+
 http://eudyptula-challenge.org/
 https://kernelnewbies.org
 https://lobste.rs/s/fvrdql/pipreqs_create_requirements_txt_for_any
