@@ -17,9 +17,10 @@
 - A webserver
 - Markov-chain bot
 - Basic unix shell
+    - [Simple Shell in C](https://github.com/jmreyes/simple-c-shell)
+    - [Writing a shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
     - For each command you have to fork, exec, and then wait for the process to finish.
     - Once there’s a shell that can handle execution of single commands, it can be interesting to implement pipes and file redirection with dup2, or shell metacharacters like $! with the wait() syscall. Around this time it’s also a good chance to learn about zombies and orphans, and how double forking can be used to daemonize a process.
-    - [Simple Shell in C](https://github.com/jmreyes/simple-c-shell)
 - Pick an RFC like RFC4648 and go down the rabbit hole implementing it.
 - Implement a debugging socket proxy.
 - Backdoor
@@ -54,6 +55,7 @@
 - A crypto algorithm
 - Regular Expression Matcher
     - [by Rob Pike!](http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+    - [blogpost](https://nickdrane.com/build-your-own-regex/)
 - A web app scalable to 100,000 simultaneous users
 - Full text search engine.
 - Distributed Search Engine
@@ -74,7 +76,9 @@
 - Decentralized Search Engine
     - [Help](https://lobste.rs/s/0qqymz/building_decentralized_bittorrent)
 - Implement malloc (may take 20hrs+)
-- Web Crawler in C https://github.com/petterw/crawler
+- Web Crawler 
+    - [Good blog for other python crawling resources](http://www.automatingosint.com/blog/)
+    - [Crawler in C](https://github.com/petterw/crawler)
 - KVM Example https://github.com/dpw/kvm-hello-world
 - HTTP Processing in C https://github.com/mendsley/tinyhttp
 - MinHeap Priority in C https://github.com/armon/c-minheap-array
@@ -103,3 +107,7 @@
 - A Device Driver
 - Bash History
     - [Visualizer leher guide](https://hackernoon.com/visualizing-data-in-terminal-using-lehar-7cfded09c1ad)
+- Reverse Proxy Grapher
+    - [example](https://paranoidbeavers.ca/rev-proxy-grapher.html)
+- Binary Split utility
+    - [example](https://jugad2.blogspot.in/2016/04/bsplit-binary-file-split-utility-in.html)

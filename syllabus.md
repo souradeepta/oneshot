@@ -150,16 +150,17 @@ RULE: Don't go next level unless you complete current level.
     - [ ] [Decentralized Commenting System IPFS](https://lobste.rs/s/objilw/how_create_fairly_decentralized)
 
 # Programming Languages
-Scheme Playlist https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0
-http://papl.cs.brown.edu/2016/index.html uses pyret, but before that learn scheme
-sicp in lisp (scheme)
-- [SICP mooc]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+### Level 0
+- [Scheme Youtube Playlist](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
 - [SICP Guide+MOOC](https://github.com/geekodour/sicp-course)
+- [Beautiful SICP](https://sarabander.github.io/sicp/html/index.xhtml)
+### Level 1
+- [Brown uni Book on PPL - Pyret](http://papl.cs.brown.edu/2016/index.html)
+- [SICP mooc II]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 
-http://dev.stephendiehl.com/hask/
-http://articulate-lisp.com ( not gonna do, quicklisp)
-https://archive.is/9eHSF
-https://skim.la/gnu_smalltalk_koans/
+If you decide to learn haskell
+- [Good Book on haskell](http://dev.stephendiehl.com/hask/)
+- [Very Good Book on haskell](https://drive.google.com/open?id=1Hkm0S-meMDZUU-oRSP2oD-NEBLVbA4jB)
 
 ## Data Structures and Algorithms
 mooc https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
@@ -212,6 +213,7 @@ pres book another mooc on YT https://www.youtube.com/playlist?list=PLpIxOj-HnDsP
 https://github.com/cirosantilli/linux-kernel-module-cheat
 http://sites.harvard.edu/~lib215/
 https://github.com/Aliireeza/Educational-Samples
+- [GDB Tutorial](http://www.unknownroad.com/rtfm/gdbtut/gdbtoc.html)
 fun
 https://tylercipriani.com/blog/2014/05/22/creating-baller-useful-motd-ascii-art/
 linux
@@ -384,7 +386,8 @@ http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/
 https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming#10-floating-point-and-simd
 OS Dev guide: http://www.brokenthorn.com/Resources/OSDevIndex.html
-EFI Boot Process: http://jdebp.eu./FGA/efi-boot-process.html
+- [EFI Boot Process](http://jdebp.eu./FGA/efi-boot-process.html)
+- [UEFI Boot Process](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
 Bootloaders in Linux(Practical): https://www.rodsbooks.com/efi-bootloaders/index.html
 https://blog.demofox.org/2017/11/21/floating-point-precision/
 bootloader http://3zanders.co.uk/2017/10/13/writing-a-bootloader/
@@ -638,6 +641,8 @@ https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-co
 https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html
 https://github.com/learnbyexample/Command-line-text-processing
 https://sysadmincasts.com
+https://learnbchs.org/index.html
+https://lobste.rs/s/2c4hvd/bchs_bsd_c_httpd_sqlite
 https://www.zachary.com/posts/how-to-data/
 https://pasztor.at/blog/building-your-own-cdn
     - HN: https://news.ycombinator.com/item?id=16374645
@@ -646,6 +651,7 @@ https://github.com/turkenh/ansible-interactive-tutorial
 https://healthchecks.io/docs/cron/
 https://github.com/turkenh/ansible-interactive-tutorial/blob/master/README.md
 http://www.opsschool.org/en/latest/introduction.html
+- [Difference between Tmux and Screen](https://wtanaka.com/node/8136)
 video to AWS ECS and Docker https://awsdevops.io/courses/190849/lectures/2902055
 http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-for-local-web-development.html
 https://www.romanzolotarev.com/openbsd/webserver.html
@@ -694,6 +700,7 @@ https://blog.kintoandar.com/2018/01/Building-healthier-containers.html
 http://www.tedinski.com/2018/04/03/why-containers.html
 https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud
 https://github.com/jiangwenyuan/nuster/wiki/Web-cache-server-performance-benchmark:-nuster-vs-squid
+- [Using OpenSSL to create certificates]( https://www.blinkingcaret.com/2017/02/01/using-openssl-to-create-certificates/)
 http://blog.z3bra.org/2016/03/hand-crafted-containers.html
 http://matt.might.net/articles/sculpting-text/
 https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7
@@ -708,11 +715,15 @@ https://en.wikibooks.org/wiki/An_Awk_Primer
 containers
 https://medium.com/@teddyking/linux-namespaces-850489d3ccf
 https://github.com/Fewbytes/rubber-docker
+- [SSH for everything](https://lobste.rs/s/oufswu/why_aren_t_we_using_ssh_for_everything)
+- [Security basics with GPG, OpenSSH, OpenSSL and Keybase](https://www.integralist.co.uk/posts/security-basics/)
+- [Upgrading SSH Keys](https://blog.g3rt.nl/upgrade-your-ssh-keys.html)
 http://imoverclocked.blogspot.in/2015/12/for-love-of-bits-stop-using-gzip.html
 https://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html
 https://yakking.branchable.com/posts/what-and-why-nix/
 http://www.pixelbeat.org/programming/shell_script_mistakes.html
 http://engineering.khanacademy.org/posts/memcached-fms.htm
+https://www.funtoo.org/Category:Linux_Core_Concepts
 https://githubengineering.com/kubernetes-at-github/
 https://clementc.github.io/blog/2018/01/25/moving_cli/
 https://zwischenzugs.com/2017/10/27/ten-things-i-wish-id-known-before-using-vagrant/
@@ -728,61 +739,36 @@ https://lobste.rs/s/kn1f3k/fastcgi_is_pointless_2014
 https://google.github.io/styleguide/shell.xml
 http://mywiki.wooledge.org/BashGuide
 https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+
 ## Overall sound understanding of a system
-https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/
-https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011
-https://www.youtube.com/watch?v=-oYfv794R9s&index=2&list=PLhQN_EIoIKBRA0yVTsWDoJzEKZwJY0p3l
-https://www.youtube.com/watch?v=Is4PW6f4Pk4
-https://www.youtube.com/watch?v=HhtecBhM_oA&index=1&list=PLD71F13843965439D
-http://cldr.unicode.org
-http://utf8everywhere.org/
-http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
-https://unicode.org/reports/tr15/
-https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
-https://shkspr.mobi/blog/2017/05/unicode-is-hard/
-https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/
-https://www.b-list.org/weblog/2017/sep/05/how-python-does-unicode/
-http://reedbeta.com/blog/programmers-intro-to-unicode/
-https://www.funtoo.org/Category:Linux_Core_Concepts
-http://www.cl.cam.ac.uk/~mgk25/unicode.html#ucs
-https://github.com/reinderien/mimic
-https://codewords.recurse.com/issues/seven/a-history-of-storage-media
-https://lobste.rs/s/oufswu/why_aren_t_we_using_ssh_for_everything
-https://www.integralist.co.uk/posts/security-basics/
-https://pennsylforniageek.tumblr.com/post/154023102856/why-i-built-my-own-hacking-network-and-you
-https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide
-http://www.pixelbeat.org/docs/coreutils-gotchas.html
-https://www.blinkingcaret.com/2017/02/01/using-openssl-to-create-certificates/
-https://wtanaka.com/node/8136
-https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs
-https://blog.tjll.net/building-my-perfect-router/
-https://blog.g3rt.nl/upgrade-your-ssh-keys.html (do to PC key)
-https://webaim.org/blog/user-agent-string-history/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+- [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
+- [UTF-8 vs UTF-16 - I](https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011)
+- [UTF-8 vs UTF-16 - II](http://web.archive.org/web/20110520060518/https://stackoverflow.com/questions/1049947/should-utf-16-be-considered-harmful)
+- [UTF-8 vs UTF-16 - III](http://utf8everywhere.org/)
+- [Character Representation YT](https://www.youtube.com/watch?v=-oYfv794R9s&index=2&list=PLhQN_EIoIKBRA0yVTsWDoJzEKZwJY0p3l)
+- [The journey of a word: how text ends up on a page](https://www.youtube.com/watch?v=Is4PW6f4Pk4)
+- [Number representation YT](https://www.youtube.com/watch?v=HhtecBhM_oA&index=1&list=PLD71F13843965439D)
+- [Unicode CLDR Project](http://cldr.unicode.org)
+- [Absolute Minimum Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- [Minimal Unicode Intro](http://erratique.ch/software/uucp/doc/Uucp.html#uminimal)
+- [Unicode is Hard](https://shkspr.mobi/blog/2017/05/unicode-is-hard/)
+- [How Python does Unicode](https://www.b-list.org/weblog/2017/sep/05/how-python-does-unicode/)
+- [A Programmer’s Introduction to Unicode](http://reedbeta.com/blog/programmers-intro-to-unicode/)
+- [UTF-8 and Unicode FAQ for Unix/Linux](http://www.cl.cam.ac.uk/~mgk25/unicode.html#ucs)
+- [Abusing with unicode(github repo)](https://github.com/reinderien/mimic)
+- [History of storage media](https://codewords.recurse.com/issues/seven/a-history-of-storage-media)
+- [Workstation guide](https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide)
+- [Coreutils gotchas](http://www.pixelbeat.org/docs/coreutils-gotchas.html)
+- [Interesting CSV article](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs)
+- [User agent History](https://webaim.org/blog/user-agent-string-history/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 ## Tools
-https://qntm.org/files/re/re.html
-http://duc.zevv.nl dude where are my bytes
-https://github.com/dbohdan/structured-text-tools
-busybox provides the functionality of many common unix tools in a single executable. It’s super tiny which makes it great for embedded development. Or sneaking onto someone else’s Linux system, apparently.
-https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags
-https://regexone.com
-http://www.cs.umsl.edu/~sanjiv/classes/cs2750/lectures/re.pdf
-https://brennan.io/2015/01/16/write-a-shell-in-c/
-irc bot http://zork.net/~nick/shazbot/README.html
-calc http://www.free-test-online.com/binary/signed_converter.html
-http://danluu.com/malloc-tutorial/
-https://lobste.rs/s/2c4hvd/bchs_bsd_c_httpd_sqlite
-https://paranoidbeavers.ca/rev-proxy-grapher.html
-https://learnbchs.org/index.html
-http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
-https://nickdrane.com/build-your-own-regex/
-http://www.oilshell.org/blog/2017/09/19.html
-https://jugad2.blogspot.in/2016/04/bsplit-binary-file-split-utility-in.html
-http://www.unknownroad.com/rtfm/gdbtut/gdbtoc.html
-https://www.drmaciver.com/2015/05/using-tmux-to-test-your-console-applications/
-good blog for scraping resourcces http://www.automatingosint.com/blog/
-http://www.ivarch.com/programs/pv.shtml
+- [ ] [Learn regex in 55 mins](https://qntm.org/files/re/re.html)
+- [ ] [Using regex to parse HTML](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags)
+- [ ] [Good regex tutorial](https://regexone.com)
+- [ ] [Regex with sed and awk](https://drive.google.com/open?id=10ybau2cHcOtVApfagJqdOmgchOLubojx)
+- [ ] [Online Binary/Decimal/Hex Converter](http://www.free-test-online.com/binary/signed_converter.html)
+    - LEARN How to do this in the terminal
 ## Misc
-https://andrewbrookins.com/django/how-does-djangos-streaminghttpresponse-work-exactly/
 http://hyperpolyglot.org
 http://brandon.si/code/choosing-a-binary-to-text-encoding/
 https://brendanzagaeski.appspot.com/0004.html
