@@ -717,27 +717,26 @@ Decentralised
     - [ ] First know the difference between SSH and SSL then OpenSSH and OpenSSL
     - [ ] [SSH for everything](https://lobste.rs/s/oufswu/why_aren_t_we_using_ssh_for_everything)
     - [ ] [Security basics with GPG, OpenSSH, OpenSSL and Keybase](https://www.integralist.co.uk/posts/security-basics/)
+    - [ ] [Own identity using gpg](http://www.saminiir.com/establish-cryptographic-identity-using-gnupg/)
     - [ ] [Upgrading SSH Keys](https://blog.g3rt.nl/upgrade-your-ssh-keys.html)
     - [ ] [Using OpenSSL to create certificates]( https://www.blinkingcaret.com/2017/02/01/using-openssl-to-create-certificates/)
-    - https://lobste.rs/s/5ewzcx/ssh_vs_openvpn_for_tunneling
-    - https://karla.io/2016/04/30/ssh-for-fun-and-profit.html
-
-https://medium.com/@thegrugq/the-zen-of-pgp-6f55d44657dd
-https://medium.com/@shazow/ssh-how-does-it-even-9e43586e4ffc
-http://markmims.com/2015/06/01/ssh-tips.html
-https://jpmens.net/2018/03/25/alerting-on-ssh-logins/
-https://www.foo.be/2016/12/OpenPGP-really-works
-figure out what is this https://www.reddit.com/r/commandline/comments/8bfxq4/good_free_ssh_shell_accounts/
-good idea https://lobste.rs/s/vy9uj7/web_login_using_ssh
-https://russellparker.me/post/2018/04/10/how-learning-gpg-is-like-learning-git/
-same idea ssh to login https://archive.is/7qP7i
-https://ssd.eff.org/en/module/how-use-pgp-linux
-https://lobste.rs/s/zbzm9m/encrypted_email_is_still_pain_2017 (comment part important)
-https://kyleisom.net/articles/ssh_keys.html (few wrong facts in numbers, beware)
-http://futureboy.us/pgp.html
-https://www.ssh.com/ssh/port
-https://begriffs.com/posts/2016-11-05-advanced-intro-gnupg.html
-http://www.saminiir.com/establish-cryptographic-identity-using-gnupg/
+    - [ ] [SSH vs Open VPN](https://lobste.rs/s/5ewzcx/ssh_vs_openvpn_for_tunneling)
+    - [ ] [SSH for fun](https://karla.io/2016/04/30/ssh-for-fun-and-profit.html)
+    - [ ] [Zen of pgp](https://medium.com/@thegrugq/the-zen-of-pgp-6f55d44657dd)
+    - [ ] [SSH for everything](https://medium.com/@shazow/ssh-how-does-it-even-9e43586e4ffc)
+    - [ ] [SSH Tips](http://markmims.com/2015/06/01/ssh-tips.html)
+    - [ ] [Alerting on SSH](https://jpmens.net/2018/03/25/alerting-on-ssh-logins/)
+    - [ ] [How OpenPGP Works](https://www.foo.be/2016/12/OpenPGP-really-works)
+    - [ ] [WTF is this](https://www.reddit.com/r/commandline/comments/8bfxq4/good_free_ssh_shell_accounts/)
+    - [ ] [SSH Login](https://lobste.rs/s/vy9uj7/web_login_using_ssh)
+    - [ ] [SSH Login II](https://archive.is/7qP7i)
+    - [ ] [Learning GPG](https://russellparker.me/post/2018/04/10/how-learning-gpg-is-like-learning-git/)
+    - [ ] [How to use PGP](https://ssd.eff.org/en/module/how-use-pgp-linux)
+    - [ ] [Encypted email](https://lobste.rs/s/zbzm9m/encrypted_email_is_still_pain_2017)
+    - [ ] [SSH keys(few wrong facts in numbers, beware)](https://kyleisom.net/articles/ssh_keys.html) 
+    - [ ] [GPG docs](http://futureboy.us/pgp.html)
+    - [ ] [SSH History](https://www.ssh.com/ssh/port)
+    - [ ] [Advanced intro GPG](https://begriffs.com/posts/2016-11-05-advanced-intro-gnupg.html)
 
 - Doing Practical things
     - [Running own DNS server](https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/)
