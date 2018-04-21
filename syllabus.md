@@ -92,7 +92,7 @@ RULE: Don't go next level unless you complete current level.
     - [ ] [How to prove it](https://drive.google.com/open?id=10q4nDvL-KAdVkudnC9ejHOTRFO1zSP93)
     - [ ] [Calculus made easy](https://drive.google.com/open?id=1S5h-4fhQGV0SNQXbZGjyB2up4YNjbcX2)
 - Videos
-    - [ ] 3Blue1Brown Videos
+    - [ ] 3Blue1Brown Videos specify which links
 ### Level 1
 - Blogposts
     - [ ] [Modular Arithmetic](https://artofproblemsolving.com/wiki/index.php/Modular_arithmetic/Introduction)
@@ -100,10 +100,10 @@ RULE: Don't go next level unless you complete current level.
     - [ ] [Basic Number Theory](https://www.codechef.com/wiki/tutorial-number-theory/)
     - [ ] [Review of Math of Comp Sci](http://www.introtcs.org/public/lec_00_1_math_background.html)
 - Books
-    - [ ] [Grimaldi]
+    - [ ] Grimaldi
 - Videos
     - [ ] [Graph Theory Visually Explained](https://goo.gl/d5n8ft)
-### Level 100
+### Level 100 (organize these)
 - [ ] [Discrete Math and FP](http://cs.wheaton.edu/~tvandrun/dmfp/)
 - [ ] [Stats and Probability MOOC](https://projects.iq.harvard.edu/stat110/youtube)
 - [ ] [Linear Algebra MOOC](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
@@ -112,47 +112,42 @@ RULE: Don't go next level unless you complete current level.
 - [ ] [Mental Math trick](http://exupero.org/hazard/post/prime-modulo/)
 
 ## Distributed Systems
-http://www.scs.stanford.edu/14au-cs244b/labs/project.html
-http://nil.csail.mit.edu/6.824/2015/notes/paxos-code.html
-http://muratbuffalo.blogspot.in/2018/01/paxos-derived.html
-https://bravenewgeek.com/dissecting-message-queues/
-MOOC https://courses.cs.washington.edu/courses/cse452/16wi/calendar/lecturelist.html
-https://gist.github.com/garybernhardt/44b7063110fc423edb4d
-MOOC https://pdos.csail.mit.edu/6.824/schedule.html
-http://nanomsg.org/
-http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html
-PROJECTS: http://www.cs.cornell.edu/courses/cs5412/2012sp/projects.htm
-PROJECTS: http://blough.ece.gatech.edu/6102/past_projects.html
-https://computing.llnl.gov/tutorials/parallel_comp/
-http://www.pixelbeat.org/docs/unix-parallel-tools.html
-case study http://book.mixu.net/distsys/single-page.html
-http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/
-https://github.com/theanalyst/awesome-distributed-systems
-http://zeromq.org/community
-http://zguide.zeromq.org/page:all
-quik interview notes: https://github.com/aphyr/distsys-class
-http://ssougou.blogspot.in/2017/09/cap-theorem-is-mostly-misunderstood.html
-https://twistedmatrix.com/trac/
-http://muratbuffalo.blogspot.in/2017/12/wpaxos-wide-area-network-paxos-protocol.html
-http://heather.miller.am/teaching/cs7680/ mooc
-book of this mooc http://dist-prog-book.com/chapter/1/rpc.html
-https://caitiem.com/2017/09/07/getting-started-with-distributed-systems/
-https://github.com/theanalyst/awesome-distributed-systems
-https://lobste.rs/s/t9lqce/distributed_systems_theory_for
-https://blog.hyper.sh/introducing-minio.html
-https://blog.acolyer.org/2016/12/08/just-say-no-to-paxos-overhead-replacing-consensus-with-network-ordering/
-https://lobste.rs/s/broefa/why_messaging_queues_suck
-http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html
-http://wp.sigmod.org/?p=1009
-https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/
-http://antirez.com/news/102
-http://antirez.com/news/78 adv
-https://github.com/aphyr/distsys-class
-https://github.com/zorroblue/distributed-search-engine
-https://lobste.rs/s/hnwaxe/simple_distributed_algorithm_for_small
-https://lobste.rs/s/objilw/how_create_fairly_decentralized
-https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html
-https://lobste.rs/s/1vmn2l/distributed_object_storage_with_minio_on
+
+### Tools
+- [Nanomsg](http://nanomsg.org/)
+- [ZeroMQ](http://zguide.zeromq.org/page:all)
+
+### Level 0
+- Blogposts
+    - [ ] [What we talk about when we talk about distributed systems](http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
+    - [ ] [IPFS Intro](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
+- Books
+    - [ ] [Distributed Systems 3rd ed](https://drive.google.com/open?id=1H_4ZcH8Z9_oggXLcF_D-a-nmzkLArCbE)
+- Videos
+    - [ ] Watch Distributed Systems in one lesson (Downloaded offline)
+### Level 1
+- MOOCs
+    - [ ] [Slide only MOOC - I](https://courses.cs.washington.edu/courses/cse452/16wi/calendar/lecturelist.html)
+    - [ ] [Slide only MOOC - II](https://pdos.csail.mit.edu/6.824/schedule.html)
+    - [ ] [Side only MOOC - III](http://heather.miller.am/teaching/cs7680/) - [Book of this MOOC](https://github.com/aphyr/distsys-class)
+    - [ ] Do a MOOC on algorithms on distributed systems from mooc site.
+- Blogposts
+    - [ ] [Distributed Systems and API](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/)
+    - [ ] [Parallel processing with unix tools](http://www.pixelbeat.org/docs/unix-parallel-tools.html)
+    - [ ] [Things that programmers don't know but should](https://gist.github.com/garybernhardt/44b7063110fc423edb4d)
+### Level 3
+- Blogposts
+    - [ ] [Basic Paxos Implementation](http://nil.csail.mit.edu/6.824/2015/notes/paxos-code.html)
+    - [ ] [Paxos Explained](http://muratbuffalo.blogspot.in/2018/01/paxos-derived.html)
+    - [ ] [Comparing Message Brokers](https://bravenewgeek.com/dissecting-message-queues/)
+    - [ ] [Understanding CAP](http://ssougou.blogspot.in/2017/09/cap-theorem-is-mostly-misunderstood.html)
+- Hard Project Ideas
+    - [ ] [Project Ideas - I](http://www.scs.stanford.edu/14au-cs244b/labs/project.html)
+    - [ ] [Project Ideas - II](http://www.cs.cornell.edu/courses/cs5412/2012sp/projects.htm)
+    - [ ] [Project Ideas - III](http://blough.ece.gatech.edu/6102/past_projects.html)
+- Case studies
+    - [ ] [Industrial Distributed Systems](http://book.mixu.net/distsys/single-page.html)
+    - [ ] [Decentralized Commenting System IPFS](https://lobste.rs/s/objilw/how_create_fairly_decentralized)
 
 # Programming Languages
 Scheme Playlist https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0
@@ -210,6 +205,7 @@ BOOK: Advanced Programming in the Unix Environment
 BOOK2: The Linux Programming Interface
 cpp http://yosefk.com/c++fqa/index.html
 cpp http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html
+- [ ] [Understanding gunicorn's async worker concurrency model](http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/)
 https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood
 https://www.cs.cmu.edu/~213/schedule.html this mooc with pres book
 pres book another mooc on YT https://www.youtube.com/playlist?list=PLpIxOj-HnDsPZIJYO4U9f-xRI8bBadaso
