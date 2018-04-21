@@ -2,6 +2,7 @@
 TODO: from these blogs, take note of the companies and what they do
 
 RULE: Don't go next level unless you complete current level.
+after list done just assign projects to this list
 
 23,15 June OS,29 - back exam
 
@@ -163,10 +164,20 @@ If you decide to learn haskell
 - [Very Good Book on haskell](https://drive.google.com/open?id=1Hkm0S-meMDZUU-oRSP2oD-NEBLVbA4jB)
 
 ## Data Structures and Algorithms
-mooc https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
-http://cs-fundamentals.com/c-programming/recursion-in-c.php
+### Level 0
+- Blogpost
+    - [Recursion Types in C](http://cs-fundamentals.com/c-programming/recursion-in-c.php)
+- Books
+    - [ODS in CPP](http://opendatastructures.org/ods-cpp/)
+
+### Level 1
+- MOOCs
+    - [MIT 6-006]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+- Books
+    - Introduction to Algorithms
+
+### Level 1000
 https://btholt.github.io/four-semesters-of-cs-part-two/
-https://github.com/jamesroutley/write-a-hash-table
 https://sinon.org/algorithms/#data-structures
 https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401
 http://faculty.simpson.edu/lydia.sinapova/www/cmsc250/LN250_Weiss/L14-RecRel.htm
@@ -192,7 +203,6 @@ project euler python solutions
 https://github.com/nayuki/Project-Euler-solutions/tree/master/python
 once you're done with DS&algo do this in two days: 
 https://interactivepython.org/runestone/static/pythonds/index.html
-http://opendatastructures.org/ods-cpp/
 http://wykobi.com/tutorial.html#Introduction
 
 ## Systems Programming
@@ -632,24 +642,35 @@ http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 
 ## Systems Admin Stuff
 local dev, server dev, network, server
-https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know
-http://sabok.org
-pfsense playlist https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk
+
+### For Home and Self
+- [Home Backup Strategy](https://www.zachary.com/posts/how-to-data/)
+
+### Tools
+- [ ] [cron help](https://healthchecks.io/docs/cron/)
+
+### Meta
+- [ ] [Meta Advice for sysadmin](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know)
+- [ ] [SABook](http://sabok.org)
+- [ ] [Sysadmin Evaluation Sheet](https://www.docs.google.com/spreadsheets/d/1FBr20VIOePQH2aAH2a_6irvdB1NOTHZaD8U5e2MOMiw/pub?output=html)
+- [ ] [Awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
+
+### Tutorials
+- [ ] [pfsense playlist](https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk)
+- [ ] [Command line text processing Book](https://github.com/learnbyexample/Command-line-text-processing)
+- [ ] [Sysadmin casts](https://sysadmincasts.com)
+- [ ] BCHS Webserver
+    - [Tutorial](https://learnbchs.org/index.html)
+    - [Discussion](https://lobste.rs/s/2c4hvd/bchs_bsd_c_httpd_sqlite)
+- [Interactive Ansible Tutorial](https://github.com/turkenh/ansible-interactive-tutorial)
+
+### Case studies
+- Load Balancing
+    - [ ] [Consistent Hashing in viemo]( https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed)
+    - [ ] [Consistent Hashing google]( https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html)
+
 https://github.com/kilimchoi/engineering-blogs (select good blogs)
-https://www.docs.google.com/spreadsheets/d/1FBr20VIOePQH2aAH2a_6irvdB1NOTHZaD8U5e2MOMiw/pub?output=html
-https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed
-https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html
-https://github.com/learnbyexample/Command-line-text-processing
-https://sysadmincasts.com
-https://learnbchs.org/index.html
-https://lobste.rs/s/2c4hvd/bchs_bsd_c_httpd_sqlite
-https://www.zachary.com/posts/how-to-data/
-https://pasztor.at/blog/building-your-own-cdn
-    - HN: https://news.ycombinator.com/item?id=16374645
-https://github.com/kahun/awesome-sysadmin
-https://github.com/turkenh/ansible-interactive-tutorial
-https://healthchecks.io/docs/cron/
-https://github.com/turkenh/ansible-interactive-tutorial/blob/master/README.md
+
 http://www.opsschool.org/en/latest/introduction.html
 - [Difference between Tmux and Screen](https://wtanaka.com/node/8136)
 video to AWS ECS and Docker https://awsdevops.io/courses/190849/lectures/2902055

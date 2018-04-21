@@ -88,7 +88,8 @@
     - [Help1](https://github.com/jonhoo/pthread_pool)
     - [Help2](https://github.com/mbrossard/threadpool)
 - Hashtable
-    - [Implementation1](https://github.com/watmough/jwHash)
+    - [Implementation I](https://github.com/watmough/jwHash)
+    - [Implementation II](https://github.com/jamesroutley/write-a-hash-table)
 - Sniffer
     - [GUI Toy in C](https://github.com/onestraw/sniffer)
 - Logging Library
@@ -111,3 +112,6 @@
     - [example](https://paranoidbeavers.ca/rev-proxy-grapher.html)
 - Binary Split utility
     - [example](https://jugad2.blogspot.in/2016/04/bsplit-binary-file-split-utility-in.html)
+- Building your own CDN
+    - [Tutorial](https://pasztor.at/blog/building-your-own-cdn)
+    - [HN](https://news.ycombinator.com/item?id=16374645)
