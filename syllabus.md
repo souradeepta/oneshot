@@ -595,6 +595,7 @@ http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 
 ## Systems Admin Stuff
 local dev, server dev, network, server
+PC Tutorial: Linux User and Group Management
 https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know
 http://sabok.org
 pfsense playlist https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk
