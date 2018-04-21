@@ -232,11 +232,32 @@ If you decide to learn haskell
 - Advanced Programming in the Unix Environment
 - The Linux Programming Interface
 
-### Assembly Resources
-- [ ] [Nice short guide to x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+### Resources
+- [ ] [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html)
 - [ ] [C++ FAQ](http://yosefk.com/c++fqa/index.html)
+- [ ] [Linux Kernel Module Cheatsheet](https://github.com/cirosantilli/linux-kernel-module-cheat) (Don't know what this is, will be useful someday)
+- [ ] [Nice short guide to x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+- [ ] [Unix Signal Resources](https://gist.github.com/geekodour/93552b2f382e99b3d14ddc5c464f6c50)
+- [ ] [Code Samples (Skip for now i'd say)](https://gist.github.com/geekodour/93552b2f382e99b3d14ddc5c464f6c50)
+- [ ] [Actual and good kernel dev guide](http://www.osdever.net/bkerndev/Docs/intro.htm)
+- [ ] [Linux Insides Book](https://0xax.gitbooks.io/linux-insides/content/)
 
 ### Level 0
+- This is a refresher of C
+    - [ ] Do relevant worksheets
+    - [ ] [Function Pointer example](http://sites.harvard.edu/~lib215/reference/programming/color_test.c)
+    - [ ] [Style Notes on Programming in C](http://sites.harvard.edu/~lib215/reference/programming/pikestyle.html)
+    - [ ] [Some Philosophy](http://sites.harvard.edu/~lib215/reference/programming/unix-esr.html)
+    - [ ] [How-To Find the Source of "Unaligned Access](http://sites.harvard.edu/~lib215/reference/general/find_unaligned.html)
+    - [ ] [CPU Illustrations](http://sites.harvard.edu/~lib215/reference/pictures/pov/)
+- GDB Tutorials
+    - [GDB Tutorial](http://www.unknownroad.com/rtfm/gdbtut/gdbtoc.html)
+    - [GDB tricks](https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know)
+    - [Learning C with GDB](https://www.recurse.com/blog/5-learning-c-with-gdb)
+    - [Valgrind and GDB](https://fau.re/blog/20140330_vgdb.html)
+    - [Practical GDB using ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
+
+### Level 1
 - MOOC
     - [ ] [Intro to Computer Systems 213 Homepage](https://www.cs.cmu.edu/~213/schedule.html)
     - [ ] [Intro to Computer Systems 213 YT](https://www.youtube.com/playlist?list=PLpIxOj-HnDsPZIJYO4U9f-xRI8bBadaso)
@@ -244,27 +265,26 @@ If you decide to learn haskell
 - HTML Books
     - [ ] [Advanced C++ (Can Skip this for now)](http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html)
 - Blogposts
-    - [ ] [How does segfault occur]( https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood)
+    - [ ] [How does a segfault occur]( https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood)
 
-### Level 1
+### Level 2
+
+### Level 3
+- [ ] [Project Ideas I](http://sites.harvard.edu/~lib215/hw/)
 
 - [ ] [Understanding gunicorn's async worker concurrency model](http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/)
 
-https://github.com/cirosantilli/linux-kernel-module-cheat
-http://sites.harvard.edu/~lib215/
-https://github.com/Aliireeza/Educational-Samples
-- [GDB Tutorial](http://www.unknownroad.com/rtfm/gdbtut/gdbtoc.html)
-fun
-https://tylercipriani.com/blog/2014/05/22/creating-baller-useful-motd-ascii-art/
-linux
-https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know
-http://cs.lmu.edu/~ray/notes/introconcurrency/
-not really a kernel but gives you some idea (arjun) https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel
-https://cmcenroe.me/2018/01/30/fbclock.html
-actual guide to kernel dev, http://www.osdever.net/bkerndev/Docs/intro.htm
-primer https://assets.bitbashing.io/papers/concurrency-primer.pdf
-http://yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html
-https://0xax.gitbooks.io/linux-insides/content/
+
+- Fun things
+    - [MOTD Art](https://tylercipriani.com/blog/2014/05/22/creating-baller-useful-motd-ascii-art/)
+
+- [Introduction to concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
+- [Concurrency primer](https://drive.google.com/open?id=1msGTeCIV0ZfHefb_MpHZDZqv8qcGnhEU)
+- [Concurrency VS Parallel](http://yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html)
+
+- [Quickly Writing a Kernel(Not really a kernel)](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+- [Programming the Framebuffer](https://cmcenroe.me/2018/01/30/fbclock.html)
+
 https://jvns.ca/blog/2017/11/20/groups/
 http://nickdesaulniers.github.io/blog/2017/05/16/submitting-your-first-patch-to-the-linux-kernel-and-responding-to-feedback/
 https://anniecherkaev.com/grep-your-way-to-freedom rabbithole
@@ -299,7 +319,6 @@ https://prakhar.me/articles/understanding-rpcs/
 http://eudyptula-challenge.org/
 https://kernelnewbies.org
 https://lobste.rs/s/fvrdql/pipreqs_create_requirements_txt_for_any
-http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
 https://lwn.net/Articles/749992/ (terminal)
 http://zork.net/~st/jottings/Notes_on_Terminal_Emulation.html
 https://donniewest.com/build-your-own-minimal-and-scriptable-terminal (Bloated with QT)
@@ -344,7 +363,6 @@ c
 http://fuckingfunctionpointers.com
 c puzzles http://www.gowrikumar.com/c/index.php
 https://blogs.oracle.com/linux/the-ksplice-pointer-challenge-v2
-https://fau.re/blog/20140330_vgdb.html
 http://seenaburns.com/building-c-programs/
 http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/
 https://blog.erratasec.com/2017/03/assert-in-hands-of-bad-coders.html
@@ -367,7 +385,6 @@ https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/
 https://amir.rachum.com/blog/2016/09/17/shared-libraries/ internals(adv)
 http://www.catb.org/esr/structure-packing/
 https://www.recurse.com/blog/7-understanding-c-by-learning-assembly
-https://www.recurse.com/blog/5-learning-c-with-gdb
 https://blog.regehr.org/archives/1395
 http://users.cs.cf.ac.uk/Dave.Marshall/C/
 http://c-faq.com
@@ -665,6 +682,7 @@ https://github.com/spencertipping/jit-tutorial
 http://mywiki.wooledge.org/ParsingLs
 https://archive.is/Gw3m
 https://code.mixpanel.com/2015/04/28/building-a-not-so-simple-expression-language/
+
 # Comp Arch
 http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 
