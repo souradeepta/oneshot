@@ -8,6 +8,8 @@
 - [ ] [Oracle Paper on Floating Point](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 - [ ] [Demystifying Floating Point Precision](https://blog.demofox.org/2017/11/21/floating-point-precision/)
 - [ ] [Number representation YT](https://www.youtube.com/watch?v=HhtecBhM_oA&index=1&list=PLD71F13843965439D)
+- [ ] [Floating point numbers 8-bit](https://www.youtube.com/watch?v=ji3SfClm8TU) (See video description)
+- [ ] [Floating point numbers 32-bit](https://www.youtube.com/watch?v=50ZYcZebIec)
 ### Unicode
 - [ ] [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 - [ ] [UTF-8 vs UTF-16 - I](https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011)
