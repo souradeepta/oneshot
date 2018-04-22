@@ -459,22 +459,18 @@ Use emojis to mark important once when you actually start the module.
     - [Invisible IP](https://lobste.rs/s/kaotqs/i2p_invisible_internet_protocol)
     - [HTTP with telnet!](https://doesnotscale.com/making-http-requests-with-telnet/)
     - [Decentralized Github](https://lobste.rs/s/3eyouc/announcing_gittorrent_decentralized)
+    - [How many IPs returned](https://lobste.rs/s/aoll45/how_many_ip_addresses_can_dns_query_return)
     - [Handwriting DNS message](https://routley.io/tech/2017/12/28/hand-writing-dns-messages.html)
     - [TCP Hard](https://www.snellman.net/blog/archive/2014-11-11-tcp-is-harder-than-it-looks.html)
 - War stories and case studies
     - [sdn router](https://labs.spotify.com/2016/01/26/sdn-internet-router-part-1/)
     - [fixing the internet](https://engineering.riotgames.com/news/fixing-internet-real-time-applications-part-i)
     - [Network Problem](https://blog.bimajority.org/2014/09/05/the-network-nightmare-that-ate-my-week/)
+    - [BPF bytecode - cloudflare](https://blog.cloudflare.com/bpf-the-forgotten-bytecode/)
+    - [MTU - Cloudflare](https://blog.cloudflare.com/path-mtu-discovery-in-practice/)
+    - [EPBF - cloudflare](https://blog.cloudflare.com/epbf_sockets_hop_distance/)
+    - [Client IPs - cloudflare](https://blog.cloudflare.com/mmproxy-creative-way-of-preserving-client-ips-in-spectrum/)
 
-war stories
-https://blog.cloudflare.com/mmproxy-creative-way-of-preserving-client-ips-in-spectrum/
-https://making.pusher.com/redis-pubsub-under-the-hood/
-triva https://lobste.rs/s/aoll45/how_many_ip_addresses_can_dns_query_return
-own dns https://lobste.rs/s/mrgro8/how_why_i_run_my_own_dns_servers
-cloudflareblogs
-https://blog.cloudflare.com/bpf-the-forgotten-bytecode/
-https://blog.cloudflare.com/path-mtu-discovery-in-practice/
-https://blog.cloudflare.com/epbf_sockets_hop_distance/
 
 ------------------------
 ## Database
@@ -540,6 +536,8 @@ https://blog.cloudflare.com/epbf_sockets_hop_distance/
 - http://lifepluslinux.blogspot.in/2017/01/look-before-you-paste-from-website-to.html
 - https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/
 
+-------------------------------------
+
 ## Compilers and Interpreters
 I think a valuable takeaway point for those interested in writing their own compiler is to use appropriate tools to get to the end goal as quickly as possible. Lexing, parsing, and code generation are all very interesting and challenging problems on their own. However, when writing your first compiler none of these stages should slow you down. Then, you can focus on the design of the internal representation and optimizations, which IMO will gain you better understanding of compilers.
 
@@ -579,8 +577,7 @@ I think a valuable takeaway point for those interested in writing their own comp
 - [JSON parser in C](https://archive.is/Gw3m)
 - [Build your own lisp book (using C)](http://buildyourownlisp.com/)
 
-# Comp Arch
-
+-----------------------------------------
 ## Systems Admin Stuff
 
 ### For Home and Self
@@ -676,7 +673,7 @@ Decentralised
     - [ ] [Advanced intro GPG](https://begriffs.com/posts/2016-11-05-advanced-intro-gnupg.html)
 
 - Doing Practical things
-    - [Running own DNS server](https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/)
+    - [Running own DNS server](https://lobste.rs/s/mrgro8/how_why_i_run_my_own_dns_servers)
     - [Running own DNS server II](https://lobste.rs/s/en12xe/host_your_own_dns_over_https_server_for)
     - [SOCKS Proxy](https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters/)
     - [OpenBSD webserver](https://www.romanzolotarev.com/openbsd/webserver.html)
@@ -749,6 +746,7 @@ Decentralised
 - [ ] [Minimal Unicode Intro](http://erratique.ch/software/uucp/doc/Uucp.html#uminimal)
 - [ ] [Unicode is Hard](https://shkspr.mobi/blog/2017/05/unicode-is-hard/)
 - [ ] [How Python does Unicode](https://www.b-list.org/weblog/2017/sep/05/how-python-does-unicode/)
+- [ ] [How Python does Unicode II](http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/)
 - [ ] [A Programmer’s Introduction to Unicode](http://reedbeta.com/blog/programmers-intro-to-unicode/)
 - [ ] [UTF-8 and Unicode FAQ for Unix/Linux](http://www.cl.cam.ac.uk/~mgk25/unicode.html#ucs)
 - [ ] [Abusing with unicode(github repo)](https://github.com/reinderien/mimic)
@@ -776,28 +774,32 @@ https://brendanzagaeski.appspot.com/0004.html
 
 -----------------------------------
 ## Python 
-https://lobste.rs/s/fvrdql/pipreqs_create_requirements_txt_for_any
-http://pythonextensionpatterns.readthedocs.io/en/latest/index.html
-https://www.devdungeon.com/content/working-binary-data-python
-https://github.com/geekodour/pysheeet
-http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/#what-is-a-dsl-and-why-should-you-care
-- [ ] [Understanding gunicorn's async worker concurrency model](http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/)
-http://groverlab.org/hnbfpr/2017-06-22-fun-with-sys-getrefcount.html
-py
-Python testing https://www.youtube.com/watch?v=FxSsnHeWQBY
-https://pythontips.com/2018/04/15/reverse-engineering-soundcloud-api/
-https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
-https://github.com/00111000/Imports-in-Python
-https://pythonwheels.com
-https://nvbn.github.io/2015/10/08/how-thefuck-works/
-https://github.com/spiside/pdb-tutorial
-https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65
-https://lobste.rs/s/uncyzu/why_we_have_both_requirements_txt_setup_py
-https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb
-https://gkbrk.com/2018/02/simple-dbus-service-in-python/
-https://sircmpwn.github.io/2017/01/13/The-problem-with-Python-3.html
-http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/
-http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/
-https://amir.rachum.com/blog/2016/10/03/understanding-python-class-instantiation/
-read fluent python
-https://amir.rachum.com/blog/2017/07/28/python-entry-points/
+**Before doing anything else, just complete reading *fluent python***
+### Resources
+- https://pythonwheels.com
+- https://github.com/00111000/Imports-in-Python
+- https://github.com/spiside/pdb-tutorial
+- https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb
+
+### Misc
+- Testing
+    - [Python testing talk by ned](https://www.youtube.com/watch?v=FxSsnHeWQBY)
+    - Do the tutorial series that you have downloaded
+    - Finish test driven development
+- Blogposts
+    - [Setup.py vs requirement.txt](https://lobste.rs/s/fvrdql/pipreqs_create_requirements_txt_for_any)
+    - [Setup.py vs requirement.txt II](https://lobste.rs/s/uncyzu/why_we_have_both_requirements_txt_setup_py)
+    - [Cython extenions](http://pythonextensionpatterns.readthedocs.io/en/latest/index.html)
+    - [Binary Data and Python](https://www.devdungeon.com/content/working-binary-data-python)
+    - [DSL in python](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/#what-is-a-dsl-and-why-should-you-care)
+    - [fun with refcount](http://groverlab.org/hnbfpr/2017-06-22-fun-with-sys-getrefcount.html)
+    - [Understanding gunicorn's async worker concurrency model](http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/)
+    - https://pythontips.com/2018/04/15/reverse-engineering-soundcloud-api/
+    - https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
+    - https://nvbn.github.io/2015/10/08/how-thefuck-works/
+    - https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65
+    - https://gkbrk.com/2018/02/simple-dbus-service-in-python/
+    - https://sircmpwn.github.io/2017/01/13/The-problem-with-Python-3.html
+    - http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/
+    - https://amir.rachum.com/blog/2016/10/03/understanding-python-class-instantiation/
+    - https://amir.rachum.com/blog/2017/07/28/python-entry-points/
