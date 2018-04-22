@@ -1,0 +1,32 @@
+## Overall sound understanding of a system
+
+### Floating Point
+- [ ] [Number Representation](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)
+- [ ] [Another Number representation - Math Heavy](http://www.introtcs.org/public/lec_02_representation.html)
+- [ ] [Floating point visually explained](http://fabiensanglard.net/floating_point_visually_explained/)
+- [ ] [Good Post](http://floating-point-gui.de)
+- [ ] [Oracle Paper on Floating Point](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+- [ ] [Demystifying Floating Point Precision](https://blog.demofox.org/2017/11/21/floating-point-precision/)
+- [ ] [Number representation YT](https://www.youtube.com/watch?v=HhtecBhM_oA&index=1&list=PLD71F13843965439D)
+### Unicode
+- [ ] [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
+- [ ] [UTF-8 vs UTF-16 - I](https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011)
+- [ ] [UTF-8 vs UTF-16 - II](http://web.archive.org/web/20110520060518/https://stackoverflow.com/questions/1049947/should-utf-16-be-considered-harmful)
+- [ ] [UTF-8 vs UTF-16 - III](http://utf8everywhere.org/)
+- [ ] [Character Representation YT](https://www.youtube.com/watch?v=-oYfv794R9s&index=2&list=PLhQN_EIoIKBRA0yVTsWDoJzEKZwJY0p3l)
+- [ ] [The journey of a word: how text ends up on a page](https://www.youtube.com/watch?v=Is4PW6f4Pk4)
+- [ ] [Unicode CLDR Project](http://cldr.unicode.org)
+- [ ] [Absolute Minimum Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- [ ] [Minimal Unicode Intro](http://erratique.ch/software/uucp/doc/Uucp.html#uminimal)
+- [ ] [Unicode is Hard](https://shkspr.mobi/blog/2017/05/unicode-is-hard/)
+- [ ] [How Python does Unicode](https://www.b-list.org/weblog/2017/sep/05/how-python-does-unicode/)
+- [ ] [How Python does Unicode II](http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/)
+- [ ] [A Programmer’s Introduction to Unicode](http://reedbeta.com/blog/programmers-intro-to-unicode/)
+- [ ] [UTF-8 and Unicode FAQ for Unix/Linux](http://www.cl.cam.ac.uk/~mgk25/unicode.html#ucs)
+- [ ] [Abusing with unicode(github repo)](https://github.com/reinderien/mimic)
+### Others
+- [Coreutils gotchas](http://www.pixelbeat.org/docs/coreutils-gotchas.html)
+- [Workstation guide](https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide)
+- [Interesting CSV article](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs)
+- [User agent History](https://webaim.org/blog/user-agent-string-history/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+- [History of storage media](https://codewords.recurse.com/issues/seven/a-history-of-storage-media)

@@ -1,3 +1,11 @@
+### Topics
+- [ ] Discrete Math
+- [ ] Graph Theory
+- [ ] Bits and Bytes
+- [ ] Linear Algebra
+- [ ] Stats and Probab
+- [ ] Calculus
+
 ### Tools and Cheatsheets
 - [Compsci cheatsheet](https://github.com/Jam3/math-as-code)
 - [Matrix Multiplication Calculator](http://matrixmultiplication.xyz/)
