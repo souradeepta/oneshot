@@ -16,14 +16,15 @@ after list done just assign projects to this list
     - Maths
     - DS&Algo
     - Systems MOOC
-    - Operating Systems
+    - Operating Systems just read
     - SICP MOOC
-    - Network Book, just read
+    - Network Book furos, just read
 - June
     - Maths
     - DS&Algo
     - Systems
     - SICP
+    - Database
     - Network Book, just read
 - July
     - Network Programming
@@ -298,7 +299,9 @@ If you decide to learn haskell
     - [ ] [What is the dbus](https://techbase.kde.org/Development/Tutorials/D-Bus/Introduction)
     - Tracing
         - [ ] [Primer to Linux Tracing](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
+        - [ ] [Choosing a tracer](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
         - [ ] [Linux Tracing Workshop](https://github.com/goldshtn/linux-tracing-workshop)
+        - [ ] [Notes on bpf and ebpf](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/)
         - [ ] [Linux Performance Tracing](http://www.brendangregg.com/linuxperf.html)
         - [ ] [Introduction to strace](https://jorge.fbarr.net/2014/01/19/introduction-to-strace/)
         - [ ] [How does strace work](https://blog.packagecloud.io/eng/2016/02/29/how-does-strace-work/)
@@ -328,12 +331,17 @@ If you decide to learn haskell
     - [ ] Read Rober Love's book
     - [ ] [Eudyotula Challenge](http://eudyptula-challenge.org/)
     - [ ] [Kernel Newbies](https://kernelnewbies.org)
+    - [ ] [Ops Class](https://www.ops-class.org/)
     - [ ] [Quickly Writing a Kernel(Not really a kernel)](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+    - [ ] [Writing Kernels](https://www.cs.vu.nl/~herbertb/misc/writingkernels.txt)
+    - [ ] [Starting Kernel dev](https://brennan.io/2016/10/13/kernel-dev-ep1/)
+
 - System Calls
     - [ ] [Write a system call](https://brennan.io/2016/11/14/kernel-dev-ep3/)
     - [ ] [Linux system calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 - All about systemd
     - [ ] [Escape from systemd](https://davmac.wordpress.com/2017/06/14/escape-from-system-d/)
+    - [ ] [Why i dislike systemd](https://lobste.rs/s/vzjalp/why_i_dislike_systemd)
 
 ### Level 5
 - Tutorials
@@ -362,125 +370,103 @@ If you decide to learn haskell
     - [ ] [Write your own unix clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
     - [ ] [LittleOSBook - Own x86 operating system](http://littleosbook.github.io)
     - [ ] [Simple OS from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+    - [ ] [MikeOS](http://mikeos.sourceforge.net/write-your-own-os.html)
     - [ ] [OS Dev guide](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+- Writing a bootloader
+    - [ ] [Writing a bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+    - [ ] [UEFI Programming](http://x86asm.net/articles/uefi-programming-first-steps/)
 - Triva about CPU
     - [ ] [Idle CPU](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
     - [ ] [CPU utilization](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
     - [ ] [Multiple cache levels](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
+    - [ ] [Triva about endian](https://blog.erratasec.com/2016/11/how-to-teach-endian.html)
 
-little book of semaphors do it but I teach OS, and I still cover semaphores, but I always tell the class that I don't think they are very useful. I spend much more time on condition variables. Just learn it, you might never use it.
+### Level 2
+- Book
+    - [Little book of semaphors:](https://drive.google.com/open?id=1qNecKmt28RiBKW7qaB6JGRV_MGiOvrE8) Read this book but "I teach OS, and I still cover semaphores, but I always tell the class that I don't think they are very useful. I spend much more time on condition variables." so, Just know what it has to offer, you might never use it.
+- MOOC
+    - [Computer Architecture - ETH Zürich - Fall 2017 (Do ONLY you have nothing else to do)](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_)
 
+----------------------------
+## Software Engineering and design
+*(Side Project Ideas are moved back to projihelp in trello)*
+- [Ultimate SWE Read](https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything)
+- Book
+    - [AOSA Book](http://aosabook.org/en/index.html)
+    - [Delf Book](https://legacy.gitbook.com/@delftswa)
+    - [Design a tiny URL System - System Design Question]( https://lobste.rs/s/dknxvz/system_design_interview_question_create)
+    - [Logging in Practice](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- Make Youself
+    - [A Browser! by limpet! Toy Layout engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 
-bootloader http://3zanders.co.uk/2017/10/13/writing-a-bootloader/
-http://x86asm.net/articles/uefi-programming-first-steps/
-mooc if you have time https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_
-http://gghh.name/dibtp/2015/11/10/function-calls-in-c-the-boring-specs.html P1
-http://gghh.name/dibtp/2015/11/11/function-calls-in-c-practical-example.html P2
-https://manybutfinite.com/post/what-does-an-idle-cpu-do/
-https://blog.erratasec.com/2016/11/how-to-teach-endian.html
-arch
-https://www.joyent.com/blog/virtualizing-nics
-http://mikeos.sourceforge.net/write-your-own-os.html
-http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html
-http://www.lighterra.com/papers/modernmicroprocessors/ after you finish doing assembly from pres
-https://lobste.rs/s/kmlivw/why_is_kernel_community_replacing
-kernel dev
-https://www.cs.vu.nl/~herbertb/misc/writingkernels.txt
-https://brennan.io/2016/10/13/kernel-dev-ep1/
-https://www.ops-class.org/
-
-## Software Engineering design and ideas
-https://intoli.com/tour/1
-http://aosabook.org/en/index.html (book)
-https://legacy.gitbook.com/@delftswa (book)
-https://gaps.com/startup-challenge/
-https://lobste.rs/s/vzjalp/why_i_dislike_systemd
-https://veerasundar.com/blog/2018/02/my-git-workflow/
-http://highscalability.com/blog/2015/3/23/three-simple-rules-for-building-data-products-that-people-wi.html
-https://lobste.rs/s/pizmhe/tj_stdin_line_timestamps
-https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
-https://herbsutter.com/2014/01/13/gotw-95-solution-thread-safety-and-synchronization/
-https://lobste.rs/s/cojblx/10_hard_lessons_i_learned_from_starting
-https://lobste.rs/s/dknxvz/system_design_interview_question_create
-https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything
-https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
-
-# Backend and fun stuff
-http://sangaline.com/post/advanced-web-scraping-tutorial/
-https://lobste.rs/s/zwrkdw/web_scraping_tips_tricks
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing
-
-
+----------------------------
 ## Network Programming
-unp v123
-dns and bind, furos
-first learn to use your own vpn and then also, learn to use tor
-http://davebucklin.com/play/2018/03/31/how-to-gopher.html
-Interesting https://seashells.io
-http://amiusingmptcp.de
-http://davidad.github.io/blog/2014/04/24/an-osi-layer-model-for-the-21st-century/
-concurrent realworld servers: https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/
-https://www.joyent.com/blog/tcp-puzzlers
-https://github.com/lmatteis/torrent-net/blob/master/README.md
-https://github.com/lmatteis/peer-tweet
-https://lobste.rs/s/0qqymz/building_decentralized_bittorrent
-https://capnproto.org/rpc.html
-https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol
-http://www.root.org/ip-development/
-https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/
-https://lobste.rs/s/nxgsfh/pingfs_filesystem_where_data_is_stored
-http://cr.yp.to/djbdns/axfr-notes.html PAPER
-https://github.com/geekodour/ephemeral2 tool, youtube idea p2p over websockets
-http://geocar.sdf1.org/fast-servers.html
-http://intronetworks.cs.luc.edu/current/html/newtcps.html
-https://modern.ircdocs.horse
-https://labs.spotify.com/2016/01/26/sdn-internet-router-part-1/
-https://blog.cloudflare.com/why-we-use-the-linux-kernels-tcp-stack/
-https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
-https://jvns.ca/blog/2016/06/30/why-do-we-use-the-linux-kernels-tcp-stack/
-https://www.cambus.net/storing-ascii-art-in-the-dns/
-https://lobste.rs/s/oc3bxr/iptables_basics
-https://lobste.rs/s/en12xe/host_your_own_dns_over_https_server_for
-https://www.cambus.net/distributing-files-via-dns/
-https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/
-https://blog.aqwari.net/9p/ --> go
-http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/
-http://seriot.ch/ntp.php
-https://lobste.rs/s/kaotqs/i2p_invisible_internet_protocol
-https://www.nanog.org/meetings/nanog45/presentations/Sunday/RAS_traceroute_N45.pdf
-https://doesnotscale.com/making-http-requests-with-telnet/
-https://lobste.rs/s/3eyouc/announcing_gittorrent_decentralized
-https://lobste.rs/s/nnmp1n/will_there_be_distributed_http
-https://blog.benjojo.co.uk/post/dns-filesystem-true-cloud-storage-dnsfs
-https://github.com/curl/curl/wiki/DNS-over-HTTPS
-https://www.zerotier.com/blog/state-of-nat-traversal.shtml
-https://chrisshort.net/http/2-primer/
-https://lobste.rs/s/oxvcxj/wget_50_lines_c_code Tool
-tool https://github.com/emmericp/ixy
-https://routley.io/tech/2017/12/28/hand-writing-dns-messages.html
-http://restlet.com/company/blog/2015/12/10/understanding-http-content-negotiation/
-https://engineering.riotgames.com/news/fixing-internet-real-time-applications-part-i
-http://www.kegel.com/c10k.html
-https://panic.com/blog/mystery-of-the-slow-downloads/
-https://www.snellman.net/blog/archive/2014-11-11-tcp-is-harder-than-it-looks.html
-https://daniel.haxx.se/docs/bittorrent-vs-http.html
-http://blog.mecheye.net/2017/10/urg/
-http://movingpackets.net/2017/10/06/misinterpreting-traceroute/
-http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/ [5part series v.good]
-wifi triva https://www.verizoninternet.com/bookmark/how-wifi-works/
-https://lobste.rs/s/qzmutx/beaker_experimental_p2p_browser
-http://beej.us/guide/bgnet/
-http://www.alexkyte.me/2016/10/how-bittorrent-really-works.html
-https://www.hivemq.com/mqtt-essentials/
-https://blog.apnic.net/2017/12/12/internet-protocols-changing/
-http://samy.pl/pwnat/
-http://www.speirs.org/blog/2017/10/16/building-our-schools-third-generation-wifi-network
-https://spin.atomicobject.com/2014/03/19/mqtt-protocol-ethernet/
-https://blog.bimajority.org/2014/09/05/the-network-nightmare-that-ate-my-week/
+Use emojis to mark important once when you actually start the module.
+
+### Resources
+- [Internet Protocol Design and Implementation](http://www.root.org/ip-development/) : Lots of resources here.
+- [irc protocol docs](https://modern.ircdocs.horse)
+- [ck10 Problem](http://www.kegel.com/c10k.html)
+
+### Level 0
+- Book
+    - Read [beej network guide](http://beej.us/guide/bgnet/)
+    - Read unp v123
+- Blogposts
+    - [Bittorrent vs HTTP](https://daniel.haxx.se/docs/bittorrent-vs-http.html)
+### Level 1
+- Book
+    - Read dns and bind book
+- Gopher
+    - [Gopher Intro](http://davebucklin.com/play/2018/03/31/how-to-gopher.html)
+    - [News Article on Fall of Gopher](https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol)
+- MQTT
+    - [MQTT Essentials](https://www.hivemq.com/mqtt-essentials/)
+    - [MQTT Intro](https://spin.atomicobject.com/2014/03/19/mqtt-protocol-ethernet/)
+
+### Level 2
+- Blogposts
+    - [Slow Downloads?](https://panic.com/blog/mystery-of-the-slow-downloads/)
+    - [TCP Puzzles](https://www.joyent.com/blog/tcp-puzzlers)
+    - [How bittorent works](http://www.alexkyte.me/2016/10/how-bittorrent-really-works.html)
+    - [Traceroute Guide](https://www.nanog.org/meetings/nanog45/presentations/Sunday/RAS_traceroute_N45.pdf)
+    - [Traceroute Guide II](http://movingpackets.net/2017/10/06/misinterpreting-traceroute/)
+    - [State of NAT](https://www.zerotier.com/blog/state-of-nat-traversal.shtml)
+    - [iptables basics](https://lobste.rs/s/oc3bxr/iptables_basics)
+    - [21st centuty OSI](http://davidad.github.io/blog/2014/04/24/an-osi-layer-model-for-the-21st-century/) 
+    - [fast servers](http://geocar.sdf1.org/fast-servers.html)
+    - [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS)
+    - [wtf is this](http://intronetworks.cs.luc.edu/current/html/newtcps.html)
+    - [Why Linux Kernel TCP Stack I](https://blog.cloudflare.com/why-we-use-the-linux-kernels-tcp-stack/)
+    - [Why Linux Kernel TCP Stack II](https://jvns.ca/blog/2016/06/30/why-do-we-use-the-linux-kernels-tcp-stack/)
+    - [URG](http://blog.mecheye.net/2017/10/urg/)
+    - [Unit testing TCP stack](http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/)
+- Rabbitholes
+    - [Seashells](https://seashells.io)
+    - [City Pings](https://wondernetwork.com/pings/)
+    - [TLS](https://istlsfastyet.com/)
+    - [MTCP](http://amiusingmptcp.de)
+    - [Distributed search engines using BitTorrent and SQLite](https://github.com/lmatteis/torrent-net/blob/master/README.md)
+    - [Distributed search engines II](https://archive.is/QFxUy)
+    - [peertweet](https://github.com/lmatteis/peer-tweet)
+    - [capnproto rpc](https://capnproto.org/rpc.html)
+    - [pingfs](https://lobste.rs/s/nxgsfh/pingfs_filesystem_where_data_is_stored)
+    - [DNSfs](https://blog.benjojo.co.uk/post/dns-filesystem-true-cloud-storage-dnsfs)
+    - [P2P over websockets](https://github.com/geekodour/ephemeral2) Planning to modify it and use it so that, if I am listening to something on youtube/soundclound in my desktop, my blog/website automatically displays which song is currently playing. probably will need a browser ext.
+    - [ASCII art in dns](https://www.cambus.net/storing-ascii-art-in-the-dns/)
+    - [Files via DNS](https://www.cambus.net/distributing-files-via-dns/)
+    - [Minimal NTP Client](http://seriot.ch/ntp.php)
+    - [Invisible IP](https://lobste.rs/s/kaotqs/i2p_invisible_internet_protocol)
+    - [HTTP with telnet!](https://doesnotscale.com/making-http-requests-with-telnet/)
+    - [Decentralized Github](https://lobste.rs/s/3eyouc/announcing_gittorrent_decentralized)
+    - [Handwriting DNS message](https://routley.io/tech/2017/12/28/hand-writing-dns-messages.html)
+    - [TCP Hard](https://www.snellman.net/blog/archive/2014-11-11-tcp-is-harder-than-it-looks.html)
+- War stories and case studies
+    - [sdn router](https://labs.spotify.com/2016/01/26/sdn-internet-router-part-1/)
+    - [fixing the internet](https://engineering.riotgames.com/news/fixing-internet-real-time-applications-part-i)
+    - [Network Problem](https://blog.bimajority.org/2014/09/05/the-network-nightmare-that-ate-my-week/)
+
 war stories
-https://panic.com/blog/mystery-of-the-slow-downloads/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
-https://istlsfastyet.com/
-https://wondernetwork.com/pings/
 https://blog.cloudflare.com/mmproxy-creative-way-of-preserving-client-ips-in-spectrum/
 https://making.pusher.com/redis-pubsub-under-the-hood/
 triva https://lobste.rs/s/aoll45/how_many_ip_addresses_can_dns_query_return
@@ -489,49 +475,59 @@ cloudflareblogs
 https://blog.cloudflare.com/bpf-the-forgotten-bytecode/
 https://blog.cloudflare.com/path-mtu-discovery-in-practice/
 https://blog.cloudflare.com/epbf_sockets_hop_distance/
-## Database
-https://neo4j.com/blog/real-time-recommendation-engine-data-science/
-https://matt.sh/what-is-redis
-http://tatiyants.com/postgres-query-plan-visualization/
-Disk Storage Talk https://www.youtube.com/watch?v=e1wbQPbFZdk
-https://github.com/simon-engledew/gocmdpev
-https://www.codeproject.com/articles/359654/important-database-designing-rules-which-i-fo
-https://pgexercises.com/
-http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html
-https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
-http://blog.dancrisan.com/a-tiny-intro-to-database-systems
-http://www.postgresguide.com/
-http://use-the-index-luke.com/
-https://www.pgcasts.com/
-http://coding-geek.com/how-databases-work/
-https://cstack.github.io/db_tutorial/
-http://www.interdb.jp/pg/index.html
-http://tech.marksblogg.com/sqlite3-tutorial-and-guide.html
-https://archive.org/details/UCBerkeley_Course_Computer_Science_186 (have this downloaded) (1lec=1.30hrs)
-http://amitkapila16.blogspot.in/2017/03/hash-indexes-are-faster-than-btree.html
 
+------------------------
+## Database
+### Resource
+- http://use-the-index-luke.com/
+- https://www.pgcasts.com/
+### Level 0
+- MOOC
+    - Do the downloaded mooc
+    - [MOOC Site has all 2018 class notes with solution](http://www.cs186berkeley.net/home/section-notes)
+### Level 1
+- Practice
+    - [postgresguide](http://www.postgresguide.com/)
+    - [sqlite3](http://tech.marksblogg.com/sqlite3-tutorial-and-guide.html)
+    - [pgexercise](https://pgexercises.com/)
+- [What is redis](https://matt.sh/what-is-redis)
+- [Disk Storage Talk](https://www.youtube.com/watch?v=e1wbQPbFZdk)
+- [Database Design Rules](https://www.codeproject.com/articles/359654/important-database-designing-rules-which-i-fo)
+- [Database Design Tutorial](http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
+- [Undestanding SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+- [Intro to DBMS](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+- [How Batabase Works)](http://coding-geek.com/how-databases-work/)
+- [Internals of postgres](http://www.interdb.jp/pg/index.html)
+
+-----------------
 ## Papers
-- https://lobste.rs/s/npo38i/what_are_some_good_interesting_papers_cs
-- http://blog.felipe.rs/2017/12/30/papers-ive-read-in-2017/
-- https://ils.unc.edu/callee/gopherpaper.htm
-- https://gnunet.org/grothoff2017habilitation
+- [Gopher](https://ils.unc.edu/callee/gopherpaper.htm)
+- [GNUnet](https://gnunet.org/grothoff2017habilitation)
 - [HPC vs MPI](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it.html)
 - [History of init systems](https://blog.darknedgy.net/technology/2015/09/05/0/)
 - Bit Torrent, TOTP RFC.
+- [AXFR](http://cr.yp.to/djbdns/axfr-notes.html)
 - [Case Against Python3](https://learnpythonthehardway.org/book/nopython3.html)
 - [Goto Considered Harmful](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html)
 - [Time, clocks, and the ordering of events in a distributed system](https://amturing.acm.org/p558-lamport.pdf)
 - [SkipLists](https://homepage.cs.uiowa.edu/~ghosh/skip.pdf)
 - [Dynamo: Amazon’s Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
-- 
+-------------------------
 ## Security
+### Resources
+- [OAuth Bible](https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md)
 - [Heap Exploitation Book](https://heap-exploitation.dhavalkapil.com)
-- Cryptography mooc
+- [Challenge Ctyptopals](http://cryptopals.com)
+### Tutorials
+- Understanding ELF **(Do it after you complete CSAPP)**
+    - [Understanding ELF](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
+    - [Understanding ELF II](https://medium.com/@MrJamesFisher/understanding-the-elf-4bd60daac571)
+    - [ELF III](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
+    - [ELF Hello World](http://www.cirosantilli.com/elf-hello-world/)
+    - [Linux Memory Layout of Executables](https://gist.github.com/CMCDragonkai/10ab53654b2aa6ce55c11cfc5b2432a4)
 - [Own MD5](https://natmchugh.blogspot.in/2015/02/create-your-own-md5-collisions.html)
 - [Reveng apps](http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network)
 - [Takeover.sh](https://github.com/marcan/takeover.sh)
-- [Challenge Ctyptopals](http://cryptopals.com)
-- [OAuth Bible](https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md)
 - https://github.com/shellphish/how2heap
 - http://nullprogram.com/blog/2017/03/12/
 - http://www.roguelynn.com/words/explain-like-im-5-kerberos/
@@ -540,11 +536,6 @@ http://amitkapila16.blogspot.in/2017/03/hash-indexes-are-faster-than-btree.html
 - https://fly.io/articles/how-rsa-works-tls-foundations/
 - https://www.ory.sh/run-oauth2-server-open-source-api-security/
 - https://blog.appcanary.com/2017/http-security-headers.html
-- [Understanding ELF](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
-- [Understanding ELF II](https://medium.com/@MrJamesFisher/understanding-the-elf-4bd60daac571)
-- [ELF III](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
-- [ELF Hello World](http://www.cirosantilli.com/elf-hello-world/)
-- [Linux Memory Layout of Executables](https://gist.github.com/CMCDragonkai/10ab53654b2aa6ce55c11cfc5b2432a4)
 - https://lobste.rs/s/fkosun/portier_spiritual_successor_mozilla
 - http://lifepluslinux.blogspot.in/2017/01/look-before-you-paste-from-website-to.html
 - https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/
@@ -637,6 +628,7 @@ Decentralised
     - [ ] Theres a bocker named repo in github, check it.
     - [ ] [Handcrafted Containers](http://blog.z3bra.org/2016/03/hand-crafted-containers.html)
     - [ ] [Linux Namespaces](https://medium.com/@teddyking/linux-namespaces-850489d3ccf)
+    - [ ] [Linux Namespaces II](https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/)
     - [ ] [Workshop on Linux Containers](https://github.com/Fewbytes/rubber-docker)
     - [ ] [Intro to LXD](https://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)
     - [ ] [Docker VS Binaries](https://lobste.rs/s/zz9oc8/why_would_anyone_choose_docker_over_fat)
@@ -685,6 +677,7 @@ Decentralised
 
 - Doing Practical things
     - [Running own DNS server](https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/)
+    - [Running own DNS server II](https://lobste.rs/s/en12xe/host_your_own_dns_over_https_server_for)
     - [SOCKS Proxy](https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters/)
     - [OpenBSD webserver](https://www.romanzolotarev.com/openbsd/webserver.html)
     - [Webapp with fastcgi and C](https://kristaps.bsd.lv/absdcon2016/)
@@ -700,6 +693,7 @@ Decentralised
 
 - Basic Stuff as a user I should know
     - learn curl
+    - learn to use tor
     - read git pro
     - [Core Linux Concepts](https://www.funtoo.org/Category:Linux_Core_Concepts)
     - [Moving in CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)
@@ -774,7 +768,7 @@ Decentralised
     - [ ] [Regular Expression Theory](https://swtch.com/~rsc/regexp/regexp1.html)
 - Calculators
     - [ ] [Online Binary/Decimal/Hex Converter](http://www.free-test-online.com/binary/signed_converter.html)
-
+----------------------------------
 ## Misc
 http://hyperpolyglot.org
 http://brandon.si/code/choosing-a-binary-to-text-encoding/

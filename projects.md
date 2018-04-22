@@ -15,6 +15,8 @@
 - Interpreter
 - Compiler
 - A webserver
+- A concurrent realworld webserver
+    - [Tutorial](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
 - Markov-chain bot
 - Basic unix shell
     - [Simple Shell in C](https://github.com/jmreyes/simple-c-shell)
@@ -37,6 +39,8 @@
 - Paxos
     - [half baked implementation in python](https://github.com/henryr/toy_paxos/blob/master/toy_paxos.py)
 - A database
+    - [tutorial](https://cstack.github.io/db_tutorial/)
+    - also see cow books chapter 1 extercise, had some ref.
 - A b-tree database
 - A programming Language
 - toy distributed kv store
@@ -67,7 +71,10 @@
     - [kilo tutorial](https://viewsourcecode.org/snaptoken/kilo/)
 - Distributed Search Engine
     - [IITK Term Project](https://github.com/zorroblue/distributed-search-engine)
+    - [Distributed search engines using BitTorrent and SQLite](https://github.com/lmatteis/torrent-net/blob/master/README.md)
+    - [Distributed search engines II](https://archive.is/QFxUy)
 - A Gopher client
+    - [Gopher Intro](http://davebucklin.com/play/2018/03/31/how-to-gopher.html)
     - [cgo](https://github.com/kieselsteini/cgo)
     - [little gopher client](http://runtimeterror.com/tools/gopher/)
 - Implement Ukkonen’s Suffix Tree Algorithm
@@ -133,7 +140,15 @@
     - [Tutorial](https://pasztor.at/blog/building-your-own-cdn)
     - [HN](https://news.ycombinator.com/item?id=16374645)
 - Snapchat Filesystem
-    -  [Repo](https://github.com/hausdorff/snapchat-fs)
+    - [Repo](https://github.com/hausdorff/snapchat-fs)
+- Ping Filesystem
+    - [pingfs](https://lobste.rs/s/nxgsfh/pingfs_filesystem_where_data_is_stored)
 - Garbage Collector
     - [Garbage Collector Tutorial](https://archive.is/kv8BC)
 - [Writing in C Without the Standard Library](http://weeb.ddns.net/0/programming/c_without_standard_library_linux.txt)
+- wget
+    - [example](https://lobste.rs/s/oxvcxj/wget_50_lines_c_code) - (not really see comments)
+- userspace packet processing
+    - [tutorial](https://github.com/emmericp/ixy)
+- TCP stack
+    - [5 Part Series Tutorial](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)

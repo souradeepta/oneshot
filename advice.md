@@ -6,6 +6,7 @@
 -  i came to the conclusion that i won't understand something if i don't care
 - When learning, more important is practice and making your skill better. Sometimes you can get creative but practice and working on the skill gets more important than being creative here. (my mistake i guess)
 - If the list is long, just wrap everything about one item before moving on to the next one. like dont think you'll apply magic to all of them at once. see what fits.
+- give more than you take.
 
 
 - [Tweet about career](https://twitter.com/patio11/status/936615043126370306)
