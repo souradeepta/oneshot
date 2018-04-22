@@ -26,6 +26,8 @@
 - Implement a debugging socket proxy.
 - A debugger
     - [Tutorial](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+    - [Debugger Internals](https://backtrace.io/blog/backtrace/debugger-internals/)
+    - [How breakpoints are set](https://majantali.net/2016/10/how-breakpoints-are-set/)
 - Backdoor
     - [example backdoor in c](https://github.com/m-o-/Backdoor)
 - irc bot
@@ -120,7 +122,6 @@
     - [QT bloated terminal tutorial](https://donniewest.com/build-your-own-minimal-and-scriptable-terminal)
     - [Nice minimal suckless terminal to learn from](https://st.suckless.org)
     - [How does Clipboard work](https://www.uninformativ.de/blog/postings/2017-04-02/0/POSTING-en.html)
-
 - Bash History
     - [Visualizer leher guide](https://hackernoon.com/visualizing-data-in-terminal-using-lehar-7cfded09c1ad)
     - [Blog post](https://spin.atomicobject.com/2016/05/28/log-bash-history/)
@@ -133,3 +134,6 @@
     - [HN](https://news.ycombinator.com/item?id=16374645)
 - Snapchat Filesystem
     -  [Repo](https://github.com/hausdorff/snapchat-fs)
+- Garbage Collector
+    - [Garbage Collector Tutorial](https://archive.is/kv8BC)
+- [Writing in C Without the Standard Library](http://weeb.ddns.net/0/programming/c_without_standard_library_linux.txt)

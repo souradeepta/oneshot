@@ -1,9 +1,9 @@
 # Syllabus
-TODO: from these blogs, take note of the companies and what they do
 
 ## Rules
 - Stop browsing the internet, you have everything here.
-- Don't go next level unless you complete current level.
+- Don't go next level unless you complete current level. 
+unless it's a question or something like that.
 - Untill and unless mentioned, Excercises are **MANDATORY**.
 - You're doing this for yourself, don't cheat yourself.
 - Do not read blog/article if you don't need it, there are too many.
@@ -231,196 +231,146 @@ If you decide to learn haskell
 
 -----------------------
 ## Systems Programming
-### Books that are mentioned
-- Advanced Programming in the Unix Environment
-- The Linux Programming Interface
 
 ### Resources
-- [ ] [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html)
-- [ ] [C++ FAQ](http://yosefk.com/c++fqa/index.html)
-- [ ] [Linux Kernel Module Cheatsheet](https://github.com/cirosantilli/linux-kernel-module-cheat) (Don't know what this is, will be useful someday)
-- [ ] [Nice short guide to x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
-- [ ] [Unix Signal Resources](https://gist.github.com/geekodour/93552b2f382e99b3d14ddc5c464f6c50)
-- [ ] [Code Samples (Skip for now i'd say)](https://gist.github.com/geekodour/93552b2f382e99b3d14ddc5c464f6c50)
-- [ ] [Actual and good kernel dev guide](http://www.osdever.net/bkerndev/Docs/intro.htm)
-- [ ] [Linux Insides Book](https://0xax.gitbooks.io/linux-insides/content/)
-- [ ] [Graphviz Intro](https://www.worthe-it.co.za/programming/2017/09/19/quick-introduction-to-graphviz.html)
+- [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html)
+- [Advanced C++ (Can Skip this for now)](http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html)
+- [C++ FAQ](http://yosefk.com/c++fqa/index.html)
+- [C FAQ](http://c-faq.com)
+- [UNIX System Calls and Subroutines using C](http://users.cs.cf.ac.uk/Dave.Marshall/C/)
+- [Linux Kernel Module Cheatsheet](https://github.com/cirosantilli/linux-kernel-module-cheat) (Don't know what this is, will be useful someday)
+- [Unix Signal Resources](https://gist.github.com/geekodour/93552b2f382e99b3d14ddc5c464f6c50)
+- [Code Samples (Skip for now i'd say)](https://gist.github.com/geekodour/93552b2f382e99b3d14ddc5c464f6c50)
+- [Actual and good kernel dev guide](http://www.osdever.net/bkerndev/Docs/intro.htm)
+- [Linux Insides Book](https://0xax.gitbooks.io/linux-insides/content/)
+- [Graphviz Intro](https://www.worthe-it.co.za/programming/2017/09/19/quick-introduction-to-graphviz.html)
+- [Things every hacker knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/)
+- [Computer Science Triva Latency Numbers](https://keon.io/computer-scientists-trivia/)
+- [writing c libraries](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html)
+- [Structure Packaging](http://www.catb.org/esr/structure-packing/)
+
+### Tools
+- [Function pointers](http://fuckingfunctionpointers.com)
+- [CDECL](https://cdecl.org)
 
 ### Level 0
 - This is a refresher of C
     - [ ] Do relevant worksheets
+    - [ ] [How to C](https://matt.sh/howto-c)
+    - [ ] [Refresher Notes](https://www.cs.uic.edu/~jbell/CourseNotes/C_Programming/index.html)
     - [ ] [Function Pointer example](http://sites.harvard.edu/~lib215/reference/programming/color_test.c)
     - [ ] [Style Notes on Programming in C](http://sites.harvard.edu/~lib215/reference/programming/pikestyle.html)
     - [ ] [Some Philosophy](http://sites.harvard.edu/~lib215/reference/programming/unix-esr.html)
-    - [ ] [How-To Find the Source of "Unaligned Access](http://sites.harvard.edu/~lib215/reference/general/find_unaligned.html)
-    - [ ] [CPU Illustrations](http://sites.harvard.edu/~lib215/reference/pictures/pov/)
+    - [ ] [C Puzzles](http://www.gowrikumar.com/c/index.php)
+    - [ ] [K splice Challenge](https://blogs.oracle.com/linux/the-ksplice-pointer-challenge-v2)
+    - [ ] [Writing C Programs](http://seenaburns.com/building-c-programs/)
+    - [ ] [Building C Programs](http://nethack4.org/blog/building-c.html)
+    - [ ] [Assert in hands of bad coders](https://blog.erratasec.com/2017/03/assert-in-hands-of-bad-coders.html)
+- Makefile
+    - [ ] [Tutorial I](http://makefiletutorial.com)
+    - [ ] [Tutorial II](http://gromnitsky.users.sourceforge.net/articles/notes-for-new-make-users/)
 - GDB Tutorials
     - [GDB Tutorial](http://www.unknownroad.com/rtfm/gdbtut/gdbtoc.html)
     - [GDB tricks](https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know)
     - [Learning C with GDB](https://www.recurse.com/blog/5-learning-c-with-gdb)
     - [Valgrind and GDB](https://fau.re/blog/20140330_vgdb.html)
     - [Practical GDB using ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
+- MOOCs (Just do the assignments and you're done)
+    - [ ] [Practical Programming in C]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm)
+    - [ ] [Intro to memory management in C (only do memory management extercise)]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/index.htm)
 
 ### Level 1
 - MOOC
     - [ ] [Intro to Computer Systems 213 Homepage](https://www.cs.cmu.edu/~213/schedule.html)
     - [ ] [Intro to Computer Systems 213 YT](https://www.youtube.com/playlist?list=PLpIxOj-HnDsPZIJYO4U9f-xRI8bBadaso)
     - Book for this mooc is CSAPP
-- HTML Books
-    - [ ] [Advanced C++ (Can Skip this for now)](http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html)
+    - [Binary Bomb Solution P1](https://archive.is/DDdeT)
+    - [Binary Bomb Solution P2]( https://web.archive.org/web/20160314033730/http://blog.carlosgaldino.com/2015/11/19/defusing-a-binary-bomb-with-gdb-part-2.html)
+    - [Binary Bomb Solution P3]( https://web.archive.org/web/20160314033758/http://blog.carlosgaldino.com:80/2015/12/03/defusing-a-binary-bomb-with-gdb-part-3.html)
 - Blogposts
     - [ ] [How does a segfault occur]( https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood)
 
 ### Level 2
-
-- Concurrency
-    - [Introduction to concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
-    - [Concurrency primer](https://drive.google.com/open?id=1msGTeCIV0ZfHefb_MpHZDZqv8qcGnhEU)
-    - [Concurrency VS Parallel](http://yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html)
-
-### Level 3
 - Tutorials
+    - [ ] [Learning C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
+    - [ ] [Green Threads Tutorial](http://c9x.me/articles/gthreads/intro.html)
+    - [ ] [Beej guide to IPC](http://beej.us/guide/bgipc/html/multi/index.html)
+    - [ ] [What is the dbus](https://techbase.kde.org/Development/Tutorials/D-Bus/Introduction)
     - Tracing
         - [ ] [Primer to Linux Tracing](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
         - [ ] [Linux Tracing Workshop](https://github.com/goldshtn/linux-tracing-workshop)
         - [ ] [Linux Performance Tracing](http://www.brendangregg.com/linuxperf.html)
-    - Network Programming (maybe should go in netprog then)
-        - [Using select(2) in Linux](http://aivarsk.github.io/2017/04/06/select/)
+        - [ ] [Introduction to strace](https://jorge.fbarr.net/2014/01/19/introduction-to-strace/)
+        - [ ] [How does strace work](https://blog.packagecloud.io/eng/2016/02/29/how-does-strace-work/)
+    - Profiling
+        - [ ] [What is profiling](http://www.pixelbeat.org/programming/profiling/)
+    - Concurrency
+        - [ ] [Introduction to concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
+        - [ ] [Concurrency primer](https://drive.google.com/open?id=1msGTeCIV0ZfHefb_MpHZDZqv8qcGnhEU)
+        - [ ] [Concurrency VS Parallel](http://yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html)
 
-- [ ] [Green Threads Tutorial](http://c9x.me/articles/gthreads/intro.html)
-- [ ] [Beej guide to IPC](http://beej.us/guide/bgipc/html/multi/index.html)
-- [ ] [What is the dbus](https://techbase.kde.org/Development/Tutorials/D-Bus/Introduction)
+### Level 3
+- Tutorials
+    - [ ] [Using select(2) in Linux](http://aivarsk.github.io/2017/04/06/select/)
+    - [ ] [Understanding linux load average](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
+
 
 - Rabbitholes
     - [ ] [MOTD Art](https://tylercipriani.com/blog/2014/05/22/creating-baller-useful-motd-ascii-art/)
     - [ ] [Programming the Framebuffer](https://cmcenroe.me/2018/01/30/fbclock.html)
+    - [ ] [Writing to framebuffer](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
     - [ ] [Low level graphics](http://betteros.org/tut/graphics1.php)
     - [ ] [Project Ideas I](http://sites.harvard.edu/~lib215/hw/)
     - [ ] [Fork can fail](http://rachelbythebay.com/w/2014/08/19/fork/)
 
 ### Level 4
-- Extending knowledge to other things
-    - [ ] [Understanding gunicorn's async worker concurrency model](http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/)
-
 - Contributing to the kernel
+    - [ ] Read Rober Love's book
     - [ ] [Eudyotula Challenge](http://eudyptula-challenge.org/)
     - [ ] [Kernel Newbies](https://kernelnewbies.org)
     - [ ] [Quickly Writing a Kernel(Not really a kernel)](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+- System Calls
+    - [ ] [Write a system call](https://brennan.io/2016/11/14/kernel-dev-ep3/)
+    - [ ] [Linux system calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
+- All about systemd
+    - [ ] [Escape from systemd](https://davmac.wordpress.com/2017/06/14/escape-from-system-d/)
 
-https://brennan.io/2016/11/14/kernel-dev-ep3/
-strace https://jorge.fbarr.net/2014/01/19/introduction-to-strace/
-https://blog.packagecloud.io/eng/2016/02/29/how-does-strace-work/
-http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
-http://www.pixelbeat.org/programming/profiling/
-https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
-https://archive.is/kv8BC
-https://commandcenter.blogspot.in/2012/04/byte-order-fallacy.html
-https://davmac.wordpress.com/2017/06/14/escape-from-system-d/
-https://www.2uo.de/myths-about-urandom/
-https://backtrace.io/blog/backtrace/debugger-internals/
-https://majantali.net/2016/10/how-breakpoints-are-set/
-https://www.jstorimer.com/blogs/workingwithcode/7766119-when-to-use-stderr-instead-of-stdout
-http://groverlab.org/hnbfpr/2017-06-22-fun-with-sys-getrefcount.html
-http://www.catb.org/esr/faqs/things-every-hacker-once-knew/
-https://boinkor.net/2016/01/deptyr-or-how-i-learned-to-love-unix-domain-sockets/
-https://keon.io/computer-scientists-trivia/ (help to latency numbers)
-http://weeb.ddns.net/0/programming/c_without_standard_library_linux.txt
-blogs
-http://nullprogram.com/blog/2015/09/15/
-http://nullprogram.com/blog/2015/05/15/
-http://nullprogram.com/blog/2012/07/30/
-http://nullprogram.com/blog/2010/02/18/
-http://nullprogram.com/blog/2016/10/27/
-http://nullprogram.com/blog/2016/09/23/
-http://nullprogram.com/blog/2016/09/03/
-http://nullprogram.com/blog/2016/08/07/
-http://nullprogram.com/blog/2016/08/03/
-c
-http://fuckingfunctionpointers.com
-c puzzles http://www.gowrikumar.com/c/index.php
-https://blogs.oracle.com/linux/the-ksplice-pointer-challenge-v2
-http://seenaburns.com/building-c-programs/
-http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/
-https://blog.erratasec.com/2017/03/assert-in-hands-of-bad-coders.html
-tool https://cdecl.org
-https://matt.sh/howto-c
-https://spin.atomicobject.com/2017/03/08/message-queue-for-c/
-c review https://www.cs.uic.edu/~jbell/CourseNotes/C_Programming/index.html
-building c projects http://nethack4.org/blog/building-c.html
-http://www.goldsborough.me/bits/c++/low-level/problems/2015/10/11/23-52-02-bit_manipulation/
-http://www.goldsborough.me/c/c++/linker/2016/03/30/19-34-25-internal_and_external_linkage_in_c++/
-https://github.com/keon/awesome-bits
-https://www.gamedev.net/articles/programming/general-and-gameplay-programming/bitwise-operations-in-c-r1563
-http://graphics.stanford.edu/~seander/bithacks.html
-hackers delight?
-writing c libraries https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html
-https://renenyffenegger.ch/notes/development/languages/C-C-plus-plus/GCC/create-libraries/index
-https://www.pixelstech.net/article/1390482950-do-%7B-%7D-while-%280%29-in-macros
-http://crasseux.com/books/ctutorial/
-https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/
-https://amir.rachum.com/blog/2016/09/17/shared-libraries/ internals(adv)
-http://www.catb.org/esr/structure-packing/
-https://www.recurse.com/blog/7-understanding-c-by-learning-assembly
-https://blog.regehr.org/archives/1395
-http://users.cs.cf.ac.uk/Dave.Marshall/C/
-http://c-faq.com
-do class notes and assignmests for 2 below
-- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm
-- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/index.htm
-after learning some lisp,
-- http://buildyourownlisp.com/
-ass
-http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language
-http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
-py
-Python testing https://www.youtube.com/watch?v=FxSsnHeWQBY
-https://pythontips.com/2018/04/15/reverse-engineering-soundcloud-api/
-https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
-https://github.com/00111000/Imports-in-Python
-https://pythonwheels.com
-https://nvbn.github.io/2015/10/08/how-thefuck-works/
-https://github.com/spiside/pdb-tutorial
-https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65
-https://lobste.rs/s/uncyzu/why_we_have_both_requirements_txt_setup_py
-https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb
-https://gkbrk.com/2018/02/simple-dbus-service-in-python/
-https://sircmpwn.github.io/2017/01/13/The-problem-with-Python-3.html
-http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/
-http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/
-https://amir.rachum.com/blog/2016/10/03/understanding-python-class-instantiation/
-read fluent python
-https://amir.rachum.com/blog/2017/07/28/python-entry-points/
+### Level 5
+- Tutorials
+    - [C/C++ Memory Model](https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/)
+    - [Shared libs Internals](https://amir.rachum.com/blog/2016/09/17/shared-libraries/)
+- Assembly
+    - [Nice short guide to x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+    - [Learning to read assembly](http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language)
+    - [x86 Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+- Reverse engg
+    - [Exercises](https://github.com/wapiflapi/exrs)
 
-reverse engg
-https://github.com/wapiflapi/exrs
-binarybomb p1: https://archive.is/DDdeT
-p2: https://web.archive.org/web/20160314033730/http://blog.carlosgaldino.com/2015/11/19/defusing-a-binary-bomb-with-gdb-part-2.html
-p3: https://web.archive.org/web/20160314033758/http://blog.carlosgaldino.com:80/2015/12/03/defusing-a-binary-bomb-with-gdb-part-3.html
 
-makefile
-http://gromnitsky.users.sourceforge.net/articles/notes-for-new-make-users/
-http://makefiletutorial.com
 
 ## Operating Systems
-hardware crash course https://www.youtube.com/watch?v=OFgxAFdxYAQ
-https://cs162.eecs.berkeley.edu
-three easy pieces homework site: http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html
-three easy pieces projects site[wip]: https://github.com/remzi-arpacidusseau/ostep-projects
+### Level 0
+- Media
+    - [ ] [CPU Illustrations](http://sites.harvard.edu/~lib215/reference/pictures/pov/)
+    - [ ] [Crash cource on Modern Hardware](https://www.youtube.com/watch?v=OFgxAFdxYAQ)
+- MOOC
+    - [ ] Start reading [three easy pieces](https://drive.google.com/open?id=1lSEvBUYe7JLYb0bwMlpnlgDZ4psPjWSW)
+    - [ ] [homework site](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
+    - [ ] [projects site[wip]](https://github.com/remzi-arpacidusseau/ostep-projects)
+### Level 1
+- OS Making Tutorials (Do all! :smile:)
+    - [ ] [Write your own unix clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
+    - [ ] [LittleOSBook - Own x86 operating system](http://littleosbook.github.io)
+    - [ ] [Simple OS from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+    - [ ] [OS Dev guide](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+- Triva about CPU
+    - [ ] [Idle CPU](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
+    - [ ] [CPU utilization](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
+    - [ ] [Multiple cache levels](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
+
 little book of semaphors do it but I teach OS, and I still cover semaphores, but I always tell the class that I don't think they are very useful. I spend much more time on condition variables. Just learn it, you might never use it.
-https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram
-https://blog.holbertonschool.com/hack-the-virtual-memory-malloc-the-heap-the-program-break/
-http://rabbitstack.github.io/operating%20systems/linux-containers-internals-part-i/
-http://www.jamesmolloy.co.uk/tutorial_html/
-http://littleosbook.github.io
-https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
-https://manybutfinite.com/post/what-does-an-idle-cpu-do/
-arch
-http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
-https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/
-OS Dev guide: http://www.brokenthorn.com/Resources/OSDevIndex.html
-- [EFI Boot Process](http://jdebp.eu./FGA/efi-boot-process.html)
-- [UEFI Boot Process](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
-Bootloaders in Linux(Practical): https://www.rodsbooks.com/efi-bootloaders/index.html
+
+
 bootloader http://3zanders.co.uk/2017/10/13/writing-a-bootloader/
 http://x86asm.net/articles/uefi-programming-first-steps/
 mooc if you have time https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_
@@ -624,10 +574,10 @@ I think a valuable takeaway point for those interested in writing their own comp
     - [Hello JIT](http://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html)
     - [JIT Tutorial](https://github.com/spencertipping/jit-tutorial)
 - [Want to Write a Compiler? Just Read These Two Papers.](http://prog21.dadgum.com/30.html)
-
-### Level 2
 - [Beautifulracket](https://beautifulracket.com/stacker/intro.html)
 - [Brainfuck](https://www.hashcollision.org/brainfudge/)
+
+### Level 2
 - [Writing Parsers like it 2017](https://blog.acolyer.org/2017/08/15/writing-parsers-like-it-is-2017/)
 - [Writing C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 - [Writing GCC Backend](https://kristerw.blogspot.in/2017/08/writing-gcc-backend_4.html)
@@ -636,9 +586,9 @@ I think a valuable takeaway point for those interested in writing their own comp
 - [First 15 compilers](http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/)
 - [Crafting Interpreters](http://www.craftinginterpreters.com/contents.html)
 - [JSON parser in C](https://archive.is/Gw3m)
+- [Build your own lisp book (using C)](http://buildyourownlisp.com/)
 
 # Comp Arch
-http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 
 ## Systems Admin Stuff
 
@@ -683,6 +633,7 @@ Decentralised
     - [ ] [AWS EC2 and Docker Subscribed Video Series](https://awsdevops.io/courses/190849/lectures/2902055)
     - [ ] [Building Containers](https://blog.kintoandar.com/2018/01/Building-healthier-containers.html)
     - [ ] [Why containers](http://www.tedinski.com/2018/04/03/why-containers.html)
+    - [ ] [Container Internals P-I]( http://rabbitstack.github.io/operating%20systems/linux-containers-internals-part-i/)
     - [ ] Theres a bocker named repo in github, check it.
     - [ ] [Handcrafted Containers](http://blog.z3bra.org/2016/03/hand-crafted-containers.html)
     - [ ] [Linux Namespaces](https://medium.com/@teddyking/linux-namespaces-850489d3ccf)
@@ -749,6 +700,7 @@ Decentralised
 
 - Basic Stuff as a user I should know
     - learn curl
+    - read git pro
     - [Core Linux Concepts](https://www.funtoo.org/Category:Linux_Core_Concepts)
     - [Moving in CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)
     - [Difference between Tmux and Screen](https://wtanaka.com/node/8136)
@@ -757,6 +709,9 @@ Decentralised
     - [HTOP explained - I](https://peteris.rocks/blog/htop/)
     - [HTOP explained - II](https://codeahoy.com/2017/01/20/hhtop-explained-visually/)
     - [Linux CPU stats](http://blog.scoutapp.com/articles/2015/02/24/understanding-linuxs-cpu-stats)
+    - [EFI Boot Process I](http://jdebp.eu./FGA/efi-boot-process.html)
+    - [EFI Boot Process II (More Practical)](https://www.rodsbooks.com/efi-bootloaders/index.html)
+    - [UEFI Boot Process (Too much blah!)](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
 
 - Bash
     - [Bash Guide](http://mywiki.wooledge.org/BashGuide)
@@ -832,3 +787,23 @@ http://pythonextensionpatterns.readthedocs.io/en/latest/index.html
 https://www.devdungeon.com/content/working-binary-data-python
 https://github.com/geekodour/pysheeet
 http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/#what-is-a-dsl-and-why-should-you-care
+- [ ] [Understanding gunicorn's async worker concurrency model](http://words.volant.is/articles/understanding-gunicorns-async-worker-concurrency-model/)
+http://groverlab.org/hnbfpr/2017-06-22-fun-with-sys-getrefcount.html
+py
+Python testing https://www.youtube.com/watch?v=FxSsnHeWQBY
+https://pythontips.com/2018/04/15/reverse-engineering-soundcloud-api/
+https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
+https://github.com/00111000/Imports-in-Python
+https://pythonwheels.com
+https://nvbn.github.io/2015/10/08/how-thefuck-works/
+https://github.com/spiside/pdb-tutorial
+https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65
+https://lobste.rs/s/uncyzu/why_we_have_both_requirements_txt_setup_py
+https://github.com/hchasestevens/hchasestevens.github.io/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb
+https://gkbrk.com/2018/02/simple-dbus-service-in-python/
+https://sircmpwn.github.io/2017/01/13/The-problem-with-Python-3.html
+http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/
+http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/
+https://amir.rachum.com/blog/2016/10/03/understanding-python-class-instantiation/
+read fluent python
+https://amir.rachum.com/blog/2017/07/28/python-entry-points/
