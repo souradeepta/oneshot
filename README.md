@@ -52,3 +52,19 @@ So from OneShot, I expect these few things:
 - Build and understand cool stuff like compilers, interpreters etc.
 - Write blog
 - Most importantly, **to be deciplined and to learn time management.**
+
+**Habits:**
+- Read research papers
+- Be able to do math
+- Increase focus
+- Be disciplined
+- Stop fapping
+- Two cig a week
+- Blogging & Journaling
+
+**Goals:**
+- To develop the above mentioned habits
+- To know the above mentioned topics properly if not all
+- To implement protocols and build cool stuff and ship some.
+- Keep contributing to open source
+- Make GSoC and other cool stuff next year

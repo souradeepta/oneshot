@@ -1,42 +1,39 @@
 # Syllabus
 
 ## Rules
-- Stop browsing the internet, you have everything here.
 - Don't go next level unless you complete current level. 
 unless it's a question or something like that.
 - Untill and unless mentioned, Excercises are **MANDATORY**.
 - You're doing this for yourself, don't cheat yourself.
 - Do not read blog/article if you don't need it, there are too many.
-
-after list done just assign projects to this list
+- No project untill August.(If in MOOC then do.)
 
 23,15 June OS,29 - back exam
-
-- May
-    - Maths
-    - DS&Algo
-    - Systems MOOC
-    - Operating Systems just read
-    - SICP MOOC
-    - Network Book furos, just read
-- June
-    - Maths
-    - DS&Algo
-    - Systems
-    - SICP
-    - Database
-    - Network Book, just read
-- July
-    - Network Programming
-    - Network 
-    - Math
-    - CP
-- August
-- September
-- October
-    - Study for back exams
-- November
-- December
+> - May
+>     - Maths
+>     - DS&Algo
+>     - Systems MOOC
+>     - Operating Systems just read
+>     - SICP MOOC
+>     - Network Book furos, just read
+> - June
+>     - Maths
+>     - DS&Algo
+>     - Systems
+>     - SICP
+>     - Database
+>     - Network Book, just read
+> - July
+>     - Network Programming
+>     - Network 
+>     - Math
+>     - CP
+> - August
+> - September
+> - October
+>     - Study for back exams
+> - November
+> - December
 
 -----------------------
 
@@ -59,67 +56,17 @@ after list done just assign projects to this list
     - subnetting
     - computer arethemetic
 
-**Habits:**
-- Read research papers
-- Be able to do math
-- Increase focus
-- Be disciplined
-- Stop fapping
-- Two cig a week
-- Blogging & Journaling
-
-**Goals:**
-- To develop the above mentioned habits
-- To know the above mentioned topics properly if not all
-- To implement protocols and build cool stuff and ship some.
-- Keep contributing to open source
-- Make GSoC and other cool stuff next year
-
-# Topics
+# Modules
 
 ## Maths
 
+### Topics
 - [ ] Discrete Math
 - [ ] Graph Theory
 - [ ] Bits and Bytes
 - [ ] Linear Algebra
 - [ ] Stats and Probab
 - [ ] Calculus
-
-### Tools and Cheatsheets
-- [Compsci cheatsheet](https://github.com/Jam3/math-as-code)
-- [Matrix Multiplication Calculator](http://matrixmultiplication.xyz/)
-- [Matrix Calculus](http://www.matrixcalculus.org)
-- [Common Algebra Rules](http://algebrarules.com)
-- [Betterexplained](https://betterexplained.com/cheatsheet/)
-
-
-### Level 0
-- Blogposts
-    - [ ] [How to read math](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
-- Books
-    - [ ] [No Bullshit Guide to Math and Physics](https://drive.google.com/open?id=12Mbf9MZ55psipUdxbE_-oWZvEdCjOmtB)
-    - [ ] [How to prove it](https://drive.google.com/open?id=10q4nDvL-KAdVkudnC9ejHOTRFO1zSP93)
-    - [ ] [Calculus made easy](https://drive.google.com/open?id=1S5h-4fhQGV0SNQXbZGjyB2up4YNjbcX2)
-- Videos
-    - [ ] 3Blue1Brown Videos specify which links
-### Level 1
-- Blogposts
-    - [ ] [Modular Arithmetic](https://artofproblemsolving.com/wiki/index.php/Modular_arithmetic/Introduction)
-    - [ ] [Graph Glossary](http://www.personal.kent.edu/~rmuhamma/GraphTheory/MyGraphTheory/defEx.htm)
-    - [ ] [Basic Number Theory](https://www.codechef.com/wiki/tutorial-number-theory/)
-    - [ ] [Review of Math of Comp Sci](http://www.introtcs.org/public/lec_00_1_math_background.html)
-- Books
-    - [ ] Grimaldi
-- Videos
-    - [ ] [Graph Theory Visually Explained](https://goo.gl/d5n8ft)
-### Level 100 (organize these)
-- [ ] [Discrete Math and FP](http://cs.wheaton.edu/~tvandrun/dmfp/)
-- [ ] [Stats and Probability MOOC](https://projects.iq.harvard.edu/stat110/youtube)
-- [ ] [Linear Algebra MOOC](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-- [ ] [Introduction to Network math](http://webmathematics.net)
-- [ ] [All about markov model](https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71)
-- [ ] [Mental Math trick](http://exupero.org/hazard/post/prime-modulo/)
 
 -----------------------
 
