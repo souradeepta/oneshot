@@ -52,13 +52,10 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
 
 ## Syllabus
 
-### For Home and Self
-- [Home Backup Strategy](https://www.zachary.com/posts/how-to-data/)
-
 ### Tools
 - [ ] [cron help](https://healthchecks.io/docs/cron/)
 
-### Meta
+### Resources
 - [ ] [Meta Advice for sysadmin](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know)
 - [ ] [SABook](http://sabok.org)
 - [ ] [opsschool](http://www.opsschool.org/en/latest/introduction.html)
@@ -66,22 +63,36 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
 - [ ] [Awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [ ] [Good Links](https://www.gerrywilliams.net/bookmarks/)
 
+### Level 0
+- Basic Stuff as a user I should know
+    - learn curl
+    - learn to use tor
+    - read git pro
+    - [Core Linux Concepts](https://www.funtoo.org/Category:Linux_Core_Concepts)
+    - [Moving in CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)
+    - [Difference between Tmux and Screen](https://wtanaka.com/node/8136)
+    - [How groups work in linux](https://jvns.ca/blog/2017/11/20/groups/)
+    - [TCPdump Primer](https://danielmiessler.com/study/tcpdump/)
+    - [HTOP explained - I](https://peteris.rocks/blog/htop/)
+    - [HTOP explained - II](https://codeahoy.com/2017/01/20/hhtop-explained-visually/)
+    - [Linux CPU stats](http://blog.scoutapp.com/articles/2015/02/24/understanding-linuxs-cpu-stats)
+    - [EFI Boot Process I](http://jdebp.eu./FGA/efi-boot-process.html)
+    - [EFI Boot Process II (More Practical)](https://www.rodsbooks.com/efi-bootloaders/index.html)
+    - [UEFI Boot Process (Too much blah!)](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
+    - [Home Backup Strategy](https://www.zachary.com/posts/how-to-data/)
+
 ### Tutorials
 - [ ] [pfsense playlist](https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk)
 - [ ] [Command line text processing Book](https://github.com/learnbyexample/Command-line-text-processing)
 - [ ] [Sysadmin casts](https://sysadmincasts.com)
-- [ ] BCHS Webserver
-    - [Tutorial](https://learnbchs.org/index.html)
-    - [Discussion](https://lobste.rs/s/2c4hvd/bchs_bsd_c_httpd_sqlite)
-- [Interactive Ansible Tutorial](https://github.com/turkenh/ansible-interactive-tutorial)
-
----
-### Advanced
-- [sudo syntax](http://toroid.org/sudoers-syntax)
-
+- BCHS Webserver
+    - [ ] [Tutorial](https://learnbchs.org/index.html)
+    - [ ] [Discussion](https://lobste.rs/s/2c4hvd/bchs_bsd_c_httpd_sqlite)
+- [ ] [Interactive Ansible Tutorial](https://github.com/turkenh/ansible-interactive-tutorial)
+- [ ] [sudo syntax](http://toroid.org/sudoers-syntax)
 
 - Understanding Virtulization
-    - [Vagrant KnowHow](https://zwischenzugs.com/2017/10/27/ten-things-i-wish-id-known-before-using-vagrant/)
+    - [ ] [Vagrant KnowHow](https://zwischenzugs.com/2017/10/27/ten-things-i-wish-id-known-before-using-vagrant/)
 
 - Understanding Containers
     - [ ] [Intro](http://doger.io)
@@ -154,23 +165,6 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
     - [Sculpting Text](http://matt.might.net/articles/sculpting-text/)
     - [Text Processing VS Hadoop]( https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 
-
-- Basic Stuff as a user I should know
-    - learn curl
-    - learn to use tor
-    - read git pro
-    - [Core Linux Concepts](https://www.funtoo.org/Category:Linux_Core_Concepts)
-    - [Moving in CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)
-    - [Difference between Tmux and Screen](https://wtanaka.com/node/8136)
-    - [How groups work in linux](https://jvns.ca/blog/2017/11/20/groups/)
-    - [TCPdump Primer](https://danielmiessler.com/study/tcpdump/)
-    - [HTOP explained - I](https://peteris.rocks/blog/htop/)
-    - [HTOP explained - II](https://codeahoy.com/2017/01/20/hhtop-explained-visually/)
-    - [Linux CPU stats](http://blog.scoutapp.com/articles/2015/02/24/understanding-linuxs-cpu-stats)
-    - [EFI Boot Process I](http://jdebp.eu./FGA/efi-boot-process.html)
-    - [EFI Boot Process II (More Practical)](https://www.rodsbooks.com/efi-bootloaders/index.html)
-    - [UEFI Boot Process (Too much blah!)](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
-
 - Bash
     - [Bash Guide](http://mywiki.wooledge.org/BashGuide)
     - [Bash Scripting Mistakes](http://www.pixelbeat.org/programming/shell_script_mistakes.html)
@@ -180,7 +174,6 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
     - [Style Guide](https://google.github.io/styleguide/shell.xml)
     - [Advanced Guide](http://www.tldp.org/LDP/abs/html/index.html)
     - [Bash One liners](http://www.catonmat.net/blog/bash-one-liners-explained-part-one/)
-
 
 - Scaling  Intro
     - [Good Loadbalancing and Proxy Intro](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
