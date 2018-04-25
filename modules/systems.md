@@ -56,7 +56,8 @@
     - [Binary Bomb Solution P2]( https://web.archive.org/web/20160314033730/http://blog.carlosgaldino.com/2015/11/19/defusing-a-binary-bomb-with-gdb-part-2.html)
     - [Binary Bomb Solution P3]( https://web.archive.org/web/20160314033758/http://blog.carlosgaldino.com:80/2015/12/03/defusing-a-binary-bomb-with-gdb-part-3.html)
 - Blogposts
-    - [ ] [How does a segfault occur]( https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood)
+    - [ ] [How does a segfault occur](https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood)
+    - [ ] [Memory](http://marek.vavrusa.com/memory/)
 
 ### Level 2
 - Tutorials
