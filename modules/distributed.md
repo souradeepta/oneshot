@@ -42,3 +42,4 @@ know what tla+ is, tutorials are there on lobster
 - Case studies
     - [ ] [Industrial Distributed Systems](http://book.mixu.net/distsys/single-page.html)
     - [ ] [Decentralized Commenting System IPFS](https://lobste.rs/s/objilw/how_create_fairly_decentralized)
+    - [ ] [Interns and load balancers](https://rachelbythebay.com/w/2018/04/21/lb/)
