@@ -34,7 +34,6 @@ know what tla+ is, tutorials are there on lobster
     - [ ] [Paxos Explained](http://muratbuffalo.blogspot.in/2018/01/paxos-derived.html)
     - [ ] [Comparing Message Brokers](https://bravenewgeek.com/dissecting-message-queues/)
     - [ ] [Understanding CAP](http://ssougou.blogspot.in/2017/09/cap-theorem-is-mostly-misunderstood.html)
-    - [ ] [Understanding CRDT](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
 - Hard Project Ideas
     - [ ] [Project Ideas - I](http://www.scs.stanford.edu/14au-cs244b/labs/project.html)
     - [ ] [Project Ideas - II](http://www.cs.cornell.edu/courses/cs5412/2012sp/projects.htm)
