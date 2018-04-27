@@ -8,7 +8,7 @@ Total : 15 Backs
     - CG
     - DBMS
     - M&M
-- 4th Sem
+- 4th Sem (giving)
     - OS
     - Eco
     - PPL
