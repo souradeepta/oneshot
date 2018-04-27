@@ -8,6 +8,9 @@ unless it's a question or something like that.
 - Do not read blog/article if you don't need it, there are too many.
 - No project untill August.(If in MOOC then do.)
 
+### OSS projects to contribute to
+Go stdlib patches, wget2, curl, neovim, 
+
 23,15 June OS,29 - back exam
 > - May
 >     - Maths
