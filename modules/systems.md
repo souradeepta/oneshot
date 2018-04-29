@@ -43,6 +43,7 @@
     - [Learning C with GDB](https://www.recurse.com/blog/5-learning-c-with-gdb)
     - [Valgrind and GDB](https://fau.re/blog/20140330_vgdb.html)
     - [Practical GDB using ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
+    - [gdb and coredump](https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/)
 - MOOCs (Just do the assignments and you're done)
     - [ ] [Practical Programming in C]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm)
     - [ ] [Intro to memory management in C (only do memory management extercise)]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/index.htm)
