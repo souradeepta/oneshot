@@ -23,6 +23,7 @@
     - [ ] [CPU utilization](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
     - [ ] [Multiple cache levels](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
     - [ ] [Triva about endian](https://blog.erratasec.com/2016/11/how-to-teach-endian.html)
+    - [ ] [CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 
 ### Level 2
 - Book
