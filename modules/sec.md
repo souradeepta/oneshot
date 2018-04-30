@@ -14,6 +14,7 @@
 - [Own MD5](https://natmchugh.blogspot.in/2015/02/create-your-own-md5-collisions.html)
 - [Reveng apps](http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network)
 - [Takeover.sh](https://github.com/marcan/takeover.sh)
+- https://blog.runscope.com/posts/understanding-oauth-2-and-openid-connect
 - https://github.com/shellphish/how2heap
 - http://nullprogram.com/blog/2017/03/12/
 - http://www.roguelynn.com/words/explain-like-im-5-kerberos/

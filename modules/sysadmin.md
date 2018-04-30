@@ -80,6 +80,7 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
     - [EFI Boot Process II (More Practical)](https://www.rodsbooks.com/efi-bootloaders/index.html)
     - [UEFI Boot Process (Too much blah!)](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
     - [Home Backup Strategy](https://www.zachary.com/posts/how-to-data/)
+    - [Tor best practices](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
 
 ### Tutorials
 - [ ] [pfsense playlist](https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk)
