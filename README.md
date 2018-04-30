@@ -1,70 +1,66 @@
-# oneshot
-Inspiration for the name comes from eminem's Lose Yourself, just in case you're wondering.
+<h1 align="center"> 
+<br>
+<img width="300px;" src="media/text4162.png">
+<br>
+<img src="https://img.shields.io/badge/build-progress-blue.svg?style=flat-square">
+</h1>
 
-### So what's all this about?
-This repo is a todolist/bucketlist/syllabus for computersciency things I wanted to study and dive into for last 3-4 years.
-I am a 3rd year computer science student and i am dropping a year(will continue college next year) to GSD.
-This repo will be basically the **roadmap** for next few months, It's April 19th 2018. I'll be continuing college January next year
-with juniors.
+Just in case you are wondering, the inspiration for the name "OneShot" comes from Eminem's Lose Yourself. 
 
-Trying to avoid "Oh i wish I found this earlier problem"
-I want to be the guy who understands unicode and is good at regex.
-I want to work my ass off for once.
+__So, what this all is about!__
 
-I know it won't happen in 7 months, but I can atleast get started.
+This repository is a todo-list/bucket-list/syllabus for the computer-sciency things I wanted to study and dive into since last 3-4 years.
 
-unspoil myself because I've been using ORMs all the time!
+I am a 3rd-year Computer Science Engineering student, and I'm dropping a year to GSD. This repository will be, basically, the roadmap for the next few month's studies. It's April 19th, 2018. I will continue going to the college from Januar, 2019, with Juniors. 
 
-I lost my curosity, get it back
+I'm trying to avoid "Oh, I wish I found these problems earlier." I want to be the guy who understands Unicode and is good at regex. 
 
-I have 800 HN saved links, about 400 Bookmarks, ~200 Pocket Links, 500 Trello links
-Reddit, Medium, Gist remaining
+I want to work my ass off for once!
 
-### Why is this so important for me?
-I am dumb. I might think i suffer from imposter syndrome because it might make me feel good about myself
-sometimes but bottom line is I AM ULTRA DUMBO and I've been dumb ever since.
+I know these things will take some time, and it won't happen in 7 months, but, at least, I can get started. 
 
-I can't do simple math calculations properly but somehow i am good at computers and that's the only thing
-I am good at, but as I am advancing my studies being dumb will cause problems in future.
+- Unspoil myself because I've using ORMs all the time!
+- I lost my curiosity, want to get it back
+- I have 800 HN links, ~400 bookmarks, ~200 Pocket links, and almost around 500 Trello, Reddit, Medium, Gists remaining. 
 
-So this year, I ma be smart with the dumbest move ever(dropping a year)
+### __`Q: Why is this so important to me?`__
 
-I've been programming in various languages, made few webapps for last two years, but I am master of none.
-I've contributed to some oss projects but none of the patches
-I send are correct in the first(I know it does not have to be like that). Basically I can program but I am a bad programmer
-and I want to be a good programmer, a real programmer as people say. OneShot is all about that.
+I'm dumb. I think I might suffer from imposter syndrome because it might make me feel good about myself sometimes, but the bottom line is - I'm ultra-dumb. 
 
-I've always been very much in computer networks and systems admin, though I love hardcore programming.
-Then in the last few months I discovered distributed systems and decided this is the direction i want to be going.
+I can't do simple mathematics calculations properly. Somehow, I'm good with computers, but I'm advancing my studies, being dumb will cause problems in future. So, this year I'm going to play smart with a dumb move, i.e., take a year back.
 
-The things I want to learn are collected over various sources that I collected over the years.
-The syllabus document goes in more depth.
+I've been coding in different languages, made few web apps in the last two years, but I'm master of none. I've contributed to the Open Source projects, but none of those patches I sent were correct in the first place (I know, it does not have to be like that, but anyway, this is how I feel). I can program, but I'm a bad programmer. I want to be a good programmer, a real programmer, just like the people say. OneShot is all about that. 
 
-So from OneShot, I expect these few things:
+I've always been very much in Computer Network and System Administration, though I love hardcore programming, then in the last few months, I discovered distributed system, decided and finalized that it's the only maze I want to explore. 
 
-- To be good in maths
-- To be good in algo&ds
-- To be good in systems programming, OS and C
-- To be good in network programming
-- To be able to read simple and domain related research papers
-- To have some kind of keen interest in P2P networks
-- To have a understanding of distributed systems and do some stuff with it
-- Build and understand cool stuff like compilers, interpreters etc.
-- Write blog
-- Most importantly, **to be deciplined and to learn time management.**
+Over the years, from various source, I've made a big list of things which I want to learn. The syllabus document goes into much more depth. 
 
-**Habits:**
-- Read research papers
-- Be able to do math
-- Increase focus
-- Be disciplined
-- Stop fapping
-- Two cig a week
-- Blogging & Journaling
+From OneShot, I expect these few things, which I've divided into following categories - 
 
-**Goals:**
-- To develop the above mentioned habits
-- To know the above mentioned topics properly if not all
-- To implement protocols and build cool stuff and ship some.
-- Keep contributing to open source
-- Make GSoC and other cool stuff next year
+#### __`Habits`__
+
+- Write good code.
+- Read Research Papers.
+- Do more maths.
+- Increase focus.
+- To be disciplined.
+- Blogging and Journaling.
+- Keep contributing to the Open Source.
+- Two cigarettes in a week.
+
+#### __`Goals`__
+
+- To be good at Mathematics.
+- To be good in Data Structure, and Algorithms.
+- To be good in System Programming, Operating Systems, and C.
+- To be good at Network Programming.
+- To be able to read domain related search papers. 
+- To have a keen interest in P2P networks.
+- To have an understanding of distributed systems and do some stuff with it.
+- Build and understand cool things like compilers and interpreters etc.
+- To implement protocols and build cool stuff, and ship some them.
+- Make to the GSoC and other cool stuff next year.
+
+### `Conclusion`
+
+Don't want to jump to any of the conclusion. I'll work my ass off, let's see what happens!
