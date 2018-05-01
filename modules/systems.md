@@ -116,6 +116,7 @@
 - Tutorials
     - [C/C++ Memory Model](https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/)
     - [Shared libs Internals](https://amir.rachum.com/blog/2016/09/17/shared-libraries/)
+    - [bit methods](https://github.com/miguel-r-s/BitCounting)
 - Assembly
     - [Nice short guide to x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
     - [Learning to read assembly](http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language)
