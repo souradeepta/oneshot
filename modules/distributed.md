@@ -30,6 +30,7 @@ know what tla+ is, tutorials are there on lobster
     - [DAPPS](https://redecentralize.github.io/alternative-internet/)
 ### Level 3
 - Blogposts
+    - [ ] [Books about network protocol design](https://lobste.rs/s/f2bukl/book_recommendations_about_network)
     - [ ] [Basic Paxos Implementation](http://nil.csail.mit.edu/6.824/2015/notes/paxos-code.html)
     - [ ] [Paxos Explained](http://muratbuffalo.blogspot.in/2018/01/paxos-derived.html)
     - [ ] [Comparing Message Brokers](https://bravenewgeek.com/dissecting-message-queues/)
