@@ -121,5 +121,7 @@
     - [Nice short guide to x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
     - [Learning to read assembly](http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language)
     - [x86 Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+    - Do computer arch on coursera
+    - [SIMD Guide with strings](http://trent.me/is-prefix-of-string-in-table/)
 - Reverse engg
     - [Exercises](https://github.com/wapiflapi/exrs)
