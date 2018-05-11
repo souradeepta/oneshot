@@ -23,6 +23,7 @@ know what tla+ is, tutorials are there on lobster
     - [ ] [Parallel processing with unix tools](http://www.pixelbeat.org/docs/unix-parallel-tools.html)
     - [ ] [Things that programmers don't know but should](https://gist.github.com/garybernhardt/44b7063110fc423edb4d)
     - [ ] [Understanding RPCs](https://prakhar.me/articles/understanding-rpcs/)
+    - [ ] [aosa book dist](http://aosabook.org/en/distsys.html)
 - Decentralised
     - [IPFS Intro](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
     - [Putting Blog on IPFS](https://lobste.rs/s/ox8jrg/putting_my_blog_on_ipfs)
