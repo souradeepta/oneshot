@@ -58,6 +58,7 @@
     - [Binary Bomb Solution P3]( https://web.archive.org/web/20160314033758/http://blog.carlosgaldino.com:80/2015/12/03/defusing-a-binary-bomb-with-gdb-part-3.html)
 - Blogposts
     - [ ] [How does a segfault occur](https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood)
+    - [ ] [Unix Pipes](http://www.linusakesson.net/programming/pipelogic/index.php)
     - [ ] [Memory](http://marek.vavrusa.com/memory/)
 
 ### Level 2

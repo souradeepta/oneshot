@@ -20,3 +20,4 @@
 - [Intro to DBMS](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 - [How Batabase Works)](http://coding-geek.com/how-databases-work/)
 - [Internals of postgres](http://www.interdb.jp/pg/index.html)
+- [Diff mysql and postgres](https://di.nmfay.com/postgres-vs-mysql)

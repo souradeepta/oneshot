@@ -156,3 +156,5 @@
     - [Toy Layout engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - One time secret app
   - [github](https://github.com/Incognito/one-time-secret)
+- Bittorrent Client
+  - [blogpost](https://luminarys.com/posts/writing-a-bittorrent-client.html)
