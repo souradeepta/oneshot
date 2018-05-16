@@ -78,6 +78,7 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
     - [TCPdump Primer](https://danielmiessler.com/study/tcpdump/)
     - [HTOP explained - I](https://peteris.rocks/blog/htop/)
     - [HTOP explained - II](https://codeahoy.com/2017/01/20/hhtop-explained-visually/)
+    - [HTOP explained - III](https://lobste.rs/s/eh5u4f/managing_processes_with_htop)
     - [Linux CPU stats](http://blog.scoutapp.com/articles/2015/02/24/understanding-linuxs-cpu-stats)
     - [EFI Boot Process I](http://jdebp.eu./FGA/efi-boot-process.html)
     - [EFI Boot Process II (More Practical)](https://www.rodsbooks.com/efi-bootloaders/index.html)
