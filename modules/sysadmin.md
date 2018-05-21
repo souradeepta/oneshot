@@ -68,6 +68,7 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
     - learn curl
     - learn to use tor
     - read git pro
+    - [VPN Setup by varun](https://varunpriolkar.com/2018/05/ultimate-openvpn-setup-to-rule-them-all/)
     - [Bash Scripting](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
     - [App recomendations](https://lobste.rs/s/8xtyxo/f_droid_app_recommendation_thread)
     - [Docker](https://takacsmark.com/dockerfile-tutorial-by-example-dockerfile-best-practices-2018/)
