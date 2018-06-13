@@ -1,6 +1,10 @@
 ## Programming Languages
 ### Level 0
+<<<<<<< HEAD
 - [ ] [intro](https://mpc.sh/blog/a-gentle-intro-to-plt/)
+=======
+- [ ] [Scheme Book](https://ds26gte.github.io/tyscheme/index-Z-H-1.html)
+>>>>>>> 8b87677e99404b45434dc5e267c21f28b802c117
 - [ ] [Scheme Youtube Playlist](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
 - [ ] [SICP Guide+MOOC](https://github.com/geekodour/sicp-course)
 - [ ] [Beautiful SICP](https://sarabander.github.io/sicp/html/index.xhtml)

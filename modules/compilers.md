@@ -33,7 +33,7 @@ I think a valuable takeaway point for those interested in writing their own comp
 - [Writing C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 - [Writing GCC Backend](https://kristerw.blogspot.in/2017/08/writing-gcc-backend_4.html)
 - [Writing GCC Frontend](http://thinkingeek.com/gcc-tiny/)
-- [[OLD] Toy compiler using LLVM](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
+- [OLD Toy compiler using LLVM](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
 - [First 15 compilers](http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/)
 - [Crafting Interpreters](http://www.craftinginterpreters.com/contents.html)
 - [JSON parser in C](https://archive.is/Gw3m)

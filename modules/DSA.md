@@ -48,6 +48,8 @@
     - [Web Twiddle](http://bits.stephan-brumme.com/)
     - [Blogpost](http://www.goldsborough.me/bits/c++/low-level/problems/2015/10/11/23-52-02-bit_manipulation/)
     - [Bit Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
+    - [Everyone should know](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/)
+    - read goldborgs article too
 
 ### Level 2
 - [ ] [Understanding A*](https://www.redblobgames.com/pathfinding/a-star/implementation.html)

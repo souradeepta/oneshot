@@ -68,6 +68,9 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
     - learn curl
     - learn to use tor
     - read git pro
+    - [TCP dump](https://news.ycombinator.com/item?id=17177955)
+    - [VPN Setup by varun](https://varunpriolkar.com/2018/05/ultimate-openvpn-setup-to-rule-them-all/)
+    - [Bash Scripting](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
     - [App recomendations](https://lobste.rs/s/8xtyxo/f_droid_app_recommendation_thread)
     - [Docker](https://takacsmark.com/dockerfile-tutorial-by-example-dockerfile-best-practices-2018/)
     - [Core Linux Concepts](https://www.funtoo.org/Category:Linux_Core_Concepts)
@@ -77,6 +80,7 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
     - [TCPdump Primer](https://danielmiessler.com/study/tcpdump/)
     - [HTOP explained - I](https://peteris.rocks/blog/htop/)
     - [HTOP explained - II](https://codeahoy.com/2017/01/20/hhtop-explained-visually/)
+    - [HTOP explained - III](https://lobste.rs/s/eh5u4f/managing_processes_with_htop)
     - [Linux CPU stats](http://blog.scoutapp.com/articles/2015/02/24/understanding-linuxs-cpu-stats)
     - [EFI Boot Process I](http://jdebp.eu./FGA/efi-boot-process.html)
     - [EFI Boot Process II (More Practical)](https://www.rodsbooks.com/efi-bootloaders/index.html)
