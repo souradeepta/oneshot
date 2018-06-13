@@ -1,5 +1,6 @@
 ## Programming Languages
 ### Level 0
+- [ ] [intro](https://mpc.sh/blog/a-gentle-intro-to-plt/)
 - [ ] [Scheme Youtube Playlist](https://www.youtube.com/playlist?list=PLgyU3jNA6VjRMB-LXXR9ZWcU3-GCzJPm0)
 - [ ] [SICP Guide+MOOC](https://github.com/geekodour/sicp-course)
 - [ ] [Beautiful SICP](https://sarabander.github.io/sicp/html/index.xhtml)
