@@ -28,6 +28,7 @@
 - Implement a debugging socket proxy.
 - A debugger
     - [Tutorial](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+    - [Low level linux debugger](https://blog.asrpo.com/making_a_low_level_debugger)
     - [Debugger Internals](https://backtrace.io/blog/backtrace/debugger-internals/)
     - [How breakpoints are set](https://majantali.net/2016/10/how-breakpoints-are-set/)
 - Backdoor
