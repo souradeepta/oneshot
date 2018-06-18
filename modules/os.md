@@ -14,6 +14,7 @@
     - [ ] [LittleOSBook - Own x86 operating system](http://littleosbook.github.io)
     - [ ] [Simple OS from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
     - [ ] [MikeOS](http://mikeos.sourceforge.net/write-your-own-os.html)
+    - [ ] [rpios - do later](https://github.com/s-matyukevich/raspberry-pi-os)
     - [ ] [OS Dev guide](http://www.brokenthorn.com/Resources/OSDevIndex.html)
     - [ ] [Linux Booting process modern](https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxBootOverview)
 - Writing a bootloader
