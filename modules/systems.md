@@ -47,6 +47,7 @@
 - MOOCs (Just do the assignments and you're done)
     - [ ] [Practical Programming in C]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm)
     - [ ] [Intro to memory management in C (only do memory management extercise)]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/index.htm)
+    - [ ] [Assembly Intro](https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial)
 
 ### Level 1
 - MOOC

@@ -68,6 +68,7 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
     - learn curl
     - learn to use tor
     - read git pro
+    - [Writing systemd service](https://blog.akerl.org/2016/05/26/systemd-services-are-easy/)
     - [TCP dump](https://news.ycombinator.com/item?id=17177955)
     - [VPN Setup by varun](https://varunpriolkar.com/2018/05/ultimate-openvpn-setup-to-rule-them-all/)
     - [Bash Scripting](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)

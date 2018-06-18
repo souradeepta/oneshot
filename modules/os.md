@@ -15,6 +15,7 @@
     - [ ] [Simple OS from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
     - [ ] [MikeOS](http://mikeos.sourceforge.net/write-your-own-os.html)
     - [ ] [OS Dev guide](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+    - [ ] [Linux Booting process modern](https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxBootOverview)
 - Writing a bootloader
     - [ ] [Writing a bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
     - [ ] [UEFI Programming](http://x86asm.net/articles/uefi-programming-first-steps/)
