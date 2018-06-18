@@ -159,3 +159,5 @@
   - [github](https://github.com/Incognito/one-time-secret)
 - Bittorrent Client
   - [blogpost](https://luminarys.com/posts/writing-a-bittorrent-client.html)
+- Oauth2 client
+  - [example written in bash](https://github.com/geekodour/bash-oauth2-client)
