@@ -73,6 +73,7 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
     - [Bash Scripting](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
     - [App recomendations](https://lobste.rs/s/8xtyxo/f_droid_app_recommendation_thread)
     - [Docker](https://takacsmark.com/dockerfile-tutorial-by-example-dockerfile-best-practices-2018/)
+    - [Docker 2](https://docker-curriculum.com/)
     - [Core Linux Concepts](https://www.funtoo.org/Category:Linux_Core_Concepts)
     - [Moving in CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)
     - [Difference between Tmux and Screen](https://wtanaka.com/node/8136)
