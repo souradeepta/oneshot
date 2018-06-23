@@ -20,6 +20,7 @@ know what tla+ is, tutorials are there on lobster
     - [ ] Do a MOOC on algorithms on distributed systems from mooc site.
 - Blogposts
     - [ ] [Distributed Systems and API](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/)
+    - [ ] [Students guide to RAFT](https://thesquareplanet.com/blog/students-guide-to-raft/)
     - [ ] [Parallel processing with unix tools](http://www.pixelbeat.org/docs/unix-parallel-tools.html)
     - [ ] [Things that programmers don't know but should](https://gist.github.com/garybernhardt/44b7063110fc423edb4d)
     - [ ] [Understanding RPCs](https://prakhar.me/articles/understanding-rpcs/)
