@@ -137,6 +137,7 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
 - SSL, SSH & Sysadmin & Home Security
     - [ ] First know the difference between SSH and SSL then OpenSSH and OpenSSL
     - [ ] [SSH for everything](https://lobste.rs/s/oufswu/why_aren_t_we_using_ssh_for_everything)
+    - [ ] [Security Checklist](https://github.com/mayfrost/guides/blob/master/SECURITY.md)
     - [ ] [Security basics with GPG, OpenSSH, OpenSSL and Keybase](https://www.integralist.co.uk/posts/security-basics/)
     - [ ] [Own identity using gpg](http://www.saminiir.com/establish-cryptographic-identity-using-gnupg/)
     - [ ] [Upgrading SSH Keys](https://blog.g3rt.nl/upgrade-your-ssh-keys.html)
