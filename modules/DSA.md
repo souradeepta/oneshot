@@ -19,6 +19,7 @@
 - Implementations
     - [python algos](https://github.com/harishvc/challenges#data-structures-algorithms--concepts)
     - [cpp algos](https://github.com/PetarV-/Algorithms)
+    - [notes](http://jeffe.cs.illinois.edu/teaching/algorithms/)
     - [Project euler sols in python](https://github.com/nayuki/Project-Euler-solutions/tree/master/python)
 
 ### Level 0
