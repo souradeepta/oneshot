@@ -22,6 +22,7 @@ I think a valuable takeaway point for those interested in writing their own comp
     - [Adventures in JIT compilation with brainfuck](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
     - [Hello JIT](http://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html)
     - [JIT Tutorial](https://github.com/spencertipping/jit-tutorial)
+    - [Yet Another JIT Tutorial](http://www.mikedrivendevelopment.com/2018/06/what-i-learned-making-my-own-jit.html)
 - [Want to Write a Compiler? Just Read These Two Papers.](http://prog21.dadgum.com/30.html)
 - [Beautifulracket](https://beautifulracket.com/stacker/intro.html)
 - [Brainfuck](https://www.hashcollision.org/brainfudge/)
