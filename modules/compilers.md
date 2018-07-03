@@ -13,6 +13,7 @@ I think a valuable takeaway point for those interested in writing their own comp
 - Videos
   - [Intro to llvm](https://www.youtube.com/watch?v=VKIv_Bkp4pk)
 - Tutorials
+  - [Bytecode demystified](https://lowlevelbits.org/bitcode-demystified/)
   - [LLVM for Grads](http://www.cs.cornell.edu/~asampson/blog/llvm.html)
   - [LLVM Source Tour](https://blog.regehr.org/archives/1453)
   - [Origin of type systems](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/)
