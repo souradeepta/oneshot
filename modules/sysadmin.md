@@ -71,6 +71,8 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
     - [Writing systemd service](https://blog.akerl.org/2016/05/26/systemd-services-are-easy/)
     - [TCP dump](https://news.ycombinator.com/item?id=17177955)
     - [VPN Setup by varun](https://varunpriolkar.com/2018/05/ultimate-openvpn-setup-to-rule-them-all/)
+    - [Cloud DNS Setup](https://blog.sigterm.se/posts/to-the-cloud-dns-edition/)
+    - [Cloud Blog Setup](https://blog.sigterm.se/posts/to-the-cloud-web-edition/)
     - [Bash Scripting](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
     - [App recomendations](https://lobste.rs/s/8xtyxo/f_droid_app_recommendation_thread)
     - [Docker](https://takacsmark.com/dockerfile-tutorial-by-example-dockerfile-best-practices-2018/)
