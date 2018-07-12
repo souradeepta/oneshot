@@ -27,6 +27,7 @@
 - [ ] [UTF-8 and Unicode FAQ for Unix/Linux](http://www.cl.cam.ac.uk/~mgk25/unicode.html#ucs)
 - [ ] [Abusing with unicode(github repo)](https://github.com/reinderien/mimic)
 ### Others
+- [ssl/tls](https://ct.cloudflare.com/logs/cirrus)
 - [regex](https://dassur.ma/things/regexp-quote/)
 - [Coreutils gotchas](http://www.pixelbeat.org/docs/coreutils-gotchas.html)
 - [Workstation guide](https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide)
