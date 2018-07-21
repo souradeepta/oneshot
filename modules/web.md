@@ -22,6 +22,7 @@
 
 ## Security
 - [ServiceWorker Botnet](https://sakurity.com/blog/2016/12/10/serviceworker_botnet.html)
+- [User Session ](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
 - [WhatWebKnows](http://webkay.robinlinus.com)
 
 ## Blogs
