@@ -6,6 +6,7 @@ Use emojis to mark important once when you actually start the module.
 - [Internet Protocol Design and Implementation](http://www.root.org/ip-development/) : Lots of resources here.
 - [irc protocol docs](https://modern.ircdocs.horse)
 - [ck10 Problem](http://www.kegel.com/c10k.html)
+- [Tor Open Research](https://blog.torproject.org/tors-open-research-topics-2018-edition)
 
 ### Level 0
 - Book
