@@ -7,6 +7,7 @@ Use emojis to mark important once when you actually start the module.
 - [irc protocol docs](https://modern.ircdocs.horse)
 - [ck10 Problem](http://www.kegel.com/c10k.html)
 - [Tor Open Research](https://blog.torproject.org/tors-open-research-topics-2018-edition)
+- [Bird](http://bird.network.cz/?get_doc&f=bird-3.html)
 
 ### Level 0
 - Book
