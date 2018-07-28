@@ -3,6 +3,8 @@
 ### Resources
 - [Systems Wiki](https://github.com/angrave/SystemProgramming/wiki)
 - [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html)
+- [Emulators 101](http://emulator101.com/)
+- [8bitworkshop](https://8bitworkshop.com)
 - [Advanced C++ (Can Skip this for now)](http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html)
 - [C++ FAQ](http://yosefk.com/c++fqa/index.html)
 - [C FAQ](http://c-faq.com)
