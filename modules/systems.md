@@ -9,6 +9,7 @@
 - [C++ FAQ](http://yosefk.com/c++fqa/index.html)
 - [C FAQ](http://c-faq.com)
 - [UNIX System Calls and Subroutines using C](http://users.cs.cf.ac.uk/Dave.Marshall/C/)
+- [UNIX System Calls Wiki](https://news.ycombinator.com/item?id=17706119)
 - [Linux Kernel Module Cheatsheet](https://github.com/cirosantilli/linux-kernel-module-cheat) (Don't know what this is, will be useful someday)
 - [Unix Signal Resources](https://gist.github.com/geekodour/93552b2f382e99b3d14ddc5c464f6c50)
 - [Code Samples (Skip for now i'd say)](https://gist.github.com/geekodour/93552b2f382e99b3d14ddc5c464f6c50)

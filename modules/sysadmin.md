@@ -168,6 +168,7 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
     - [SOCKS Proxy](https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters/)
     - [OpenBSD webserver](https://www.romanzolotarev.com/openbsd/webserver.html)
     - [Webapp with fastcgi and C](https://kristaps.bsd.lv/absdcon2016/)
+    - [Bash book](https://github.com/dylanaraps/pure-bash-bible#pure-bash-bible)
     - [Own Mail Server](https://www.c0ffee.net/blog/mail-server-guide)
     - [OpenVPN guide](https://www.c0ffee.net/blog/openvpn-guide)
     - [IRC Jumper](https://wiki.znc.in/ZNC)
