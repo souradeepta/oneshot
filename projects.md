@@ -153,6 +153,7 @@
     - [tutorial](https://github.com/emmericp/ixy)
 - TCP stack
     - [5 Part Series Tutorial](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+    - [ops tips](https://ops.tips/blog/a-tcp-server-in-c/)
 - A Browser
     - [Toy Layout engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - One time secret app
