@@ -10,6 +10,7 @@
 - [ ] DP, Greedy, Convex Hull, Disjoint Sets
 - [ ] Pathfinding Algorithm, A*, Djkastra
 - [ ] Bloom Filter, Huffman Coding
+- [ ] [Ray tracing](https://www.gamedev.net/articles/programming/graphics/ray-tracing-part-1-r3556/)
 
 
 
