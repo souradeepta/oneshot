@@ -20,6 +20,7 @@
 - [Computer Science Triva Latency Numbers](https://keon.io/computer-scientists-trivia/)
 - [writing c libraries](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html)
 - [Structure Packaging](http://www.catb.org/esr/structure-packing/)
+- [GC YT Video](https://www.youtube.com/watch?v=k0OOmaMwcV4&t=131s)
 
 ### Tools
 - [Function pointers](http://fuckingfunctionpointers.com)
