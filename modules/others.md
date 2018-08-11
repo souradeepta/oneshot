@@ -7,3 +7,5 @@
     - [ ] [Regular Expression Theory](https://swtch.com/~rsc/regexp/regexp1.html)
 - Calculators
     - [ ] [Online Binary/Decimal/Hex Converter](http://www.free-test-online.com/binary/signed_converter.html)
+    - [ ] [Scraping big](https://blog.scrapinghub.com/web-scraping-at-scale-lessons-learned-scraping-100-billion-products-pages)
+    - [ ] [Wiki2Vec](https://wikipedia2vec.github.io/wikipedia2vec/features/)

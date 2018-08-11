@@ -94,6 +94,7 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
 
 ### Tutorials
 - [ ] [pfsense playlist](https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk)
+- [ ] [pfsense book](https://www.netgate.com/docs/pfsense/book/)
 - [ ] [Command line text processing Book](https://github.com/learnbyexample/Command-line-text-processing)
 - [ ] [Sysadmin casts](https://sysadmincasts.com)
 - BCHS Webserver

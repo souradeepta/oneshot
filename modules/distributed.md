@@ -4,6 +4,7 @@ know what tla+ is, tutorials are there on lobster
 ### Tools
 - [Nanomsg](http://nanomsg.org/)
 - [ZeroMQ](http://zguide.zeromq.org/page:all)
+- [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
 ### Level 0
 - Blogposts

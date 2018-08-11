@@ -8,6 +8,7 @@ Use emojis to mark important once when you actually start the module.
 - [ck10 Problem](http://www.kegel.com/c10k.html)
 - [Tor Open Research](https://blog.torproject.org/tors-open-research-topics-2018-edition)
 - [Bird](http://bird.network.cz/?get_doc&f=bird-3.html)
+- [Usenet](https://en.wikipedia.org/wiki/Usenet)
 
 ### Level 0
 - Book

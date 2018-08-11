@@ -13,6 +13,7 @@
 - [HTTPS Daniel](https://daniel.haxx.se/http2/)
 - [WebAudio](https://martinmelhus.com/web-audio-modem/)
 - [WebAssembly](https://tomassetti.me/introduction-to-webassembly/)
+- [WebSub](https://www.w3.org/TR/websub/)
 
 # Django
 - [Django ORM Mistakes](http://kevinmahoney.co.uk/articles/django-orm-mistakes/)
