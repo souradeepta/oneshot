@@ -9,6 +9,7 @@ Use emojis to mark important once when you actually start the module.
 - [Tor Open Research](https://blog.torproject.org/tors-open-research-topics-2018-edition)
 - [Bird](http://bird.network.cz/?get_doc&f=bird-3.html)
 - [Usenet](https://en.wikipedia.org/wiki/Usenet)
+- [Network Programming OSS - Libssl](https://github.com/bob-beck/libtls/blob/master/TUTORIAL.md)
 
 ### Level 0
 - Book
