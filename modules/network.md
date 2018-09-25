@@ -14,6 +14,7 @@ Use emojis to mark important once when you actually start the module.
 ### Level 0
 - Book
     - Read [beej network guide](http://beej.us/guide/bgnet/)
+    - [OpenBSD Network stack](https://www.openbsd.org/papers/asiabsdcon08-network.pdf)
     - Read unp v123
 - Blogposts
     - [Bittorrent vs HTTP](https://daniel.haxx.se/docs/bittorrent-vs-http.html)
