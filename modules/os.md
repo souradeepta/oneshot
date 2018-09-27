@@ -15,6 +15,7 @@
 - OS Making Tutorials (Do all! :smile:)
     - [ ] [Write your own unix clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
     - [ ] [LittleOSBook - Own x86 operating system](http://littleosbook.github.io)
+    - [ ] [x86 addressing modes](http://paul.bone.id.au/2018/09/26/more-x86-addressing/<Paste>)
     - [ ] [Assembly Primer](https://wiki.skullsecurity.org/index.php?title=Fundamentals)
     - [ ] [Simple OS from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
     - [ ] [MikeOS](http://mikeos.sourceforge.net/write-your-own-os.html)
