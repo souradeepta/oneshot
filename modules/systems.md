@@ -3,6 +3,7 @@
 ### Resources
 - [Systems Wiki](https://github.com/angrave/SystemProgramming/wiki)
 - [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html)
+- [How terminals work](http://xn--rpa.cc/essays/term)
 - [Emulators 101](http://emulator101.com/)
 - [8bitworkshop](https://8bitworkshop.com)
 - [Advanced C++ (Can Skip this for now)](http://aszt.inf.elte.hu/~gsd/halado_cpp/index.html)
