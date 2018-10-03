@@ -14,6 +14,7 @@
 - [WebAudio](https://martinmelhus.com/web-audio-modem/)
 - [WebAssembly](https://tomassetti.me/introduction-to-webassembly/)
 - [WebSub](https://www.w3.org/TR/websub/)
+- [Haproxi api gateway](https://www.haproxy.com/blog/using-haproxy-as-an-api-gateway-part-1/)
 
 # Django
 - [Django ORM Mistakes](http://kevinmahoney.co.uk/articles/django-orm-mistakes/)
