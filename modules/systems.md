@@ -2,6 +2,7 @@
 
 ### Resources
 - [Systems Wiki](https://github.com/angrave/SystemProgramming/wiki)
+- [Introduction to libuv - Book](http://nikhilm.github.io/uvbook/)
 - [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html)
 - [How terminals work](http://xn--rpa.cc/essays/term)
 - [Emulators 101](http://emulator101.com/)
