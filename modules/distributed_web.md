@@ -1,5 +1,7 @@
 # p2p and Decentralized Web
 
+- [GNU Overview Video - Technical](https://media.ccc.de/v/34c3-ChaosWest-6-privacy_oriented_distributed_networking_for_an_ethical_internet_including_50_subsystems_of_gnunet#t=728)
+
 DHTs
 - [Chord PPT](http://www.cse.iitd.ac.in/~srsarangi/csl860/docs/chord-lec.pdf)
 - [Chord Wiki](https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
