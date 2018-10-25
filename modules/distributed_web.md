@@ -15,6 +15,13 @@ DHTs
 - [Chord Wiki](https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
 - [UPnP](https://en.wikipedia.org/wiki/Universal_Plug_and_Play)
 
+GossipProtocols
+- [gosspip part 1](http://www.inf.u-szeged.hu/~jelasity/talks/saso07tutorial.pdf)
+- [gosspip part 2](http://www.inf.u-szeged.hu/~jelasity/ddm/gossip.pdf)
+- [blog on gosspip](http://highscalability.com/blog/2011/11/14/using-gossip-protocols-for-failure-detection-monitoring-mess.html)
+- [Monitoring with gossip](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=BF3599A5A91C1AA757881327A75E22EA?doi=10.1.1.160.2604&rep=rep1&type=pdf)
+- [gossip wiki](https://en.wikipedia.org/wiki/Gossip_protocol)
+
 Kademlia
 - [k dht 1](https://github.com/jinroh/kadoh)
 - [k dht 2](https://github.com/jeanlauliac/kademlia-dht)
