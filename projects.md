@@ -105,6 +105,8 @@
 - Hashtable
     - [Implementation I](https://github.com/watmough/jwHash)
     - [Implementation II](https://github.com/jamesroutley/write-a-hash-table)
+- A DHT
+    - See gsheets
 - Sniffer
     - [GUI Toy in C](https://github.com/onestraw/sniffer)
 - Logging Library

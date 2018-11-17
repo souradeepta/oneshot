@@ -1,6 +1,7 @@
 # Notes on systems
 
 ### Resources
+- [Good Notes Wiki by ShiChao](https://notes.shichao.io/)
 - [Systems Wiki](https://github.com/angrave/SystemProgramming/wiki)
 - [Linkers and Loaders book 1996](https://www.iecc.com/linker/)
 - [Introduction to libuv - Book](http://nikhilm.github.io/uvbook/)
