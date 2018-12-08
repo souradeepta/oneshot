@@ -1,7 +1,9 @@
 # Notes on systems
 
 ### Resources
+- [Good Notes Wiki by ShiChao](https://notes.shichao.io/)
 - [Systems Wiki](https://github.com/angrave/SystemProgramming/wiki)
+- [Linkers and Loaders book 1996](https://www.iecc.com/linker/)
 - [Introduction to libuv - Book](http://nikhilm.github.io/uvbook/)
 - [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html)
 - [How terminals work](http://xn--rpa.cc/essays/term)
@@ -24,7 +26,14 @@
 - [Structure Packaging](http://www.catb.org/esr/structure-packing/)
 - [GC YT Video](https://www.youtube.com/watch?v=k0OOmaMwcV4&t=131s)
 - [Good x86 Book](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html#bookch1.html)
+
+# Linux Performance
 - [Linux Performace tools cheatsheets](http://www.brendangregg.com/linuxperf.html)
+- [Ebpf and perf](http://www.brendangregg.com/linuxperf.htm://www.oreilly.com/ideas/ebpf-and-systems-performance)
+- [Ebpf](http://www.brendangregg.com/ebpf.html)
+- [More on ebpf](http://www.brendangregg.com/blog/2015-05-15/ebpf-one-small-step.html)
+- [Intro to ebpf](https://lwn.net/Articles/740157/)
+
 
 ### Tools
 - [Function pointers](http://fuckingfunctionpointers.com)

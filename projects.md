@@ -105,6 +105,8 @@
 - Hashtable
     - [Implementation I](https://github.com/watmough/jwHash)
     - [Implementation II](https://github.com/jamesroutley/write-a-hash-table)
+- A DHT
+    - See gsheets
 - Sniffer
     - [GUI Toy in C](https://github.com/onestraw/sniffer)
 - Logging Library
@@ -162,3 +164,7 @@
   - [blogpost](https://luminarys.com/posts/writing-a-bittorrent-client.html)
 - Oauth2 client
   - [example written in bash](https://github.com/geekodour/bash-oauth2-client)
+- Simulate Internet
+    - https://mininet.org/
+    - https://github.com/nsec/the-internet
+    - https://github.com/flesueur/mi-lxc
