@@ -9,6 +9,7 @@ know what tla+ is, tutorials are there on lobster
 ### Level 0
 - Blogposts
     - [ ] [What we talk about when we talk about distributed systems](http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
+    - [ ] [Twitter thread](https://twitter.com/tapaswenipathak/status/1071156920377999361)
 - Books
     - [ ] [Distributed Systems 3rd ed](https://drive.google.com/open?id=1H_4ZcH8Z9_oggXLcF_D-a-nmzkLArCbE)
 - Videos
