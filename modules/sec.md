@@ -26,3 +26,4 @@
 - https://lobste.rs/s/fkosun/portier_spiritual_successor_mozilla
 - http://lifepluslinux.blogspot.in/2017/01/look-before-you-paste-from-website-to.html
 - https://ma.ttias.be/terminal-escape-sequences-the-new-xss-for-linux-sysadmins/
+- https://zwischenzugs.com/2018/11/25/six-ways-to-level-up-your-nmap-game/
