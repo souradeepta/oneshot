@@ -3,6 +3,7 @@
 - [GNU Overview Video - good](https://gnunet.org/internetistschuld)
 - [GNU Overview Video - Technical](https://media.ccc.de/v/34c3-ChaosWest-6-privacy_oriented_distributed_networking_for_an_ethical_internet_including_50_subsystems_of_gnunet#t=728)
 - [p2p under the hood 1/4](https://www.youtube.com/watch?v=LXAW4HwFt58&feature=relmfu)
+- [Good webrtc blog](https://webrtchacks.com/)
 
 - http://ajroach42.com/net-neutrality-the-consolidation-of-american-media-and-you/
 - https://freedombone.net/
