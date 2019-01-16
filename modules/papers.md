@@ -10,3 +10,4 @@
 - [Time, clocks, and the ordering of events in a distributed system](https://amturing.acm.org/p558-lamport.pdf)
 - [SkipLists](https://homepage.cs.uiowa.edu/~ghosh/skip.pdf)
 - [Dynamo: Amazon’s Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
+https://functionalcs.github.io/curriculum/
