@@ -27,6 +27,7 @@
 - [Structure Packaging](http://www.catb.org/esr/structure-packing/)
 - [GC YT Video](https://www.youtube.com/watch?v=k0OOmaMwcV4&t=131s)
 - [Good x86 Book](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html#bookch1.html)
+- [Linux Virtual Networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/)
 
 # Linux Performance
 - [Linux Performace tools cheatsheets](http://www.brendangregg.com/linuxperf.html)
