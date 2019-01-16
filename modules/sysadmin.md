@@ -1,28 +1,27 @@
 # Sysadmin Knowledge
 
 ## Prep
-- [ ] Learn how to create unix accounts (users/groups) and how to secure processes, services, and filesystem access using them
+- [X] Learn how to create unix accounts (users/groups) and how to secure processes, services, and filesystem access using them
 - [ ] Learn how to write good bash scripts - scripts that properly handle error conditions, for example
-- [ ] Learn how to automate deployments of application and/or database updates
-- [ ] Learn how to monitor the health of your web server, app server, and database servers.
+- [X] Learn how to automate deployments of application and/or database updates
+- [X] Learn how to monitor the health of your web server, app server, and database servers.
 - [ ] Learn how to operate your VM provider's tools, especially how to automate basic operations like spinning up new instances.
 - [ ] Learn how to monitor performance
 - [ ] Learn what ulimit is, and how to adjust it
 - [ ] Learn to monitor overall system performance
-- [ ] Learn where all the logs for your applications are located
-- [ ] Learn how to set up environment variables for your applications
+- [X] Learn where all the logs for your applications are located
+- [X] Learn how to set up environment variables for your applications
 - [ ] Learn key management
 - [ ] Learn basic networking, and the tools available for troubleshooting (ping, traceroute, nslookup, etc)
-- [ ] Learn how to install/remove/update packages. Then learn how to install versions of that software that are not part of the OS's package manager.
-- [ ] Learn basic file management (symlinking, permissions, etc)
-- [ ] Learn to use the source control and build systems that your development teams are using.
-- [ ] Learn enough about the programming languages that your devs are using that you can properly configure the runtime environment, and so you don't sound like a complete idiot when you ask them something about how their application works.
-- [ ] Learn to stop calling yourself "a devops".
-- [ ] Learn about the delivery methodology of the development team (Scrum, XP, Kanban, Waterfall [probably not!], etc)
-- [ ] Learn vim. That is, learn to use it without any plugins. (not getting into a religious debate here, it's just that vim is installed by default on just about every Linux distro; whereas emacs needs to be installed independently, and almost nobody does that).
-- [ ] Learn your company's configuration management system (assuming they have one - Puppet, Chef, Ansible, etc)
-- [ ] Learn how to install, configure, and operate the web server, app server, database server (if you don't have a separate team for that) and application(s) for the systems you will support.
-- [ ] Learn to troubleshoot and isolate problems. Don't be the guy who blames a problem on the application/developers, when the problem is really an OS/server/network configuration problem.
+- [X] Learn how to install/remove/update packages. Then learn how to install versions of that software that are not part of the OS's package manager.
+- [X] Learn basic file management (symlinking, permissions, etc)
+- [X] Learn to use the source control and build systems that your development teams are using.
+- [X] Learn enough about the programming languages that your devs are using that you can properly configure the runtime environment, and so you don't sound like a complete idiot when you ask them something about how their application works.
+- [X] Learn to stop calling yourself "a devops".
+- [X] Learn vim. That is, learn to use it without any plugins. (not getting into a religious debate here, it's just that vim is installed by default on just about every Linux distro; whereas emacs needs to be installed independently, and almost nobody does that).
+- [X] Learn your company's configuration management system (assuming they have one - Puppet, Chef, Ansible, etc)
+- [X] Learn how to install, configure, and operate the web server, app server, database server (if you don't have a separate team for that) and application(s) for the systems you will support.
+- [X] Learn to troubleshoot and isolate problems. Don't be the guy who blames a problem on the application/developers, when the problem is really an OS/server/network configuration problem.
 - [ ] Learn how to mount network shares
 
 ## The real part
