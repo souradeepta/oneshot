@@ -8,7 +8,7 @@
 - [ ] BFS, DFS, AVL, Suffix Array, Trep
 - [ ] Sorting, String Matching, Skip Lists
 - [ ] DP, Greedy, Convex Hull, Disjoint Sets
-- [ ] Pathfinding Algorithm, A*, Djkastra
+- [ ] Pathfinding Algorithm, A(star), Djkastra
 - [ ] Bloom Filter, Huffman Coding
 - [ ] [Ray tracing](https://www.gamedev.net/articles/programming/graphics/ray-tracing-part-1-r3556/)
 

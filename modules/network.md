@@ -3,6 +3,7 @@
 Use emojis to mark important once when you actually start the module.
 
 ### Resources
+- [VLANS and Linux](https://serverfault.com/questions/858556/transparent-firewall-with-nftables-and-vlans)
 - [Internet Protocol Design and Implementation](http://www.root.org/ip-development/) : Lots of resources here.
 - [irc protocol docs](https://modern.ircdocs.horse)
 - [ck10 Problem](http://www.kegel.com/c10k.html)
