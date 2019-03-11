@@ -64,7 +64,8 @@ This is what I tell people to do, who ask me "how do I learn to be a Linux sysad
 
 ### Level 0
 - Basic Stuff as a user I should know
-    - learn curl
+    - learn curl https://ec.haxx.se/
+    - BPF, tc, iptables, iproute2, etc.
     - learn to use tor
     - read git pro
     - [Writing systemd service](https://blog.akerl.org/2016/05/26/systemd-services-are-easy/)
