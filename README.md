@@ -25,8 +25,6 @@ I know these things will take some time, and it won't happen in 7 months, but, a
 
 ### __`Q: Why is this so important to me?`__
 
-I'm dumb. I think I might suffer from imposter syndrome because it might make me feel good about myself sometimes, but the bottom line is - I'm ultra-dumb. 
-
 I can't do simple mathematics calculations properly. Somehow, I'm good with computers, but I'm advancing my studies, being dumb will cause problems in future. So, this year I'm going to play smart with a dumb move, i.e., take a year back.
 
 I've been coding in different languages, made few web apps in the last two years, but I'm master of none. I've contributed to the Open Source projects, but none of those patches I sent were correct in the first place (I know, it does not have to be like that, but anyway, this is how I feel). I can program, but I'm a bad programmer. I want to be a good programmer, a real programmer, just like the people say. OneShot is all about that. 
