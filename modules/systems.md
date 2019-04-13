@@ -1,6 +1,7 @@
 # Notes on systems
 
 ### Resources
+- [ Linux tracing ](https://nanxiao.gitbooks.io/perf-little-book/content/)
 - [Good Notes Wiki by ShiChao](https://notes.shichao.io/)
 - [Netlink in Go](https://blog.gopheracademy.com/advent-2018/exploring-byte-parsing-apis-in-go/)
 - [Systems Wiki](https://github.com/angrave/SystemProgramming/wiki)
