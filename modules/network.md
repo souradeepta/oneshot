@@ -3,6 +3,7 @@
 Use emojis to mark important once when you actually start the module.
 
 ### Resources
+- [Linux network performance](https://github.com/leandromoreira/linux-network-performance-parameters)
 - [VLANS and Linux](https://serverfault.com/questions/858556/transparent-firewall-with-nftables-and-vlans)
 - [Internet Protocol Design and Implementation](http://www.root.org/ip-development/) : Lots of resources here.
 - [irc protocol docs](https://modern.ircdocs.horse)
