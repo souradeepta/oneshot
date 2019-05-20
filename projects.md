@@ -168,5 +168,4 @@
     - https://mininet.org/
     - https://github.com/nsec/the-internet
     - https://github.com/flesueur/mi-lxc
-
-    k
+- https://codingnest.com/modern-sat-solvers-fast-neat-and-underused-part-3-of-n/
