@@ -35,6 +35,7 @@ know what tla+ is, tutorials are there on lobster
 ### Level 3
 - Blogposts
     - [ ] [Books about network protocol design](https://lobste.rs/s/f2bukl/book_recommendations_about_network)
+    - [ ] [Service Meshes by a good person](http://jpetazzo.github.io/2019/05/17/containers-microservices-service-meshes/)
     - [ ] [Basic Paxos Implementation](http://nil.csail.mit.edu/6.824/2015/notes/paxos-code.html)
     - [ ] [Paxos Explained](http://muratbuffalo.blogspot.in/2018/01/paxos-derived.html)
     - [ ] [Comparing Message Brokers](https://bravenewgeek.com/dissecting-message-queues/)
