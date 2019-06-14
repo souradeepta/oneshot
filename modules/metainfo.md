@@ -4,6 +4,7 @@
 - [ ] [Number Representation](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)
 - [ ] [Another Number representation - Math Heavy](http://www.introtcs.org/public/lec_02_representation.html)
 - [ ] [Floating point visually explained](http://fabiensanglard.net/floating_point_visually_explained/)
+- [ _] [Formatting floating point](http://www.zverovich.net/2019/02/11/formatting-floating-point-numbers.html)
 - [ ] [Good Post](http://floating-point-gui.de)
 - [ ] [Oracle Paper on Floating Point](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 - [ ] [Demystifying Floating Point Precision](https://blog.demofox.org/2017/11/21/floating-point-precision/)
