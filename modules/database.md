@@ -12,6 +12,7 @@
     - [postgresguide](http://www.postgresguide.com/)
     - [sqlite3](http://tech.marksblogg.com/sqlite3-tutorial-and-guide.html)
     - [pgexercise](https://pgexercises.com/)
+    - [leveldb](https://skipperkongen.dk/2013/02/14/having-a-look-at-leveldb/)
 - [What is redis](https://matt.sh/what-is-redis)
 - [Disk Storage Talk](https://www.youtube.com/watch?v=e1wbQPbFZdk)
 - [Database Design Rules](https://www.codeproject.com/articles/359654/important-database-designing-rules-which-i-fo)

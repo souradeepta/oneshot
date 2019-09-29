@@ -6,6 +6,7 @@ I think a valuable takeaway point for those interested in writing their own comp
 - [Compiler Resources](http://c9x.me/compile/bib/)
 - [Parsing Timeline](https://lobste.rs/s/pkfdah/parsing_timeline)
 - [Parsing Guide](https://tomassetti.me/guide-parsing-algorithms-terminology/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
+- [Advice](https://news.ycombinator.com/item?id=20914046)
 
 ### Level 0
 - MOOC

@@ -1,6 +1,7 @@
 ## Advices
 -  Make sure to do spaced repetition
 - give more than you take.
+- “A three-line proof of a subtle theorem is the distillation of years of activity.  Reading mathematics… involves a return to the thinking that went into the writing”
 
 
 - [Tweet about career](https://twitter.com/patio11/status/936615043126370306)
