@@ -2,16 +2,16 @@
 
 ## Prep
 - [X] Learn how to create unix accounts (users/groups) and how to secure processes, services, and filesystem access using them
-- [ ] Learn how to write good bash scripts - scripts that properly handle error conditions, for example
+- [X] Learn how to write good bash scripts - scripts that properly handle error conditions, for example
 - [X] Learn how to automate deployments of application and/or database updates
 - [X] Learn how to monitor the health of your web server, app server, and database servers.
-- [ ] Learn how to operate your VM provider's tools, especially how to automate basic operations like spinning up new instances.
-- [ ] Learn how to monitor performance
+- [X] Learn how to operate your VM provider's tools, especially how to automate basic operations like spinning up new instances.
+- [X] Learn how to monitor performance
 - [ ] Learn what ulimit is, and how to adjust it
-- [ ] Learn to monitor overall system performance
+- [X] Learn to monitor overall system performance
 - [X] Learn where all the logs for your applications are located
 - [X] Learn how to set up environment variables for your applications
-- [ ] Learn key management
+- [X] Learn key management
 - [ ] Learn basic networking, and the tools available for troubleshooting (ping, traceroute, nslookup, etc)
 - [X] Learn how to install/remove/update packages. Then learn how to install versions of that software that are not part of the OS's package manager.
 - [X] Learn basic file management (symlinking, permissions, etc)
